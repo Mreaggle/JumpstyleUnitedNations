@@ -18,7 +18,7 @@ https://www.instagram.com/jumpstyleunitednations
 Sign the Jumpstyle Peace Treaty on https://www.change.org/p/jumpstyle-peace-treaty
 ![image](https://github.com/user-attachments/assets/8c39e406-f9c6-49fa-a169-10a0e1573e4d)
 
-# Implement the Standards
+# Implementing the Standards
 Select your preferred language (EN/ES/PT) and read the PDF to start implementing the standards on your own pace.
 
 Be a part of Jumpstyle future.
