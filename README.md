@@ -24,11 +24,12 @@ Select your preferred language (EN/ES/PT) and read the PDF to start implementing
 Be a part of Jumpstyle future.
 
 # Online Poll Platforms
+A curated list of websites for online voting service, paid/enterprise serviced will be flagged as PAID before their names.
 
 1. [StrawPoll](https://www.strawpoll.me/)
 2. [Doodle](https://doodle.com/)
 3. [Google Forms](https://forms.google.com/)
-4. [SurveyMonkey](https://www.surveymonkey.com/)
+4. [PAID - SurveyMonkey](https://www.surveymonkey.com/)
 5. [Typeform](https://www.typeform.com/)
 6. [Poll Everywhere](https://www.polleverywhere.com/)
 7. [Kahoot!](https://kahoot.com/)
@@ -50,8 +51,8 @@ Be a part of Jumpstyle future.
 23. [Qzzr](https://www.qzzr.com/)
 24. [LimeSurvey](https://www.limesurvey.org/)
 25. [EasyPolls](https://www.easypolls.net/)
-26. [SurveyGizmo (Alchemer)](https://www.alchemer.com/)
+26. [PAID - SurveyGizmo (Alchemer)](https://www.alchemer.com/)
 27. [Formstack](https://www.formstack.com/)
-28. [GetFeedback](https://www.getfeedback.com/)
+28. [PAID - GetFeedback](https://www.getfeedback.com/)
 29. [Micropoll](http://www.micropoll.com/)
 30. [Zoho Polls](https://www.zoho.com/survey/polls.html)
