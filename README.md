@@ -22,3 +22,36 @@ Sign the Jumpstyle Peace Treaty on https://www.change.org/p/jumpstyle-peace-trea
 Select your preferred language (EN/ES/PT) and read the PDF to start implementing the standards on your own pace.
 
 Be a part of Jumpstyle future.
+
+# Online Poll Platforms
+
+1. [StrawPoll](https://www.strawpoll.me/)
+2. [Doodle](https://doodle.com/)
+3. [Google Forms](https://forms.google.com/)
+4. [SurveyMonkey](https://www.surveymonkey.com/)
+5. [Typeform](https://www.typeform.com/)
+6. [Poll Everywhere](https://www.polleverywhere.com/)
+7. [Kahoot!](https://kahoot.com/)
+8. [Mentimeter](https://www.mentimeter.com/)
+9. [Crowdsignal](https://crowdsignal.com/)
+10. [Slido](https://www.sli.do/)
+11. [Socrative](https://www.socrative.com/)
+12. [PollMaker](https://www.poll-maker.com/)
+13. [Polltab](https://polltab.com/)
+14. [Quizizz](https://quizizz.com/)
+15. [SurveyLegend](https://www.surveylegend.com/)
+16. [Zoho Survey](https://www.zoho.com/survey/)
+17. [Microsoft Forms](https://forms.office.com/)
+18. [Pigeonhole Live](https://www.pigeonholelive.com/)
+19. [Tricider](https://www.tricider.com/)
+20. [Quizlet](https://quizlet.com/)
+21. [Survio](https://www.survio.com/)
+22. [Obsurvey](https://www.obsurvey.com/)
+23. [Qzzr](https://www.qzzr.com/)
+24. [LimeSurvey](https://www.limesurvey.org/)
+25. [EasyPolls](https://www.easypolls.net/)
+26. [SurveyGizmo (Alchemer)](https://www.alchemer.com/)
+27. [Formstack](https://www.formstack.com/)
+28. [GetFeedback](https://www.getfeedback.com/)
+29. [Micropoll](http://www.micropoll.com/)
+30. [Zoho Polls](https://www.zoho.com/survey/polls.html)
