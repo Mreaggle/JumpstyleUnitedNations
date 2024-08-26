@@ -43,7 +43,7 @@ Find next jumpers at Nation-Communities with considerable activities in the last
    9. [⚐ SP - Jumpstyle São Paulo](https://www.instagram.com/jumpstylebrasil) 📝          
 3. [🇨🇱 CHI - Jumpstyle Chile](https://doodle.com/)
 4. [🇻🇪 VEN - Hard&Jump Venezuela](https://facebook.com/groups/hardjumpvenezuela/)
-5. [RUS - Jumpstyle House/ДЖАМПСТАЙЛ ХАУС](https://t.me/jumpstyle_house)
+5. [🇷🇺 RUS - Jumpstyle House/ДЖАМПСТАЙЛ ХАУС](https://t.me/jumpstyle_house)
 6. [🇪🇸 SPA - Jumpstyle League Series](https://www.instagram.com/jumpstyleleagueseries/)
 7. [🇲🇽 MEX - JumpPro](https://facebook.com/profile.php?id=100063658146365)
 8. [🇵🇱 POL - Jumpstyle Polska](https://facebook.com/jumpstylepolska/)
