@@ -53,7 +53,7 @@ Find next jumpers at Nation-Communities with considerable activities in the last
 12. [🇦🇷 ARG - White Wings/Jumpstyle Argentina](https://web.facebook.com/jumpstyleitaly)
 13. [🇺🇦 UKR - Jumpstyle Ukraine/](https://vk.com/club1461393)
 14. [🇯🇵 JAP - Japan Hard Dancerz](https://web.facebook.com/japanharddancers)
-15. [🇨🇿 CZE - Japan Hard Dancerz](https://web.facebook.com/czechjumpers)
+15. [🇨🇿 CZE - Czech Hardcore Jumpers](https://web.facebook.com/czechjumpers)
 
      
 # Utilities
