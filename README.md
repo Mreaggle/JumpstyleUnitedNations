@@ -20,13 +20,13 @@ Select your preferred language (EN/ES/PT) and read the PDF to start implementing
 # 🌐 Global Communities
 Global communities with considerable activities in the last 2 years.
 
-1.[🌐 GLOBAL - Jumpstyle United Nations](https://www.instagram.com/jumpstyleunitednations)
-2.[🌐 GLOBAL - World Jumpstyle League](discord.gg/fYmADSNj8Q)
-3.[🌐 GLOBAL - Jumpstylers in the World](https://web.facebook.com/groups/178930648811330)
-4.[🌐 GLOBAL - jumpstyle ownstyle hardjump sidejump](facebook.com/groups/102130139868677/)
-5.[🌐 GLOBAL - Jumpstyle Family](https://web.facebook.com/groups/1552552431679587/) 
-6.[🌐 GLOBAL - Jumpstyle](https://web.facebook.com/groups/392953070762181/)
-7.[🌐 GLOBAL - JumpStyle!](https://web.facebook.com/groups/453226124709754/)
+1. [🌐 GLOBAL - Jumpstyle United Nations](https://www.instagram.com/jumpstyleunitednations)
+2. [🌐 GLOBAL - World Jumpstyle League](discord.gg/fYmADSNj8Q)
+3. [🌐 GLOBAL - Jumpstylers in the World](https://web.facebook.com/groups/178930648811330)
+4. [🌐 GLOBAL - jumpstyle ownstyle hardjump sidejump](facebook.com/groups/102130139868677/)
+5. [🌐 GLOBAL - Jumpstyle Family](https://web.facebook.com/groups/1552552431679587/) 
+6. [🌐 GLOBAL - Jumpstyle](https://web.facebook.com/groups/392953070762181/)
+7. [🌐 GLOBAL - JumpStyle!](https://web.facebook.com/groups/453226124709754/)
 
 # 🏳️ Nation-Communities
 Find next jumpers at Nation-Communities with considerable activities in the last 2 years.
