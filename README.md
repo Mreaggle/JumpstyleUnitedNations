@@ -68,12 +68,12 @@ Find next jumpers at Nation-Communities with considerable activities in the last
 7. [🇲🇽 MEX - JumpPro](https://facebook.com/profile.php?id=100063658146365)
 8. [🇵🇱 POL - Jumpstyle Polska](https://facebook.com/jumpstylepolska/)
 9. [🇮🇩 INDO - Jumpstyle Indonesia](https://facebook.com/groups/209800682426697/)
-10.[🇫🇷 FRA - French Jumpstyle](https://facebook.com/JumpstyleFrance)
-11.[🇮🇹 ITA - Jumpstyle Italia](https://www.instagram.com/jumpstyleargentina/)
-12.[🇦🇷 ARG - White Wings/Jumpstyle Argentina](https://web.facebook.com/jumpstyleitaly)
-13.[🇺🇦 UKR - Jumpstyle Ukraine/](https://vk.com/club1461393)
-14.[🇯🇵 JAP - Japan Hard Dancerz](https://web.facebook.com/japanharddancers)
-15.[🇨🇿 CZE - Japan Hard Dancerz](https://web.facebook.com/czechjumpers)
+10. [🇫🇷 FRA - French Jumpstyle](https://facebook.com/JumpstyleFrance)
+11. [🇮🇹 ITA - Jumpstyle Italia](https://www.instagram.com/jumpstyleargentina/)
+12. [🇦🇷 ARG - White Wings/Jumpstyle Argentina](https://web.facebook.com/jumpstyleitaly)
+13. [🇺🇦 UKR - Jumpstyle Ukraine/](https://vk.com/club1461393)
+14. [🇯🇵 JAP - Japan Hard Dancerz](https://web.facebook.com/japanharddancers)
+15. [🇨🇿 CZE - Japan Hard Dancerz](https://web.facebook.com/czechjumpers)
 
      
 # Utilities
@@ -88,9 +88,9 @@ Request unknown songs, playlists and more stuff you would like to know!
 7. [Tibirius Curiosities (PT-BR)](https://www.tiktok.com/@tibitoker)
 8. [Jumpstyle Roadmap (PT-BR)](https://jumpstyle.com.br/#roadmap)
 9. [YT - Golden Era Jumper Playlist](https://www.youtube.com/watch?v=WHEyUDt0U1g&list=PLZqEDYStFZmbF3Tv2hiJgLugJYViEuPjF&pp=gAQBiAQB)
-10.[SPOTIFY - Golden Era Jumper Playlist](https://shorturl.at/jKRT8)
-11.[Jumper Manifesto (PT-BR)](https://jumpstyle.com.br/#manifesto)
-12.[Jumpstyle FAQ (PT-BR)](https://jumpstyle.com.br/#faq)
+10. [SPOTIFY - Golden Era Jumper Playlist](https://shorturl.at/jKRT8)
+11. [Jumpstyle FAQ (PT-BR)](https://jumpstyle.com.br/#faq)
+12. [Jumper Manifesto (PT-BR)](https://jumpstyle.com.br/#manifesto)
 
 
 # Online Poll Platforms
