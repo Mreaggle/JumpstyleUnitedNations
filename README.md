@@ -60,7 +60,7 @@ Find next jumpers at Nation-Communities with considerable activities in the last
    6. [⚐ GO - Jumpstyle Goiás](https://www.instagram.com/jumpstylegoias/) 📝
    7. [⚐ PR - Jumpstyle Paraná](https://www.instagram.com/jumpstyle.parana/) 📝
    8. [⚐ RJ - Jumpstyle Rio de Janeiro](https://www.instagram.com/jumpstyle.parana/) 📝
-   9. [⚐ SP - Jumpstyle São Paulo](https://www.instagram.com/jumpstyle_riodejaneiro/) 📝          
+   9. [⚐ SP - Jumpstyle São Paulo](https://www.instagram.com/jumpstylebrasil) 📝          
 3. [🇨🇱 CHI - Jumpstyle Chile](https://doodle.com/)
 4. [🇻🇪 VEN - Hard&Jump Venezuela](https://facebook.com/groups/hardjumpvenezuela/)
 5. [RUS - Jumpstyle House/ДЖАМПСТАЙЛ ХАУС](https://t.me/jumpstyle_house)
