@@ -76,7 +76,7 @@
 #### 2005 🇳🇱 🇧🇪 🇫🇷 :
 >Belgium gets more into France and less into The Netherlands, Tekstyle appears as an underground answer to mainstream Jumpstyle
   - [Europeans share Jumpstyle videos through Google Videos](#)
-  - [Patrick Jumpen hits #1 with "Holiday" in The Netherlands radios, finally defining a whole new scene for the dance. The underground music industry goes to the other side.](https://en.wikipedia.org/wiki/Teknival)
+
   - [Belgium underground music community, inspired by French Teknival culture, changes Jumpstyle name to Tekstyle, maintaining the non-structured and club-based essence of the dance. Tekstyle represented the underground scene while Jumpstyle quickly turned into a viral mainstream dance during the summer.](https://en.wikipedia.org/wiki/Teknival)
   
   ---
@@ -93,7 +93,8 @@
 >Patrick Jumpen is now a global hit, 'The Secret' is one of the most viewed videos ever, being #1 for weeks and also selling a lot of DVDs.
   - [Jumpstyle turns Global.](#)  
   - [Jumpstyle appears on TV shows and commercials.](#)
-  - [Different mainstream artists become viral together, as Jeckyll & Hyde and Scooter.](#)
+  -   - [Patrick Jumpen hits #1 with "Holiday" in The Netherlands radios, finally defining a whole new scene for the dance. The underground music industry goes to the other side.](https://www.discogs.com/pt_BR/release/974866-Patrick-Jumpen-Holiday)
+  - [Different mainstream artists become viral together, as Patrick Jumpen, Jeckyll & Hyde, Scooter and DJ Porny.](#)
 ---
 
 ### Internet/Competitive Era
