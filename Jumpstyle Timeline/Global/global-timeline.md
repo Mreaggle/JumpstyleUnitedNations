@@ -275,6 +275,8 @@
 ---
 ### Internet/Competitive/Facebook/Jumpstyle Era
 #### 2014: [Brief Overview of Contributions]
+>Jumpstyle walks to a universal dance, and community decides to ignore all past terms besides Jumpstyle.
+
 - **January**: 
   - [Event or Contribution 1](#)
   
