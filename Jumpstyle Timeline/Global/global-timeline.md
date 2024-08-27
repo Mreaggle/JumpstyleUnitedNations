@@ -121,551 +121,92 @@
 
 #### 2010 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
   
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
 ---
 
 #### 2011 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
   
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
 ---
 
 #### 2012 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
 
 ---
 
 #### 2013 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
+  - [Needs contribution](#)
+ 
 ---
+
 ### Internet/Competitive/Facebook/Jumpstyle Era
 #### 2014 🌐 : [Brief Overview of Contributions]
 >Jumpstyle walks to a universal dance, and community decides to ignore all past terms besides Jumpstyle.
 
 - **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
 
 ---
 
 #### 2015 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
   
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
 ---
 
 #### 2016 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
 
 ---
 
 #### 2017 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
 
 ---
 
 #### 2018 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
   
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
 ---
 
 #### 2019 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
   
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
 ---
+
 ### TikTok/Yabujin/RomancePlanet/Pandemics Era
 #### 2020 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
 
 ---
 
 #### 2021 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
 
 ---
 
 #### 2022 🌐 : [Brief Overview of Contributions]
 - **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+  - [Needs contribution](#)
 
 ---
 
 ### Oldgen vs Newgen Era
 #### 2023: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+>The short-video based platforms create a whole new mainstream envinronment of newgen dancers, mostly based on Yabujincore aesthetic. This creates resistance between members of both cultures.
 
+- **January**: 
+  - [Needs contribution](#)
 ---
 ### Jumpstyle Peace Era
 #### 2024: [Brief Overview of Contributions]
