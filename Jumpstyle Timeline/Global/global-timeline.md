@@ -83,17 +83,17 @@
   
 ### Internet/YouTube Era
 #### 2006 🇳🇱 🇪🇺 :
->Patrick Jumpen becomes one of the first success projects on YouTube history, reaching millions of views with Tutorials and Jumpstyle Vlogs. Jumpstyle is already generating communities worldwide and specific technique structures start to develop. 'Jumpstyle' term represents more a dance than a music genre at this point.
+>Patrick Jumpen (Patrick Pereira and Dion Teurlings) becomes one of the first success projects on YouTube history, reaching millions of views with Tutorials and Jumpstyle Vlogs. Jumpstyle is already generating communities worldwide and specific technique structures start to develop. 'Jumpstyle' term represents more a dance than a music genre at this point.
   - [The 4-step “Stamp” basis of Jumpstyle is defined as Hardjump Stamp and new styles emerge from this definition.](#)
     
 ---
 
 ### Internet/Patrick Jumpen/HardJump era
 #### 2007 🇳🇱 🌐 :
->Patrick Jumpen is a global hit, 'The Secret' is one of the most viewed videos ever, being #1 for weeks and also selling a lot of DVDs.
+>Patrick Jumpen is now a global hit, 'The Secret' is one of the most viewed videos ever, being #1 for weeks and also selling a lot of DVDs.
   - [Jumpstyle turns Global.](#)  
   - [Jumpstyle appears on TV shows and commercials.](#)
-
+  - [Different mainstream artists become viral together, as Jeckyll & Hyde and Scooter.](#)
 ---
 
 ### Internet/Competitive Era
@@ -113,6 +113,7 @@
   - [Poland created their own aesthetic and tricks and called it The Ownstyle.](#)  
   - [Russia created their own aesthetic and tricks and called it The Sidejump.](#)  
   - [Jumpers as DannieL and Samurai are the main representatives of Poland and Russia, respectively.](#)
+  - [ItaloBrothers "Stamp On the Ground" turns into a global hit.](https://www.youtube.com/watch?v=cHcVU5cGUNE)
   - [At this point everyone is choosing either Russia or Poland styles to continue evolving, the dance fully goes to the competitive side. At this point, Jumpstyle as a music genre is already shadow-banned in The Netherlands.](#)
   - [One of Jumpstyle's most famous videos ever is published (Berlin 2009).](https://www.youtube.com/watch?v=iWRolPgp9JY&t=6s&pp=ygUQYmVybGluIGp1bXBzdHlsZQ%3D%3D)
 
