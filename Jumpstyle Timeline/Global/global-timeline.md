@@ -89,7 +89,7 @@
 ---
 
 ### Internet/Patrick Jumpen/HardJump era
-#### 2007 🇳🇱 :
+#### 2007 🇳🇱 🌐 :
 >Patrick Jumpen is a global hit, 'The Secret' is one of the most viewed videos ever, being #1 for weeks and also selling a lot of DVDs.
   - [Jumpstyle turns Global.](#)  
   - [Jumpstyle appears on TV shows and commercials.](#)
@@ -97,7 +97,7 @@
 ---
 
 ### Internet/Competitive Era
-#### 2008:
+#### 2008 🌐 :
 >Techniques are well-established and keep evolving every second, Germany, Poland and Russia start to develop their own techniques. People are now dancing to Hardstyle as Jumpstyle is slower than their needs to evolve in speed technique.
   - [Forums and Communities are built among online social networks from all countries, where content and information is centered.](#)
   - [Training methods and judging criteria appear: Power, Onbeat, Variety and Technique](#)
@@ -107,7 +107,7 @@
 ---
 
 ### Internet/Competitive/Ownstyle/Sidejump era
-#### 2009:
+#### 2009 🌐 🇵🇱 🇷🇺 :
 >Jumpstyle structure fully moved to a digital, lateral-based recording and competitive dance, adding new tricks such as: The Wheel, The Spin and The High Kick. Those new movements were hugely influenced by lindy hop, martial arts, tap dance, ballet and even football, as people begun using football boots to dance.
 
   - [Poland created their own aesthetic and tricks and called it The Ownstyle.](#)  
@@ -118,7 +118,7 @@
 
 ---
 
-#### 2010: [Brief Overview of Contributions]
+#### 2010 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -157,7 +157,7 @@
 
 ---
 
-#### 2011: [Brief Overview of Contributions]
+#### 2011 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -196,7 +196,7 @@
 
 ---
 
-#### 2012: [Brief Overview of Contributions]
+#### 2012 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -235,7 +235,7 @@
 
 ---
 
-#### 2013: [Brief Overview of Contributions]
+#### 2013 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -274,7 +274,7 @@
 
 ---
 ### Internet/Competitive/Facebook/Jumpstyle Era
-#### 2014: [Brief Overview of Contributions]
+#### 2014 🌐 : [Brief Overview of Contributions]
 >Jumpstyle walks to a universal dance, and community decides to ignore all past terms besides Jumpstyle.
 
 - **January**: 
@@ -315,7 +315,7 @@
 
 ---
 
-#### 2015: [Brief Overview of Contributions]
+#### 2015 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -354,7 +354,7 @@
 
 ---
 
-#### 2016: [Brief Overview of Contributions]
+#### 2016 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -393,7 +393,7 @@
 
 ---
 
-#### 2017: [Brief Overview of Contributions]
+#### 2017 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -432,7 +432,7 @@
 
 ---
 
-#### 2018: [Brief Overview of Contributions]
+#### 2018 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -471,7 +471,7 @@
 
 ---
 
-#### 2019: [Brief Overview of Contributions]
+#### 2019 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -509,47 +509,8 @@
   - [Event or Contribution 1](#)
 
 ---
-### Instagram/TikTok/Yabujin/RomancePlanet/Pandemics Era
-#### 2020: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-
-#### 2021: [Brief Overview of Contributions]
+### TikTok/Yabujin/RomancePlanet/Pandemics Era
+#### 2020 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -588,7 +549,7 @@
 
 ---
 
-#### 2022: [Brief Overview of Contributions]
+#### 2021 🌐 : [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
   
@@ -627,6 +588,46 @@
 
 ---
 
+#### 2022 🌐 : [Brief Overview of Contributions]
+- **January**: 
+  - [Event or Contribution 1](#)
+  
+- **February**: 
+  - [Event or Contribution 1](#)
+  
+- **March**: 
+  - [Event or Contribution 1](#)
+  
+- **April**: 
+  - [Event or Contribution 1](#)
+  
+- **May**: 
+  - [Event or Contribution 1](#)
+  
+- **June**: 
+  - [Event or Contribution 1](#)
+  
+- **July**: 
+  - [Event or Contribution 1](#)
+  
+- **August**: 
+  - [Event or Contribution 1](#)
+  
+- **September**: 
+  - [Event or Contribution 1](#)
+  
+- **October**: 
+  - [Event or Contribution 1](#)
+  
+- **November**: 
+  - [Event or Contribution 1](#)
+  
+- **December**: 
+  - [Event or Contribution 1](#)
+
+---
+
+### Oldgen vs Newgen Era
 #### 2023: [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
@@ -665,7 +666,7 @@
   - [Event or Contribution 1](#)
 
 ---
-### Jumpstyle Comeback Era
+### Jumpstyle Peace Era
 #### 2024: [Brief Overview of Contributions]
 - **January**: 
   - [Event or Contribution 1](#)
