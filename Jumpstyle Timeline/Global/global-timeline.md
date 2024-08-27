@@ -669,38 +669,11 @@
 ---
 ### Jumpstyle Peace Era
 #### 2024: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
+> Jumpstyle united Worldwide on collaborating to properly tell Jumpstyle history, eliminating barriers between old-gen and new-gen beyond seeking to prevent toxic behavior from separating jumpers by sharing different perspectives and knowledge.
+
+  - [World Jumpstyle League'24](#)
   
-- **February**: 
-  - [Event or Contribution 1](#)
+  - [World Jumpstyle League - Teams Edition'24](#)
   
-- **March**: 
-  - [Event or Contribution 1](#)
+  - [Jumpstyle United Nations is created for collaborative initiatives over Global Jumpstyle.](#)
   
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
