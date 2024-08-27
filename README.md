@@ -63,14 +63,15 @@ Request unknown songs, playlists and more stuff you would like to know!
 2. [All Song for Jumpstyler (Track Request)](https://web.facebook.com/groups/318213055033309)
 3. [POST NEO Tutorials and Tips](https://www.youtube.com/watch?v=K-v4WukyU0o&list=PLZqEDYStFZmYIIByF761INnPVs2ns3dss)
 4. [Mreaggle Fundamental Tutorials](https://www.youtube.com/watch?v=ylhDP4woxbI&list=PLZqEDYStFZmZ4jwzCtBrRP4JbzH5MTUHV)
-5. [Patrick Jumpen Tutorials](https://www.youtube.com/watch?v=7VnOyVfrLg8&list=PLZqEDYStFZmbprpaP9lsPPv_glonkzxrw)
-6. [LuFe Tricks and Combos](https://www.tiktok.com/@lufefbs)
-7. [Tibirius Curiosities (PT-BR)](https://www.tiktok.com/@tibitoker)
-8. [Jumpstyle Roadmap (PT-BR)](https://jumpstyle.com.br/#roadmap)
-9. [YT - Golden Era Jumper Playlist](https://www.youtube.com/watch?v=WHEyUDt0U1g&list=PLZqEDYStFZmbF3Tv2hiJgLugJYViEuPjF&pp=gAQBiAQB)
-10. [SPOTIFY - Golden Era Jumper Playlist](https://shorturl.at/jKRT8)
-11. [Jumpstyle FAQ (PT-BR)](https://jumpstyle.com.br/#faq)
-12. [Jumper Manifesto (PT-BR)](https://jumpstyle.com.br/#manifesto)
+5. [Yarche Hardjump and Stretching Tutorial](https://www.youtube.com/watch?v=ASe4Yd-Jjqg)
+6. [Patrick Jumpen Tutorials](https://www.youtube.com/watch?v=7VnOyVfrLg8&list=PLZqEDYStFZmbprpaP9lsPPv_glonkzxrw)
+7. [LuFe Tricks and Combos](https://www.tiktok.com/@lufefbs)
+8. [Tibirius Curiosities (PT-BR)](https://www.tiktok.com/@tibitoker)
+9. [Jumpstyle Roadmap (PT-BR)](https://jumpstyle.com.br/#roadmap)
+10. [YT - Golden Era Jumper Playlist](https://www.youtube.com/watch?v=WHEyUDt0U1g&list=PLZqEDYStFZmbF3Tv2hiJgLugJYViEuPjF&pp=gAQBiAQB)
+11. [SPOTIFY - Golden Era Jumper Playlist](https://shorturl.at/jKRT8)
+12. [Jumpstyle FAQ (PT-BR)](https://jumpstyle.com.br/#faq)
+13. [Jumper Manifesto (PT-BR)](https://jumpstyle.com.br/#manifesto)
 
 
 # Online Poll Platforms
