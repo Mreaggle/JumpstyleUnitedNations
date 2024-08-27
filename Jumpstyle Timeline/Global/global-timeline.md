@@ -93,8 +93,9 @@
 >Patrick Jumpen is now a global hit, 'The Secret' is one of the most viewed videos ever, being #1 for weeks and also selling a lot of DVDs.
   - [Jumpstyle turns Global.](#)  
   - [Jumpstyle appears on TV shows and commercials.](#)
-  -   - [Patrick Jumpen hits #1 with "Holiday" in The Netherlands radios, finally defining a whole new scene for the dance. The underground music industry goes to the other side.](https://www.discogs.com/pt_BR/release/974866-Patrick-Jumpen-Holiday)
-  - [Different mainstream artists become viral together, as Patrick Jumpen, Jeckyll & Hyde, Scooter and DJ Porny.](#)
+  - [Patrick Jumpen hits #1 with "Holiday" in The Netherlands radios, finally defining a whole new scene for the dance. The underground music industry goes to the other side.](https://www.discogs.com/pt_BR/release/974866-Patrick-Jumpen-Holiday)
+  - [Different mainstream artists become viral together, as Patrick Jumpen, Coone, Jeckyll & Hyde, Scooter and DJ Porny.](#)
+  - [Coone releases "The Return", the song that made jumpstyle spread even more](https://www.discogs.com/pt_BR/release/1131509-Coone-The-Return-Remixes)
 ---
 
 ### Internet/Competitive Era
