@@ -1,10 +1,17 @@
 # $\color{Aquamarine}{🌐\ JumpstyleUnitedNations}$ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# Volunteers:
-🇧🇷🇻🇪🇳🇱🇨🇱🇪🇸🇵🇱🇷🇺🇯🇵🇧🇪🇮🇹🇫🇷
 ### The Global Jumpstyle scene body to improve archive-maintaining, relationship-building and accurate information-spreading worldwide.
 
 Browse through voluntarily developed, free and open projects, frameworks, standards and utilities to help on Jumpstyle Community decentralized knowledge and maintenance.
 # :running: Quickstart
+
+>Currently volunteering
+>-----------------------------------
+> |🇧🇷 (8) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) 
+> -----------------------------------
+> |🇪🇸 (2) | 🇵🇱 (4) | 🇷🇺 (1) | 🇯🇵 (1)
+> -----------------------------------
+> |🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (?)
+> -----------------------------------
  - [🔄 Running Projects](https://github.com/Mreaggle/JumpstyleUnitedNations?tab=readme-ov-file#-currently-supported-projects)
  - [❓ WTF is GitHub](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main?tab=readme-ov-file#-what-is-github)
  - [📸 Main Page](https://instagram.com/JumpstyleUnitedNations)
