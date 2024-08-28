@@ -6,7 +6,7 @@
 
 1. Let's take a step back by opening JUN GitHub repository in a new tab, entering 'Jumpstyle Timeline' directory and then commit a change to Global/global-timeline.md by opening Global directory, and editing the '.md' file.
 2. In the upper right corner of the file view, click the pencil figure to open the file editor.
-3. In the text box, type some information about yourself.
+3. In the text box, type some information about your experience or knowledge.
 4. Above the new content, click Preview to see if it matches your expctations.
 5. Review the changes you made to the file by checking Show diff box. You will see the new content in green.
 6. Click Commit changes...
