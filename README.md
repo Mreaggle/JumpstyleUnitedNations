@@ -1,35 +1,41 @@
-# 🌐 JumpstyleUnitedNations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# $\color{Aquamarine}{🌐\ JumpstyleUnitedNations}$ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## The Global Jumpstyle scene body to improve archive-maintaining, relationship-building and accurate information-spreading worldwide.
+### The Global Jumpstyle scene body to improve archive-maintaining, relationship-building and accurate information-spreading worldwide.
 
-Browse through voluntarily developed, free and open projects, frameworks, standards and utilities to help on Jumpstyle Community decentralized and volunteered maintenance.
-
->Find jumpers, communities, utilities, events and more!
->>Sign the peace treaty to show you care for the dance!
+Browse through voluntarily developed, free and open projects, frameworks, standards and utilities to help on Jumpstyle Community decentralized knowledge and maintenance.
+# :running: Quickstart
+ - [🔄 Running Projects](https://github.com/Mreaggle/JumpstyleUnitedNations?tab=readme-ov-file#currently-supported-projects)
+ - [❓ WTF is GitHub](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main?tab=readme-ov-file#what-is-github)
+ - [🗳️ Voting Tools](https://github.com/Mreaggle/JumpstyleUnitedNations?tab=readme-ov-file#online-poll-platforms)
 
 ### 🕊️ Feel free to share your perspective on your national jumpstyle scene, let’s achieve people with less access to information so they can discover our whole world!
 
-# Volunteering
+# :muscle: Volunteering
 Nominate key-figures for specific projects, or volunteer yourself by our Instagram DM: [@jumpstyleunitednations](https://instagram.com/jumpstyleunitednations)
->Nations volunteering: 🇧🇷🇻🇪🇳🇱🇨🇱🇪🇸🇵🇱🇷🇺🇯🇵🇧🇪🇮🇹🇫🇷
+> Current Volunteers: 🇧🇷🇻🇪🇳🇱🇨🇱🇪🇸🇵🇱🇷🇺🇯🇵🇧🇪🇮🇹🇫🇷
+>Current Projects you can contribute:
+ - [Nation-community mapping (Hierarchy chart design with Main Chats, Moderators, Organizers, Supporters and National Teams).
+ - [GlobalCommunityArchive (adding Media and text about Experiences, Channels, Groups, Teams, Initiatives, Events and etc.)](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main/GlobalCommunityArchive)
 
-# AWESOME JUMPSTYLE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# :sunglasses: AWESOME JUMPSTYLE :sunglasses: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of 100% free and open frameworks, standards and links to help on Jumpstyle Community building and maintenance.
+A curated list of utilities to help on healthy Jumpstyle Community building and maintenance.
 
 # Submitting a Nation
-Submit your nation by sending a request to @jumpstyleunitednations on Instagram.
-https://www.instagram.com/jumpstyleunitednations
+If you don't see your nation in the list, submit your nation by sending a request to [@jumpstyleunitednations](https://www.instagram.com/jumpstyleunitednations) on Instagram.
+
 
 # Signing the Jumpstyle Peace Treaty
-Show your nation cares for the wellbeing of our dance: [Sign the Jumpstyle Peace Treaty](https://www.change.org/p/jumpstyle-peace-treaty)
+The Jumpstyle Peace Treaty is basically JUN's modus operandi, we believe that by ensuring basic common things from kids to adults, we can have peace at the Global Community and build really healthy relationships worldwide, learning and forgetting about bad behavior we've experienced as a Community.
+
+Learn and Sign the Peace Treaty if you agree to be in peace when Jumpstyle is the matter: [Sign the Jumpstyle Peace Treaty!](https://www.change.org/p/jumpstyle-peace-treaty)
 
 # Implementing the Standards
-Select your preferred language (EN/ES/PT) and read the PDF to start implementing the standards on your own pace.
+Select your preferred language (EN/ES/PT) and read the PDFs to start implementing the standards on your own pace, our frameworks can also be discussed and reviewed by volunteers.
 >Be a part of Jumpstyle future.
 
 # 🌐 Global Communities
-Global communities with considerable activities in the last 2 years.
+[Global communities](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main/GlobalCommunityArchive/Continents) with considerable activities in the last 2 years.
 
 1. [🌐 GLOBAL - Jumpstyle United Nations](https://www.instagram.com/jumpstyleunitednations)
 2. [🌐 GLOBAL - World Jumpstyle League](discord.gg/fYmADSNj8Q)
@@ -52,7 +58,7 @@ Find next jumpers at Nation-Communities with considerable activities in the last
    7. [⚐ PR - Jumpstyle Paraná](https://www.instagram.com/jumpstyle.parana/) 📝
    8. [⚐ RJ - Jumpstyle Rio de Janeiro](https://www.instagram.com/jumpstyle.parana/) 📝
    9. [⚐ SP - Jumpstyle São Paulo](https://www.instagram.com/jumpstylebrasil) 📝          
-3. [🇨🇱 CHI - Jumpstyle Chile](https://doodle.com/)
+3. [🇨🇱 CHI - Jumpstyle Chile](https://www.instagram.com/jumpstylechile/)
 4. [🇻🇪 VEN - Hard&Jump Venezuela](https://facebook.com/groups/hardjumpvenezuela/)
 5. [🇷🇺 RUS - Jumpstyle House/ДЖАМПСТАЙЛ ХАУС](https://t.me/jumpstyle_house)
 6. [🇪🇸 SPA - Jumpstyle League Series](https://www.instagram.com/jumpstyleleagueseries/)
@@ -66,7 +72,7 @@ Find next jumpers at Nation-Communities with considerable activities in the last
 14. [🇯🇵 JAP - Japan Hard Dancerz](https://web.facebook.com/japanharddancers)
 15. [🇨🇿 CZE - Czech Hardcore Jumpers](https://web.facebook.com/czechjumpers)
      
-# Utilities
+# 🛠️ Utilities
 Request unknown songs, playlists and more stuff you would like to know!
 
 1. [Track Request - For League Enjoyers](https://facebook.com/groups/Music4Jumpers/?locale=pl_PL)
@@ -83,36 +89,51 @@ Request unknown songs, playlists and more stuff you would like to know!
 12. [Jumpstyle FAQ (PT-BR)](https://jumpstyle.com.br/#faq)
 13. [Jumper Manifesto (PT-BR)](https://jumpstyle.com.br/#manifesto)
 
-**🤝🏻 Current volunteering tasks:**
+# 🤝🏻 Currently supported projects:
+A list of current volunteering projects running over JUN.
 
-• *Mapping Active Volunteer Nations:* Building a hierarchy chart for each Nation by JUN framework perspective.
--  🇧🇷 Brazil ✅
--  🇷🇺 Russia ✅
--  🇨🇱 Chile
--  🇻🇪 Venezuela
--  🇪🇸 Spain
--  🇵🇱 Poland
--  🇯🇵 Japan
--  🇧🇪 Belgium  
--  🇮🇹 Italy
--  🇫🇷 France 
+### • **⏳ Building The Jumpstyle Timeline:**
+[TheJumpstyleTimeline](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main/TheJumpstyleTimeline)
+The biggest collaborative project over Jumpstyle history together with The Jumpstyle Archive. Each nation has different members storytelling what they know and lived over their Jumpstyle journey, everything will sum to a huge timeline tree, that will be open and free to use for the new generations and innovation through the scene.
 
-• *Building Jumpstyle Timeline:* The biggest collaborative project over Jumpstyle history. Each nation has different members storytelling what they know and lived over their Jumpstyle journey, everything will sum to a huge timeline tree, that will be open and free to use for the new generations and innovation through the scene.
+### • **📜 Openly sharing proved-concept frameworks, standards and guides:**
+[CollabJumpstyleFrameworks](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main/CollabJumpstyleFrameworks)
+Write, suggest or share guidelines and standards from your knowledge to the Global Community. Don't care about 100% of the statements, even us still adapting into our own developed standards.
 
-# What is GitHub?
+### • **🏛️ Mapping Active Jumpstyle Nation-Communities:**
+Building hierarchy charts for each Nation matching JUN framework perspective.
+-  🇧🇷 [Brazil Structure](https://github.com/Mreaggle/JumpstyleUnitedNations/blob/main/GlobalCommunityArchive/Continents/Americas/South%20America/Brazil/BrazilStructure.png) ✅
+-  🇷🇺 [Russia Structure](https://github.com/Mreaggle/JumpstyleUnitedNations/blob/main/GlobalCommunityArchive/Continents/Europe/Russia/RussiaStructure.png) ✅
+-  🇨🇱 Chile ⏳
+-  🇻🇪 Venezuela ⏳
+-  🇪🇸 Spain ⏳
+-  🇵🇱 Poland ⏳
+-  🇯🇵 Japan ⏳
+-  🇧🇪 Belgium ⏳
+-  🇮🇹 Italy ⏳
+-  🇫🇷 France ⏳
+  
+### • **📂 Building The Jumpstyle Archive:**
+[TheGlobalCommunityArchive](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main/GlobalCommunityArchive/)
+The biggest collaborative project over Jumpstyle history together with The Jumpstyle Timeline. Each nation has different members populating what they can based both on online finds (available content) and experiences lived (self upload).
+
+### • **📂 Building The Digital Jumpstyle Platform:**
+[TheDigitalJumpstylePlatform](#)
+Future collaborative project on feeding a data model to work in software development with all knowledge abstracted from projects above. This will permit our Community to generate solid Jumpstyle knowledge everywhere by using proper information and fostering software development culture between our Community and newcomers, inclined but not limited to: Artifficial Intelligence, Data Science and Innovation topics.
+
+# 🤔 What is GitHub?
 
 ## GitHub is an online platform where you can collaborate in projects worldwide through text file management.
->[Read HowTo/HowToGitHub.md file for a proper tutorial on how to start typing.](#)
+>[Read HowTo/ files for a quick tutorial and start typing.](https://github.com/Mreaggle/JumpstyleUnitedNations/blob/main/HowTo/)
+
 
 **⚙️ JUN GitHub rules:**
 
 ```
-- *🌐 All Nations can add to Global*
-- *🏳️ A Nation can add to itself*
-- *⛔️ A Nation cannot add to another nation without permission.*
+ 🌐 - All Nations can add to Global
+ 🏳️ - A Nation can add to itself
+ ⛔️ - A Nation cannot add to another nation without permission.
 ```
-
-### [Read HowTo/HowToGitHub.md file for a proper tutorial on how to start typing.](#)
 
 Think of GitHub as a digital library where everyone can edit and improve files in their own sections. For projects like 'TheJumpstyleTimeline' within the repository, each Nation has its own directory, you can update your nation's history and also add them to the Global. By this way, different perspectives on each nation, sum to feed a huge time-oriented file fulfilled of granular information from every single nation that experienced and stills experiencing jumpstyle phenomenon.
 
