@@ -13,8 +13,6 @@ Browse through voluntarily developed, free and open projects, frameworks, standa
 
 ### 🕊️ Feel free to share your perspective on your national jumpstyle scene, let’s achieve people with less access to information so they can discover our whole world!
 
-# :muscle: Volunteering
-Nominate key-figures for specific projects, or volunteer yourself by our Instagram DM: [@jumpstyleunitednations](https://instagram.com/jumpstyleunitednations)
 > Current Volunteers: 🇧🇷🇻🇪🇳🇱🇨🇱🇪🇸🇵🇱🇷🇺🇯🇵🇧🇪🇮🇹🇫🇷
 >Current Projects you can contribute:
  - [Nation-community mapping (Hierarchy chart design with Main Chats, Moderators, Organizers, Supporters and National Teams).
@@ -142,6 +140,9 @@ You can also contribute to the Global folder if you want to share something with
 - _Do not share contacts without permission._
 - _Do not profit over JUN content, use it as an advisor instead._
 - _Do not mess the repository, you don't even have reasons for such thing._
+
+# :muscle: Volunteering
+Nominate key-figures for specific projects, or volunteer yourself by our Instagram DM: [@jumpstyleunitednations](https://instagram.com/jumpstyleunitednations)
 
 # JUN recognized Nation-Community steps
 
