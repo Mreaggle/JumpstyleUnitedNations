@@ -5,7 +5,7 @@
 Browse through voluntarily developed, free and open projects, frameworks, standards and utilities to help on Jumpstyle Community decentralized knowledge and maintenance.
 # :running: Quickstart
  - [🔄 Running Projects](https://github.com/Mreaggle/JumpstyleUnitedNations?tab=readme-ov-file#-currently-supported-projects)
- - [❓ WTF is GitHub](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main?tab=readme-ov-file#what-is-github)
+ - [❓ WTF is GitHub](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main?tab=readme-ov-file#-what-is-github)
  - [📸 Main Page](https://instagram.com/JumpstyleUnitedNations)
  - [🤝 Participate](https://github.com/Mreaggle/JumpstyleUnitedNations#muscle-volunteering)
  - [📋 Awesome Lists](https://github.com/Mreaggle/JumpstyleUnitedNations?tab=readme-ov-file#sunglasses-awesome-jumpstyle-sunglasses-)
