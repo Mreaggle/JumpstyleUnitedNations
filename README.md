@@ -4,8 +4,11 @@
 
 Browse through voluntarily developed, free and open projects, frameworks, standards and utilities to help on Jumpstyle Community decentralized knowledge and maintenance.
 # :running: Quickstart
- - [🔄 Running Projects](https://github.com/Mreaggle/JumpstyleUnitedNations?tab=readme-ov-file#currently-supported-projects)
+ - [🔄 Running Projects](https://github.com/Mreaggle/JumpstyleUnitedNations?tab=readme-ov-file#-currently-supported-projects)
  - [❓ WTF is GitHub](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main?tab=readme-ov-file#what-is-github)
+ - [📸 Main Page](https://instagram.com/JumpstyleUnitedNations)
+ - [🤝 Participate](https://github.com/Mreaggle/JumpstyleUnitedNations#muscle-volunteering)
+ - [📋 Awesome Lists](https://github.com/Mreaggle/JumpstyleUnitedNations?tab=readme-ov-file#sunglasses-awesome-jumpstyle-sunglasses-)
  - [🗳️ Voting Tools](https://github.com/Mreaggle/JumpstyleUnitedNations?tab=readme-ov-file#online-poll-platforms)
 
 ### 🕊️ Feel free to share your perspective on your national jumpstyle scene, let’s achieve people with less access to information so they can discover our whole world!
@@ -20,19 +23,6 @@ Nominate key-figures for specific projects, or volunteer yourself by our Instagr
 # :sunglasses: AWESOME JUMPSTYLE :sunglasses: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of utilities to help on healthy Jumpstyle Community building and maintenance.
-
-# Submitting a Nation
-If you don't see your nation in the list, submit your nation by sending a request to [@jumpstyleunitednations](https://www.instagram.com/jumpstyleunitednations) on Instagram.
-
-
-# Signing the Jumpstyle Peace Treaty
-The Jumpstyle Peace Treaty is basically JUN's modus operandi, we believe that by ensuring basic common things from kids to adults, we can have peace at the Global Community and build really healthy relationships worldwide, learning and forgetting about bad behavior we've experienced as a Community.
-
-Learn and Sign the Peace Treaty if you agree to be in peace when Jumpstyle is the matter: [Sign the Jumpstyle Peace Treaty!](https://www.change.org/p/jumpstyle-peace-treaty)
-
-# Implementing the Standards
-Select your preferred language (EN/ES/PT) and read the PDFs to start implementing the standards on your own pace, our frameworks can also be discussed and reviewed by volunteers.
->Be a part of Jumpstyle future.
 
 # 🌐 Global Communities
 [Global communities](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main/GlobalCommunityArchive/Continents) with considerable activities in the last 2 years.
@@ -153,6 +143,21 @@ You can also contribute to the Global folder if you want to share something with
 - _Do not profit over JUN content, use it as an advisor instead._
 - _Do not mess the repository, you don't even have reasons for such thing._
 
+# JUN recognized Nation-Community steps
+
+## Submitting a Nation
+If you don't see your nation in the list, submit your nation by sending a request to [@jumpstyleunitednations](https://www.instagram.com/jumpstyleunitednations) on Instagram.
+
+
+## Signing the Jumpstyle Peace Treaty
+The Jumpstyle Peace Treaty is basically JUN's modus operandi, we believe that by ensuring basic common things from kids to adults, we can have peace at the Global Community and build really healthy relationships worldwide, learning and forgetting about bad behavior we've experienced as a Community.
+
+Learn and Sign the Peace Treaty if you agree to be in peace when Jumpstyle is the matter: [Sign the Jumpstyle Peace Treaty!](https://www.change.org/p/jumpstyle-peace-treaty)
+
+## Implementing the Standards
+Select your preferred language (EN/ES/PT) and read the PDFs to start implementing the standards on your own pace, our frameworks can also be discussed and reviewed by volunteers.
+
+Be a part of Jumpstyle future. Volunteer.
 
 # Online Poll Platforms
 A curated list of websites for online voting service, paid/enterprise serviced will be flagged as PAID before their names.
