@@ -1,57 +1,66 @@
 # 🌐 JumpstyleUnitedNations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A decentralized volunteer body maintaining the curated Jumpstyle Archive, among 100% free and open projects, frameworks, standards and links to help on Jumpstyle Community decentralized and volunteered maintenance.
+## The Global Jumpstyle scene body to improve archive-maintaining, relationship-building and accurate information-spreading worldwide.
+
+Browse through free and open projects, frameworks, standards and utilities to help on Jumpstyle Community decentralized and volunteered maintenance.
 
 >Find jumpers, communities, utilities, events and more!
-
->Sign the peace treaty to show you care for the dance!
+>>Sign the peace treaty to show you care for the dance!
 
 ### 🕊️ Feel free to share your perspective on your national jumpstyle scene, let’s achieve people with less access to information so they can discover our whole world!
 
 # Volunteering
 
->Nations volunteering: 🇧🇷🇻🇪🇳🇱🇨🇱🇪🇸🇵🇱🇷🇺🇯🇵🇧🇪🇮🇹
+>Nations volunteering: 🇧🇷🇻🇪🇳🇱🇨🇱🇪🇸🇵🇱🇷🇺🇯🇵🇧🇪🇮🇹🇫🇷
 
 **🤝🏻 Current volunteering tasks:**
 
-• *Mapping National scenes:*
--  Brazil ✅
--  Russia ✅
+• *Mapping Active Volunteer Nations:* Building a hierarchy chart for each Nation by JUN framework perspective.
+-  🇧🇷 Brazil ✅
+-  🇷🇺 Russia ✅
+-  🇨🇱 Chile
+-  🇻🇪 Venezuela
+-  🇪🇸 Spain
+-  🇵🇱 Poland
+-  🇯🇵 Japan
+-  🇧🇪 Belgium  
+-  🇮🇹 Italy
+-  🇫🇷 France 
 
-• *Building Jumpstyle Timeline*
+• *Building Jumpstyle Timeline:* The biggest collaborative project over Jumpstyle history. Each nation has different members storytelling what they know and lived over their Jumpstyle journey, everything will sum to a huge timeline tree, that will be open and free to use for the new generations and innovation through the scene.
 
 # What is GitHub?
 
-GitHub is an online platform where you can collaborate in projects worldwide by file management. Read HowTo/HowToGitHub.md file for a proper tutorial on how to start typing.
+## GitHub is an online platform where you can collaborate in projects worldwide through text file management.
+>[Read HowTo/HowToGitHub.md file for a proper tutorial on how to start typing.](#)
 
 **⚙️ JUN GitHub rules:**
 
 ```
 - *🌐 All Nations can add to Global*
 - *🏳️ A Nation can add to itself*
-- *⛔️ A Nation cannot add to another nation directly.*
+- *⛔️ A Nation cannot add to another nation without permission.*
 ```
 
-**🤔 What is GitHub?**
-
-GitHub is an online platform for collaborating through structured text files management.
 ### [Read HowTo/HowToGitHub.md file for a proper tutorial on how to start typing.](#)
-Think of GitHub as a digital library where everyone can edit and improve files in their own sections. For projects like 'TheJumpstyleTimeline' for example, each Nation has its own folder, you can update your nation's history and also add to the Global. This way, different perspectives on each nation, unite to feed a huge time-oriented file fulfilled of granular information.
+
+Think of GitHub as a digital library where everyone can edit and improve files in their own sections. For projects like 'TheJumpstyleTimeline' within the repository, each Nation has its own directory, you can update your nation's history and also add them to the Global. By this way, different perspectives on each nation, sum to feed a huge time-oriented file fulfilled of granular information from every single nation that experienced and stills experiencing jumpstyle phenomenon.
 
 **😒 Will it mess with my routine?**
 
-No need to worry about pausing your personal life! This project is entirely voluntary. You can contribute as much or as little as you like, and you can step down whenever you want. Your participation is based on your interest and availability.
+No need to worry about pausing your personal life tasks! This project is entirely voluntary. You can contribute as much or as little as you like, and you can step down whenever you want. Your participation is based on your interest and availability.
 
 **🪛 How will this work in practice?**
 
-You’ll be working within your country’s folder, adding and editing information, knowledge and experience about Jumpstyle history in your nation (you can ask to a different nation to add text if you participated internationally).
-You can also contribute to the Global folder if you want to share something with everyone.
+You’ll be working within your Nation's directory/folder, adding and editing information among other people from your Nation, sharing knowledge and experiences on Jumpstyle history (you can only add to another Nation if authorized by it's keepers).
+You can also contribute to the Global folder if you want to share something with everyone, this one has no limitations.
 
 **🧑‍⚖️ Individual Rules:**
 
 - _Do not offend, nor act in disrespectful way._
 - _Do not share contacts without permission._
-- _Do not profit over JUN content, use it as an insight._
+- _Do not profit over JUN content, use it as an advisor instead._
+- _Do not mess the repository, you don't even have reasons for such thing._
 
 
 # Online Poll Platforms
