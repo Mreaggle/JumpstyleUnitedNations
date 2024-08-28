@@ -1,5 +1,6 @@
 # $\color{Aquamarine}{🌐\ JumpstyleUnitedNations}$ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+#Volunteers:
+🇧🇷🇻🇪🇳🇱🇨🇱🇪🇸🇵🇱🇷🇺🇯🇵🇧🇪🇮🇹🇫🇷
 ### The Global Jumpstyle scene body to improve archive-maintaining, relationship-building and accurate information-spreading worldwide.
 
 Browse through voluntarily developed, free and open projects, frameworks, standards and utilities to help on Jumpstyle Community decentralized knowledge and maintenance.
@@ -13,10 +14,6 @@ Browse through voluntarily developed, free and open projects, frameworks, standa
 
 ### 🕊️ Feel free to share your perspective on your national jumpstyle scene, let’s achieve people with less access to information so they can discover our whole world!
 
-> Current Volunteers: 🇧🇷🇻🇪🇳🇱🇨🇱🇪🇸🇵🇱🇷🇺🇯🇵🇧🇪🇮🇹🇫🇷
->Current Projects you can contribute:
- - [Nation-community mapping (Hierarchy chart design with Main Chats, Moderators, Organizers, Supporters and National Teams).
- - [GlobalCommunityArchive (adding Media and text about Experiences, Channels, Groups, Teams, Initiatives, Events and etc.)](https://github.com/Mreaggle/JumpstyleUnitedNations/tree/main/GlobalCommunityArchive)
 
 # :sunglasses: AWESOME JUMPSTYLE :sunglasses: [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
