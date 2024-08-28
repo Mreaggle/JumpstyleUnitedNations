@@ -2,7 +2,7 @@
 
 ## A commit is like a snapshot of all the files in your project at a particular point in time.
 
-> You are now in Quickstart.md file, within github-howto directory, inside JUN repository.
+> You are now in HowToGitHub.md file, within HowTo directory, inside JUN repository => JUN/HowTo/HowToGitHub.md
 
 1. Let's take a step back by opening JUN GitHub repository in a new tab, entering **'Jumpstyle Timeline'** directory and then commit a change to Global/global-timeline.md by opening Global directory, and editing the '.md' file.
 2. In the upper right corner of the file view, click the pencil figure to open the file editor.
