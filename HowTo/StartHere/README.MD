@@ -6,14 +6,18 @@
 
 This page is a breakdown of our repository structure and what each part means. Think of it as navigating through a big collaborative library where every file and directory plays a crucial role.
 
-**You are here:** JumpstyleUnitedNations/HowTo/ **StartHere/** and this you're reading is the **README.md** file, each directory should contain a README.md file, so everyone can clearly understand the purpose of that. The extension '.md' means the file is written in Markdown.
+**You are here:** 
+```
+JumpstyleUnitedNations/HowTo/StartHere/
+```
+and this you're reading is the **README.md** file, each directory should contain a README.md file, so everyone can clearly understand the purpose of that. The extension '.md' means the file is written in Markdown.
 
 
 ## 📂 HowTo/StartHere
 
 The **HowTo/StartHere** directory is your entry point for understanding how to contribute to the Jumpstyle United Nations repository. It contains specific guides to help you get started on different platforms.
 
-- 🛠️ Use JUN Toolkit to help you through contributing proccess ► [🛠️ JUN Toolkit](./JUNToolkit/)
+- 🛠️ Use JUN Toolkit to help you through contributing proccess ► [🛠️ JUN Toolkit](../../JUNToolkit/)
 
 ## Which shoes are you using?
 
