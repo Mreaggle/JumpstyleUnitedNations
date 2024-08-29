@@ -1,4 +1,4 @@
-# $\color{Aquamarine}{🌐\ JumpstyleUnitedNations}$ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# $\color{Aquamarine}{🌐\ JumpstyleUnitedNations}$ ![Static Badge](https://img.shields.io/badge/Open%20Source-Jumpstyle-blue)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2b6dcf1a-f18f-469f-bd12-6b59565badfd" width="250" alt="IMG_6848-removebg-preview (1)"/>
