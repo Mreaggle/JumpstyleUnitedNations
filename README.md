@@ -21,7 +21,7 @@ We aim to improve archive maintenance, build relationships, and spread accurate 
 > - [**🗺️ The Community Mapping**](/CommunityMapping/)
 > - [**🛠️ The JUNToolkit:**](/JUNToolkit/)
 > - [**🖥️ The Digital Jumpstyle Platform**](/DigitalJumpstylePlatform/)
-> - [**😎 AwesomeJumpstyle** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)](#)
+> - [**😎 AwesomeJumpstyle**](#)
 > - [📸 Instagram](https://instagram.com/JumpstyleUnitedNations)
 
 > Discover jumpers, artists, communities, events, utilities, and more!
