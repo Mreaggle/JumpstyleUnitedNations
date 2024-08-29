@@ -31,15 +31,12 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
 ###### `📩 Apply now by sending us a DM on our [Instagram page (@jumpstyleunitednations)](https://instagram.com/JumpstyleUnitedNations) so you can speak for your nation and discuss on the board. Read [rules](#volunteering) before starting.`
 
 #### Volunteers:
-|--------|---------|---------|---------|
+
 | 🇧🇷 (9) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
 |--------|---------|---------|---------|
 | 🇪🇸 (2) | 🇵🇱 (4) | 🇷🇺 (1) | 🇯🇵 (1) |
-|--------|---------|---------|---------|
 | 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (?) |
-|--------|---------|---------|---------|
 | 🇮🇩 (1) | 🇺🇸 (1) |         |         |
-|--------|---------|---------|---------|
 
 ---
 
