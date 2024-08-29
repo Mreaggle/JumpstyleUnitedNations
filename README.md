@@ -35,7 +35,7 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
  - We hardly work to keep important key figures from both music and dance scenes supporting us on spreading proper and accurate information.
 
 #### Volunteers:
-| 🇧🇷 (9) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
+| 🇧🇷 (8) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
 |--------|---------|---------|---------|
 | 🇪🇸 (2) | 🇵🇱 (4) | 🇷🇺 (1) | 🇯🇵 (1) |
 | 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (1) |
