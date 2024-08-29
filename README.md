@@ -52,7 +52,7 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
 - 🇧🇪 (1) - Marjin
 - 🇮🇹 (2) - Yalser, 2jumperz
 - 🇫🇷 (3) - Snak’e, EDX
-- 🇮🇩 (1) - MKP, Chan
+- 🇮🇩 (1) - MKP, Jaegar
 - 🇺🇸 (2) - Zöe, Grinzler
 - 🇦🇷 (1) - IvaN
 
