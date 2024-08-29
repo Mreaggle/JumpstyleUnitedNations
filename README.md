@@ -69,7 +69,7 @@ Find all needed information on how to contribute under [./HowTo/ branch.](./HowT
   A collaborative project documenting the history of Jumpstyle from various perspectives and experiences. 
 
 - **🗃️ The Jumpstyle Archive:**  
-  A collaborative project documenting the history of Jumpstyle from various perspectives and experiences.  
+  A huge collaborative repository documenting all knowledge, media and information available (and even unavailable) of Jumpstyle from various perspectives and experiences.
 
 - **🗺️ The Jumpstyle Frameworks**  
   Open share of validated standards, guidelines, good practices, routines, competition systems and similar.
