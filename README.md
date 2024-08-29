@@ -6,9 +6,9 @@ We aim to improve archive maintenance, build relationships, and spread accurate 
 
 #### Quick Menu
 
-> - [🤝 What is JUN?](#the-general-assembly)
+> - [❓ START HERE](./HowTo/StartHere/)
+> - [🤝 Who is JUN?](#the-general-assembly)
 > - [🔄 Running Projects](#current-volunteering-tasks)
-> - [❓ WTF is GitHub](./HowTo/StartHere/)
 > - [🛠️ JUN Toolkit](./JUNToolkit/)
 > - [📸 Instagram](https://instagram.com/JumpstyleUnitedNations)
 > - [📋 Awesome Lists](#awesomejumpstyle)
@@ -22,11 +22,11 @@ We aim to improve archive maintenance, build relationships, and spread accurate 
 
 Feel free to contribute and share insights about your national Jumpstyle scene. Let’s reach those with less access to information and help them discover the world of Jumpstyle!
 
-# The General Assembly
+# Composition
 
- - The General Assembly is a decentralized board including worldwide people from dance, music and community key figures. 
- - Any jumper can join JUN's General Assembly, as it's driven by all nations that had any kind of activity over Jumpstyle History.
- - We hardly work to have important key figures from both music and dance scenes on the information side.
+ - JUN is a global body formed by The General Assembly, which is a decentralized board including worldwide people from dance, music and community key figures. 
+ - Any jumper can join JUN's General Assembly, as it's driven by all Nations that had any kind of activity over Jumpstyle History and aim to be a JUN recognized Nation-community by applying its frameworks and standards.
+ - We hardly work to keep important key figures from both music and dance scenes supporting us on spreading proper and accurate information.
 
 #### Volunteers:
 | 🇧🇷 (9) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
@@ -56,7 +56,7 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
 
 Projects within JumpstyleUnitedNations repository are called 'branches' in GitHub, those are our current branches:
 
-1. **📂 TheJumpstyleTimeline**  
+1. **📂 JumpstyleTimeline**  
    Collaborative project to document the history of Jumpstyle across different nations. Each nation has its own directory to update its history, type in Markdown to contribute and keep in mind that uploading content inside the repository before pasting their URLs/links is always better than external hyperlinks (media for example).
 
      - 📂 Nation-communities
@@ -67,10 +67,10 @@ Projects within JumpstyleUnitedNations repository are called 'branches' in GitHu
          - 📂 Jumpers
            - jumper.md
 
-2. **📂 CollabJumpstyleFrameworks**  
+2. **📂 JumpstyleFrameworks**  
    A curated archive of free and open frameworks, standards, routines, competition systems and utilities for building and maintaining the Global Community.
 
-3. **📂 GlobalCommunityArchive**  
+3. **📂 JumpstyleArchive**  
    Archives of The Global Community, organized by continents nations and states (even for provinces, cities or similar), with information about national teams and state-communities.
    
    - **📂 Continents**  
