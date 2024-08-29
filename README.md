@@ -46,7 +46,7 @@ We continuously search for contributors from all the Jumpstyle Eras, including t
 | 🇧🇷 (9) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
 |--------|---------|---------|---------|
 | 🇪🇸 (2) | 🇵🇱 (4) | 🇷🇺 (1) | 🇯🇵 (1) |
-| 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (1) |
+| 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (2) | 🇦🇷 (1) |
 | 🇮🇩 (2) | 🇺🇸 (2) | 🇱🇹 (1) |         |
 
 - 🇧🇷 (8) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa, Digo
@@ -59,7 +59,7 @@ We continuously search for contributors from all the Jumpstyle Eras, including t
 - 🇯🇵 (1) - SolaR
 - 🇧🇪 (1) - Marjin
 - 🇮🇹 (2) - Yalser, 2jumperz
-- 🇫🇷 (3) - Snak’e, EDX
+- 🇫🇷 (2) - Snak’e, EDX
 - 🇮🇩 (1) - MKP, Jaegar
 - 🇺🇸 (2) - Zöe, Grinzler
 - 🇦🇷 (1) - IvaN
