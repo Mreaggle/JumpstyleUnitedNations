@@ -13,7 +13,7 @@ We aim to improve archive maintenance, build relationships, and spread accurate 
 #### Quick Menu
 
 > - [❓ START HERE](./HowTo/StartHere/)
-> - [🤝 Who is JUN?](#the-general-assembly)
+> - [🤝 Who is JUN?](#composition)
 > - [🔄 Running Projects](#running-projects)
 > - [🛠️ JUN Toolkit](./JUNToolkit/)
 > - [📸 Instagram](https://instagram.com/JumpstyleUnitedNations)
