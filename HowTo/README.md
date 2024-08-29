@@ -12,45 +12,45 @@ Before you start freaking out about commands, branches, and commits, let's get y
 
 If you’re a penguin-loving, terminal-tapping jumper, check out our Linux guide. It’s perfect for those who enjoy typing mysterious commands and pretending they’re hacking into the Matrix.
 
-- [Linux Guide](/Linux)
+- [Linux Guide](./Linux)
 
 ### Oh Shit, I’m Using Windows!
 
 If you're more into clicking and less into command-lining, our Windows guide is coming soon. Hang tight!
 
-- [Windows Guide](/Windows)
+- [Windows Guide](./Windows)
 
 ### Oh Shit, I’m On My Phone Web Browser!
 
 On the go and need to contribute between jumps? No worries, we’ve got a guide for mobile web browsers too! Just don’t code while you’re doing the Running Man, okay?
 
-- [Phone Web Browser Guide](/Browser/Phone)
+- [Phone Web Browser Guide](./Browser/Phone)
 
 ### Oh Shit, I’m Using My PC Web Browser!
 
 For those who like the comfort of a full-sized screen but don’t want to mess with installing stuff, our PC Web Browser guide will get you contributing in no time.
 
-- [PC Web Browser Guide](/Browser/PC)
+- [PC Web Browser Guide](./Browser/PC)
 
 ### Oh Shit, I’m On iOS!
 
 Apple fans, rejoice! Your guide is also coming soon. Sit tight and don’t break your screen doing the Side Jump!
 
-- [iOS Guide](/iOS)
+- [iOS Guide](./iOS)
 
 ### Oh Shit, I’m On MacOS!
 
 For those who’ve mastered the art of the Command key, a MacOS guide is in the works. Until then, keep jamming on your Mac!
 
-- [MacOS Guide](/MacOS)
+- [MacOS Guide](./MacOS)
 
 ## Oh Shit, I Need To Learn GitHub Basics!
 
-If all this talk about GitHub has you scratching your head, don’t worry. Just like mastering the oldschool basics, it’s all about practice. Check out our guides by choosing the Platform you're just using under the [**HowToGitHub**](/Browser/HowToGitHub.md) section to get started. We promise, no jumpscares or 'Panico' here (well, maybe a few when you see a merge conflict).
+If all this talk about GitHub has you scratching your head, don’t worry. Just like mastering the oldschool basics, it’s all about practice. Check out our guides by choosing the Platform you're just using under the [**HowToGitHub**](./Browser/HowToGitHub.md) section to get started. We promise, no jumpscares or 'Panico' here (well, maybe a few when you see a merge conflict).
 
 ## Oh Shit, I Want To Learn Markdown Typing!
 
-Markdown is like the choreography of documentation. It’s how we make things pretty and readable. Head over to our [**HowToMarkdownTyping**](/Browser/HowToMarkdownTyping.md) section to learn how to format like a boss. Whether you're typing out your first README or crafting an epic tutorial, Markdown will make your words dance on the page.
+Markdown is like the choreography of documentation. It’s how we make things pretty and readable. Head over to our [**HowToMarkdownTyping**](./Browser/HowToMarkdownTyping.md) section to learn how to format like a boss. Whether you're typing out your first README or crafting an epic tutorial, Markdown will make your words dance on the page.
 
 ## Oh Shit, I’m Ready To Jump In!
 
