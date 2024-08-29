@@ -9,12 +9,14 @@ The **HowTo/StartHere** directory is your entry point for understanding how to c
 ### 1. **PC** 💻
 
 This guide is tailored for contributors using a PC or desktop browser.
-[HowTo/StartHere/PC](./PC)
+- [HowTo/StartHere/PC](./PC)
+- [My PC looks different](./)
 
 ### 2. **Mobile** 📱
 
 This guide is for contributors using mobile devices.
-[HowTo/StartHere/Mobile](./Mobile)
+- [HowTo/StartHere/Mobile](./Mobile)
+- [My Phone looks different.](./)
 
 ## 📂 JumpstyleUnitedNations Repository Structure
 
