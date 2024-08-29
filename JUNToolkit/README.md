@@ -9,11 +9,14 @@ Welcome to the resource guide for all things related to Jumpstyle projects! This
 1. [KeyFiguresWorldwide](./KeyFiguresWorldwide/Dance/README.md)
 2. [Historical Data Research](#historical-data-research)
 3. [Music Discovery](#music-discovery)
+4. [Trends and Analytics](#trends-and-analytics)
 4. [Content Creation and Collaboration](#content-creation-and-collaboration)
 5. [Poll and Survey Tools](#poll-and-survey-tools)
 6. [Additional Resources](#additional-resources)
 
 ---
+
+### 0. Directly add files and edit the GitHub Repository!!! You just have to log in :D
 
 ## Historical Data Research
 
@@ -80,6 +83,36 @@ Welcome to the resource guide for all things related to Jumpstyle projects! This
 - **Website:** [youtube.com](https://www.youtube.com)
 - **How to Use:** Search for specific tracks, tutorials, or full sets to enhance your Jumpstyle skills and knowledge.
 
+---
+
+## Tends and Analytics
+
+- **🧩 Trend Analytics Dashboard:**  
+  [Google Trends](https://trends.google.com/) - An interactive dashboard that allows you to see the popularity of "Jumpstyle" over time and across different regions. You can compare it with other terms and analyze search interest trends.
+  
+  [Exploding Topics](https://explodingtopics.com/) - Identifies rapidly growing topics, including niche ones like Jumpstyle, by analyzing online discussions, searches, and other data points.
+
+- **📊 Data Collection Tools:**  
+  [Social Searcher](https://www.social-searcher.com/) - A tool for gathering data from various social media platforms, allowing you to track mentions of "Jumpstyle" and analyze user engagement.
+  
+  [Brand24](https://brand24.com/) - A media monitoring tool that collects data from social media, blogs, news sites, and more, providing real-time insights into mentions of "Jumpstyle".
+
+- **📉 Data Visualization:**  
+  [Tableau Public](https://public.tableau.com/) - A powerful data visualization tool that lets you create interactive charts, graphs, and maps to represent Jumpstyle trends visually.
+  
+  [Google Data Studio](https://datastudio.google.com/) - A free tool that allows you to transform your data into customizable informative reports and dashboards. You can connect it with data sources like Google Analytics and social media.
+
+- **📝 Reports and Insights:**  
+  [BuzzSumo](https://buzzsumo.com/) - Provides detailed reports and analysis on trending content related to "Jumpstyle", including engagement metrics and influencer insights.
+  
+  [Sprout Social](https://sproutsocial.com/) - Offers comprehensive reports on social media performance, helping you understand how Jumpstyle is being discussed across platforms.
+
+- **🔍 Trend Search Engine:**  
+  [Talkwalker](https://www.talkwalker.com/) - A powerful search engine for monitoring and analyzing online mentions of "Jumpstyle". It provides in-depth trend analysis and real-time search capabilities.
+  
+  [Mention](https://mention.com/) - Allows you to search for specific Jumpstyle trends and related content across the internet, including social media, blogs, and news sites.
+
+These tools provide a comprehensive suite of options for monitoring and analyzing Jumpstyle trends across various online platforms.
 ---
 
 ## Content Creation and Collaboration

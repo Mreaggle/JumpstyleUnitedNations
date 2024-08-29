@@ -15,18 +15,10 @@ The **HowTo/StartHere** directory is your entry point for understanding how to c
 
 - 🛠️ Use JUN Toolkit to help you through contributing proccess ► [🛠️ JUN Toolkit](./JUNToolkit/)
 
-## Choose
-### 1. **PC** 💻
+## Which shoes are you using?
 
-This guide is tailored for contributors using a PC or desktop browser.
-- [HowTo/StartHere/PC](./PC)
-- [My PC looks different](../)
-
-### 2. **Mobile** 📱
-
-This guide is for contributors using mobile devices.
-- [HowTo/StartHere/Mobile](./Mobile)
-- [My Phone looks different.](../)
+> - [💻 **I wanna contribute from a PC**](./PC/)
+> - [📱 **Mobile**](./Mobile/)
 
 ## 📂 JumpstyleUnitedNations Repository Structure
 
@@ -105,3 +97,6 @@ This guide is for contributors using mobile devices.
 - **Events Branch (`AwesomeJumpstyle`)**: The latest events in the Jumpstyle scene.
 
 Feel free to dive in, contribute, and help document and build the future of Jumpstyle! If you have questions, reach out via our main channels.
+
+
+[def]: ./PC

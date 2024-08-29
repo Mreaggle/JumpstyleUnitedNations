@@ -1,5 +1,9 @@
 # Oh Shit, GitHub Through the Android App!?
 
+# Select your favorite platform to start:
+
+## 🤖[Android App](https://play.google.com/store/apps/details?id=com.github.android&hl=en_US)
+
 Alright, Jumpers! You’re ready to bring your Jumpstyle skills to GitHub using your Android phone. Whether you're tweaking some code between dance sessions or fixing a README while waiting for your next jump battle, the GitHub Android app has your back. Here’s how to get started on your mobile and jump into the world of contributions!
 
 ## Oh Shit, What Do I Need?

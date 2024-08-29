@@ -2,6 +2,15 @@
 
 Welcome to the **HowTo** directory, where we help you jump your way into the wild world of GitHub contributions! If you're a jumper who's ready to contribute your first tutorial, choreography guide, or just add a crazy GIF to the repo, you're in the right place. Let's make sure you’re not just dancing on the floor but also coding like a pro!
 
+# Select your favorite platform to start:
+
+## 🌐[GitHub for Browsers](https://github.com/Mreaggle/JumpstyleUnitedNations)
+## 🤖[Android App](https://play.google.com/store/apps/details?id=com.github.android&hl=en_US)
+## 🪟[Windows App](https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi)
+## 📱[iOS App](https://apps.apple.com/us/app/github/id1477376905)
+## 🐧[Linux App](https://github.com/cli/cli#installation)
+## 🍎[MacOS APP](https://central.github.com/deployments/desktop/desktop/latest/darwin)
+
 Here’s your roadmap to jumping into GitHub using various platforms and devices. Remember, just like in Jumpstyle, your rhythm and timing matter here too!
 
 ## Oh Shit, What Do I Do?
@@ -63,3 +72,6 @@ Remember, every jumper started with a small step, or in our case, a small commit
 ---
 
 *P.S.: If you get stuck or need help, don’t panic. Just think of it as missing a beat in your WJL final solo. Head over to the nearest guide or hit up a fellow jumper over JUN for some advice. We’ve all been there, and we’ve all faceplanted at least once. Welcome to the JUN GitHub!*
+
+
+[def]: https://central.github.com/deployments/desktop/desktop/latest/darwin

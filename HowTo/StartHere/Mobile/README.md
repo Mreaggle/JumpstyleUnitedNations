@@ -1,5 +1,16 @@
 # Oh Shit, GitHub Web on Mobile! A Beginner's Guide for Jumpstyle United Nations
 
+# Downloads
+## 🌐[GitHub for Browsers](https://github.com/Mreaggle/JumpstyleUnitedNations)
+## 🤖[Android App](https://play.google.com/store/apps/details?id=com.github.android&hl=en_US)
+## 📱[iOS App](https://apps.apple.com/us/app/github/id1477376905)
+
+# Specific Guides
+## 🌐[HowTo/GitHub for Browsers](../../Browser/)
+## 🤖[HowTo/Android App](../../Android/)
+## 📱[HowTo/iOS App](../../iOS/)
+
+
 Welcome to the "Oh Shit, GitHub Web on Mobile!" guide. This is a beginner-friendly guide to help you navigate GitHub using your mobile browser, so you can contribute to Jumpstyle United Nations projects even on the go. If you’re a jumper new to GitHub and mobile browsing, this guide will get you up to speed!
 
 ## What is GitHub?

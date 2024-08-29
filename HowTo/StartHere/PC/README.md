@@ -1,5 +1,18 @@
 # Oh Shit, GitHub on PC Browsers! 💻
 
+# Downloads
+
+## 🌐[GitHub for Browsers](https://github.com/Mreaggle/JumpstyleUnitedNations)
+## 🪟[Windows App](https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi)
+## 🐧[Linux App](https://github.com/cli/cli#installation)
+## 🍎[MacOS APP](https://central.github.com/deployments/desktop/desktop/latest/darwin)
+
+# Specific Guides
+## 🌐[HowTo/GitHub for Browsers](../../Browser/)
+## 📱[HowTo/Linux](../../Linux/)
+## 🤖[HowTo/Windows](../../Windows/)
+## 🍎[HowTo/MacOS](../../MacOS/)
+
 Welcome to the "Oh Shit, GitHub on PC Browsers!" guide. This humorous and beginner-friendly guide will help you navigate GitHub using your PC browser so you can contribute to Jumpstyle United Nations projects without losing your mind. 😅
 
 ## What is GitHub? 🤔

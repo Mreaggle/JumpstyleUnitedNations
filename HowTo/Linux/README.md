@@ -1,5 +1,9 @@
 # Oh Shit, GitHub Through Linux!?
 
+## 🐧[Linux App](https://github.com/cli/cli#installation)
+
+New to Linux? Learn [HowToLinux](HowToLinux.md)
+
 Hey Jumpers! You’ve chosen to contribute to GitHub using Linux—nice! You’re rocking a platform that’s just as versatile as your jumpstyle moves. Whether you’re tweaking tutorials or uploading new choreography files, let’s show the world what Jumpstyle is all about. Follow these steps, and you’ll be committing like a pro in no time!
 
 ## Oh Shit, What Do I Need?

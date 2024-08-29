@@ -15,10 +15,14 @@ We aim to improve archive maintenance, build relationships, and spread accurate 
 > - [❓ START HERE](./HowTo/StartHere/)
 > - [🤝 Who is JUN?](#composition)
 > - [🔄 Running Projects](#running-projects)
-> - [🛠️ JUN Toolkit](./JUNToolkit/)
+> - [**⌛ The Jumpstyle Timeline:**](/JumpstyleTimeline/)
+> - [**🗃️ The Jumpstyle Archive:**](/JumpstyleArchive/)
+> - [**🧩 The Jumpstyle Frameworks**](/JumpstyleFrameworks/)
+> - [**🗺️ The Community Mapping**](/CommunityMapping/)
+> - [**🛠️ The JUNToolkit:**](/JUNToolkit/)
+> - [**🖥️ The Digital Jumpstyle Platform**](/DigitalJumpstylePlatform/)
+> - [**😎 AwesomeJumpstyle** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)](#)
 > - [📸 Instagram](https://instagram.com/JumpstyleUnitedNations)
-> - [📋 Awesome Lists](#awesomejumpstyle)
-> - [🗳️ Voting Tools](#online-poll-platforms)
 
 > Discover jumpers, artists, communities, events, utilities, and more!
 > 
@@ -62,13 +66,12 @@ We continuously search for contributors from all the Jumpstyle Eras, including t
 - 🇱🇹 (1) - Decade
 
 ---
-
----
-
-## Volunteering
+## [Volunteering](/HowTo/StartHere/)
 
 Help us nominating key figures for specific projects and questions, or directly volunteer by messaging us on Instagram: [@jumpstyleunitednations](https://instagram.com/jumpstyleunitednations).
 Find all needed information on how to contribute under [./HowTo/ branch.](./HowTo/)
+
+---
 
 ### Running Projects
 

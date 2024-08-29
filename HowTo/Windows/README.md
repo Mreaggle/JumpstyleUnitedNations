@@ -1,5 +1,7 @@
 # Oh Shit, GitHub Through Windows App!?
 
+## 🪟[Windows App](https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi)
+
 Welcome, Jumpers! You’ve decided to dive into the magical world of GitHub using the Windows app. Fantastic choice! Whether you're contributing your first tutorial on how to nail that Yakuza Kick or just uploading a video of your new moves, we’re here to help you jump right into GitHub like a pro. Let’s get started and make your contributions smooth and stylish—just like your dance moves!
 
 ## Oh Shit, What Do I Need?

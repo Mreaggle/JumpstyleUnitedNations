@@ -1,5 +1,7 @@
 # Oh Shit, Markdown!?
 
+## Want to practice first? Try some Markdown Typing on [Dillinger](https://dillinger.io/) for free!!!
+
 Markdown is deceptively simple: you think you're writing plain text, but suddenly you’re a typographical artist. It’s like you’re painting a masterpiece with a pencil, but instead of paint, it's pure chaos and a sprinkle of magic. Here’s a guide to all the WTF moments you might encounter with Markdown and how to master them with a laugh.
 
 ## Oh shit, I want a big, bold heading!
