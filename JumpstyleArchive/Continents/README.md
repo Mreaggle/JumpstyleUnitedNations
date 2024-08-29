@@ -9,7 +9,7 @@ This project is dedicated to preserving the rich history of **Jumpstyle**, from 
 ## 🔍 Contents
 
 - **Historical Timelines**: Explore detailed timelines that track the development of **Jumpstyle** from its inception to its global spread.
-- **Key Figures and Crews**: Learn about the pivotal people and teams, such as **Patrick Jumpen** and **Fireborn Squad**, that have left their mark on the scene.
+- **Key Figures and Crews**: Learn about the pivotal people and teams, such as **Patrick Jumpen**, **DannieL**, **Samurai**, **Atomic Destination Team** and **Fireborn Squad**, that have left their mark on the scene.
 - **Musical Evolution**: Trace the genre's roots from **Jump** to **Hardstyle**, and discover how music has influenced the dance.
 - **Cultural Impact**: Understand how **Jumpstyle** has evolved from an underground phenomenon to a global dance culture.
 

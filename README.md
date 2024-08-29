@@ -70,7 +70,9 @@ Find all needed information on how to contribute under [./HowTo/ branch.](./HowT
 - [**⌛ The Jumpstyle Timeline:**](/JumpstyleTimeline/)
   A collaborative project documenting the history of Jumpstyle from various perspectives and experiences. 
 
+
 - [**🗃️ The Jumpstyle Archive:**](/JumpstyleArchive/)
+
   A huge collaborative repository documenting all knowledge, media and information available (and even unavailable) of Jumpstyle from various perspectives and experiences.
 
 - [**🧩 The Jumpstyle Frameworks**](/JumpstyleFrameworks/)
@@ -146,40 +148,6 @@ Request unknown songs, playlists, and more!
 12. [Jumpstyle FAQ (PT-BR)](https://jumpstyle.com.br/#faq)
 13. [Jumper Manifesto (PT-BR)](https://jumpstyle.com.br/#manifesto)
 
-## Online Poll Platforms
-
-A list of websites for online voting services. Paid services are flagged.
-
-1. [StrawPoll](https://www.strawpoll.me/)
-2. [Doodle](https://doodle.com/)
-3. [Google Forms](https://forms.google.com/)
-4. [PAID - SurveyMonkey](https://www.surveymonkey.com/)
-5. [Typeform](https://www.typeform.com/)
-6. [Poll Everywhere](https://www.polleverywhere.com/)
-7. [Kahoot!](https://kahoot.com/)
-8. [Mentimeter](https://www.mentimeter.com/)
-9. [Crowdsignal](https://crowdsignal.com/)
-10. [Slido](https://www.sli.do/)
-11. [Socrative](https://www.socrative.com/)
-12. [PollMaker](https://www.poll-maker.com/)
-13. [Polltab](https://polltab.com/)
-14. [Quizizz](https://quizizz.com/)
-15. [SurveyLegend](https://www.surveylegend.com/)
-16. [Zoho Survey](https://www.zoho.com/survey/)
-17. [Microsoft Forms](https://forms.office.com/)
-18. [Pigeonhole Live](https://www.pigeonholelive.com/)
-19. [Tricider](https://www.tricider.com/)
-20. [Quizlet](https://quizlet.com/)
-21. [Survio](https://www.survio.com/)
-22. [Obsurvey](https://www.obsurvey.com/)
-23. [Qzzr](https://www.qzzr.com/)
-24. [LimeSurvey](https://www.limesurvey.org/)
-25. [EasyPolls](https://www.easypolls.net/)
-26. [PAID - SurveyGizmo (Alchemer)](https://www.alchemer.com/)
-27. [Formstack](https://www.formstack.com/)
-24. [VoxVote](https://www.voxvote.com/)
-29. [Micropoll](http://www.micropoll.com/)
-30. [Zoho Polls](https://www.zoho.com/survey/polls.html)
 
 ---
 ```
