@@ -6,11 +6,11 @@ We aim to improve archive maintenance, build relationships, and spread accurate 
 
 #### Quick Menu
 
+> - [🤝 What is JUN?](#the-general-assembly)
 > - [🔄 Running Projects](#current-volunteering-tasks)
 > - [❓ WTF is GitHub](./HowTo/StartHere/)
 > - [🛠️ JUN Toolkit](./JUNToolkit/)
 > - [📸 Instagram](https://instagram.com/JumpstyleUnitedNations)
-> - [🤝 Help us](#the-general-assembly)
 > - [📋 Awesome Lists](#awesomejumpstyle)
 > - [🗳️ Voting Tools](#online-poll-platforms)
 
@@ -28,14 +28,25 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
  - Any jumper can join JUN's General Assembly, as it's driven by all nations that had any kind of activity over Jumpstyle History.
  - We hardly work to have important key figures from both music and dance scenes on the information side.
 
-###### `📩 Apply now by sending us a DM on our [Instagram page (@jumpstyleunitednations)](https://instagram.com/JumpstyleUnitedNations) so you can speak for your nation and discuss on the board. Read [rules](#volunteering) before starting.`
-
 #### Volunteers:
 | 🇧🇷 (9) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
 |--------|---------|---------|---------|
 | 🇪🇸 (2) | 🇵🇱 (4) | 🇷🇺 (1) | 🇯🇵 (1) |
 | 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (?) |
 | 🇮🇩 (1) | 🇺🇸 (1) |         |         |
+
+🇧🇷 (8) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa
+🇻🇪 (1) - Honterz
+🇳🇱 (2) - Dion, Jelle
+🇨🇱 (3) - Lauth, Mat1, Neon
+🇪🇸 (2) - DejuX, Daiser
+🇵🇱 (4) - Zygzak, Philip, Effect, Luksy, Żyto
+🇷🇺 (1) - SheVa
+🇯🇵 (1) - SolaR
+🇧🇪 (1) - Marjin
+🇮🇹 (2) - Yalser, 2jumperz
+🇫🇷 (3) - Mr. Covin, Snak’e, EDX
+🇮🇩 (1) - MKP
 
 ---
 
@@ -123,25 +134,35 @@ Projects within JumpstyleUnitedNations repository are called 'branches' in GitHu
 Help us nominating key figures for specific projects and questions, or directly volunteer by messaging us on Instagram: [@jumpstyleunitednations](https://instagram.com/jumpstyleunitednations).
 Find all needed information on how to contribute under [./HowTo/ branch.](./HowTo/)
 
-### Current Volunteering Tasks
+### Running Projects
 
-- **Community Mapping**  
-  Building a hierarchy chart for each nation based on JUN Nation-community framework.  
-  - 🇧🇷 Brazil ✅
-  - 🇷🇺 Russia ✅
-  - Other countries in progress...
-
-- **Building The Jumpstyle Timeline:**  
+- **⌛ The Jumpstyle Timeline:**  
   A collaborative project documenting the history of Jumpstyle from various perspectives and experiences. 
 
-- **Building The Jumpstyle Archive:**  
+- **🗃️ The Jumpstyle Archive:**  
   A collaborative project documenting the history of Jumpstyle from various perspectives and experiences.  
-- **Building The Collaborative Jumpstyle Frameworks project to openly share standards, guidelines, good practices, routines, competition systems and etc...
+- **Building The Collaborative Jumpstyle 
 
-- **Building The JUNToolkit:**
-   A curated tool set of all kinds that will lead a volunteer's work a lot easier. 
+- **🗺️ The Jumpstyle Frameworks**  
+  Open share of validated standards, guidelines, good practices, routines, competition systems and similar.
+
+- **🗺️ The Community Mapping**  
+  Mapping specifications around active and inactive communities on JUN Nation-community framework.  
+  - 🇧🇷 Brazil ✅
+  - 🇷🇺 Russia ✅
+  - Other nations in progress...
+
+- **🛠️ The JUNToolkit:**
+   A curated tool set of all kinds that will lead a volunteer's work a lot easier.
+
+- **The Digital Jumpstyle Platform** 
+   A place to innovate and make good use of data and information centralized in JUN. All projects originated in JUN will be used here to build a bigger platform for Jumpers around the World.
+
+- **Updating AwesomeJumpstyle**
+   AwesomeJumpstyle is the most updated list of current events in Jumpstyle scene.
 
 ---
+###### `📩 Apply now by sending us a DM on our [Instagram page (@jumpstyleunitednations)](https://instagram.com/JumpstyleUnitedNations) so you can speak for your nation and discuss on the board. Read [rules](#volunteering) before starting.`
 
 # AwesomeJumpstyle
 
