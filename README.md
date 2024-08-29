@@ -34,14 +34,18 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
  - Any jumper can join JUN's General Assembly, as it's driven by all Nations that had any kind of activity over Jumpstyle History and aim to be a JUN recognized Nation-community by applying its frameworks and standards.
  - We hardly work to keep important key figures from both music and dance scenes supporting us on spreading proper and accurate information.
 
-#### Volunteers:
-| 🇧🇷 (8) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
+### [Volunteers:](/Volunteers.md)
+
+See more about our current contributors at [Volunteers.md](/Volunteers.md) file.
+We continuously search for contributors from all the Jumpstyle Eras, including the current one.
+
+| 🇧🇷 (9) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
 |--------|---------|---------|---------|
 | 🇪🇸 (2) | 🇵🇱 (4) | 🇷🇺 (1) | 🇯🇵 (1) |
 | 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (1) |
-| 🇮🇩 (2) | 🇺🇸 (2) |         |         |
+| 🇮🇩 (2) | 🇺🇸 (2) | 🇱🇹 (1) |         |
 
-- 🇧🇷 (8) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa
+- 🇧🇷 (8) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa, Digo
 - 🇻🇪 (1) - Honterz
 - 🇳🇱 (2) - Dion, Jelle
 - 🇨🇱 (3) - Lauth, Mat1, Neon
@@ -55,6 +59,7 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
 - 🇮🇩 (1) - MKP, Jaegar
 - 🇺🇸 (2) - Zöe, Grinzler
 - 🇦🇷 (1) - IvaN
+- 🇱🇹 (1) - Decade
 
 ---
 
@@ -150,6 +155,7 @@ Request unknown songs, playlists, and more!
 
 
 ---
+
 ```
 ░░░░░██╗██╗░░░██╗███╗░░██╗
 ░░░░░██║██║░░░██║████╗░██║
@@ -158,4 +164,5 @@ Request unknown songs, playlists, and more!
 ╚█████╔╝╚██████╔╝██║░╚███║
 ░╚════╝░░╚═════╝░╚═╝░░╚══╝
 ```
+
 ---
