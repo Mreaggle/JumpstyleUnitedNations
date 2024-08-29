@@ -1,20 +1,32 @@
-# Jumpstyle United Nations Repository Structure 🌍
+# JUN Starter Guide 🌍
 
-Welcome to the Jumpstyle United Nations (JUN) repository! Here’s a Git-themed breakdown of our repository structure and what each part means. Think of it as navigating through a big collaborative project where every file and directory plays a crucial role.
+🤖 Ay yo fellow Jumper! Welcome to the Jumpstyle United Nations (JUN) repository. Here’s a clean and quick guide on how to start contributing to JUN's Running Projects by simply being a Jumper.
+
+### 😱 Don't feel afraid or unmotivated if it is your first time here, you'll get addicted to documenting, trust me!
+
+This page is a breakdown of our repository structure and what each part means. Think of it as navigating through a big collaborative library where every file and directory plays a crucial role.
+
+**You are here:** JumpstyleUnitedNations/HowTo/ **StartHere/** and this you're reading is the **README.md** file, each directory should contain a README.md file, so everyone can clearly understand the purpose of that. The extension '.md' means the file is written in Markdown.
+
 
 ## 📂 HowTo/StartHere
 
 The **HowTo/StartHere** directory is your entry point for understanding how to contribute to the Jumpstyle United Nations repository. It contains specific guides to help you get started on different platforms.
 
+- 🛠️ Use JUN Toolkit to help you through contributing proccess ► [🛠️ JUN Toolkit](./JUNToolkit/)
+
+## Choose
 ### 1. **PC** 💻
 
 This guide is tailored for contributors using a PC or desktop browser.
-[HowTo/StartHere/PC](./PC)
+- [HowTo/StartHere/PC](./PC)
+- [My PC looks different](../)
 
 ### 2. **Mobile** 📱
 
 This guide is for contributors using mobile devices.
-[HowTo/StartHere/Mobile](./Mobile)
+- [HowTo/StartHere/Mobile](./Mobile)
+- [My Phone looks different.](../)
 
 ## 📂 JumpstyleUnitedNations Repository Structure
 

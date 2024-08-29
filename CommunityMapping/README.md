@@ -18,7 +18,7 @@ Our mission is to build a comprehensive map of the **Jumpstyle** world, highligh
 - [JumpstyleFrameworks](https://github.com/Mreaggle/JumpstyleUnitedNations/JumpstyleFrameworks): Frameworks and tools for improving your Jumpstyle technique.
 - [JumpstyleArchive](https://github.com/Mreaggle/JumpstyleUnitedNations/JumpstyleArchive): Explore the rich history and evolution of Jumpstyle.
 - [DigitalJumpstylePlatform](https://github.com/Mreaggle/JumpstyleUnitedNations/DigitalJumpstylePlatform): Your go-to platform for all things Jumpstyle.
-- [AwesomeJumpstyle](https://github.com/Mreaggle/JumpstyleUnitedNations#awesomejumpstyle)
+- [AwesomeJumpstyle](https://github.com/Mreaggle/JumpstyleUnitedNations)
 
 ## 🤝 Get Involved
 

@@ -6,7 +6,7 @@
 
 This directory is dedicated to storing information about Jumpstyle's dance key figures. This way we can remember everyone who made Jumpstyle dance is what it is today, from the early days to the present. 
 
-We're building a sick timeline here, and every impactful jumper deserves to be remembered!
+We're building a sick timeline here that is part from The Jumpstyle Timeline, every engaged or impactful jumper deserves to be remembered!
 
 💪 **Jumpstyle Eras and Key Figures** 💪
 
@@ -145,8 +145,17 @@ Those people have meaningful impact over their Nation-communities and Global Jum
 ### 🇧🇷 Brazil 🇧🇷
 >Authenticity and Diversity!
 - [Matrix](https://www.youtube.com/watch?v=UEsnPlV6BK0&t=85s)
+- [Cursebird](https://www.youtube.com/watch?v=RKx9TwpFb20)
+- [Mreaggle](https://www.youtube.com/watch?v=Me1ai6JBvmo)
+- [LuFe](https://www.youtube.com/watch?v=bzs3qnLRcd4)
 
 ### 🇩🇪 Germany 🇩🇪
+Positive ambition and Unity!
+- [SonnyJumpen](https://www.youtube.com/watch?v=UEsnPlV6BK0)
+- [Rebel-S](https://www.youtube.com/watch?v=5L2tp7EGAI0)
+- [Owen](https://www.youtube.com/watch?v=SR1QVHvYLa0)
+- [Linda](https://www.youtube.com/watch?v=EAIjVJjkneQ)
+- [Ducci](https://www.youtube.com/watch?v=QSXwGWTI1lM)
 
 ### 🇲🇽 Mexico 🇲🇽
 Powerfulness and Bravery!
@@ -154,8 +163,8 @@ Powerfulness and Bravery!
 
 ### 🇨🇱 Chile 🇨🇱
 >Innovation and Identity!
-- [Lauth] [https://youtu.be/1_Z3f4ZFfxQ?si=4LoSb9p35vwbYG1E](https://youtu.be/1_Z3f4ZFfxQ?si=4LoSb9p35vwbYG1E)
-- [Kada](https://www.youtube.com/watch?v=eS8vf8d0rBI)
+- [Lauth](https://www.youtube.com/watch?v=1_Z3f4ZFfxQ)
+- [Kada](https://www.youtube.com/watch?v=1_Z3f4ZFfxQ)
 
 ### 🇮🇩 Indonesia 🇮🇩
 >Limitless and Rythmic!

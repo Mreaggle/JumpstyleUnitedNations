@@ -35,24 +35,26 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
  - We hardly work to keep important key figures from both music and dance scenes supporting us on spreading proper and accurate information.
 
 #### Volunteers:
-| 🇧🇷 (9) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
+| 🇧🇷 (8) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
 |--------|---------|---------|---------|
 | 🇪🇸 (2) | 🇵🇱 (4) | 🇷🇺 (1) | 🇯🇵 (1) |
-| 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (?) |
-| 🇮🇩 (1) | 🇺🇸 (1) |         |         |
+| 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (1) |
+| 🇮🇩 (2) | 🇺🇸 (2) |         |         |
 
-🇧🇷 (8) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa
-🇻🇪 (1) - Honterz
-🇳🇱 (2) - Dion, Jelle
-🇨🇱 (3) - Lauth, Mat1, Neon
-🇪🇸 (2) - DejuX, Daiser
-🇵🇱 (4) - Zygzak, Philip, Effect, Luksy, Żyto
-🇷🇺 (1) - SheVa
-🇯🇵 (1) - SolaR
-🇧🇪 (1) - Marjin
-🇮🇹 (2) - Yalser, 2jumperz
-🇫🇷 (3) - Mr. Covin, Snak’e, EDX
-🇮🇩 (1) - MKP
+- 🇧🇷 (8) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa
+- 🇻🇪 (1) - Honterz
+- 🇳🇱 (2) - Dion, Jelle
+- 🇨🇱 (3) - Lauth, Mat1, Neon
+- 🇪🇸 (2) - DejuX, Daiser
+- 🇵🇱 (4) - Zygzak, Philip, Effect, Luksy, Żyto
+- 🇷🇺 (1) - SheVa
+- 🇯🇵 (1) - SolaR
+- 🇧🇪 (1) - Marjin
+- 🇮🇹 (2) - Yalser, 2jumperz
+- 🇫🇷 (3) - Snak’e, EDX
+- 🇮🇩 (1) - MKP, Jaegar
+- 🇺🇸 (2) - Zöe, Grinzler
+- 🇦🇷 (1) - IvaN
 
 ---
 
@@ -65,29 +67,28 @@ Find all needed information on how to contribute under [./HowTo/ branch.](./HowT
 
 ### Running Projects
 
-- **⌛ The Jumpstyle Timeline:**  
+- [**⌛ The Jumpstyle Timeline:**](/JumpstyleTimeline/)
   A collaborative project documenting the history of Jumpstyle from various perspectives and experiences. 
 
-- **🗃️ The Jumpstyle Archive:**  
-  A collaborative project documenting the history of Jumpstyle from various perspectives and experiences.  
-- **Building The Collaborative Jumpstyle 
+- [**🗃️ The Jumpstyle Archive:**](/JumpstyleArchive/)
+  A huge collaborative repository documenting all knowledge, media and information available (and even unavailable) of Jumpstyle from various perspectives and experiences.
 
-- **🗺️ The Jumpstyle Frameworks**  
+- [**🧩 The Jumpstyle Frameworks**](/JumpstyleFrameworks/)
   Open share of validated standards, guidelines, good practices, routines, competition systems and similar.
 
-- **🗺️ The Community Mapping**  
+- [**🗺️ The Community Mapping**](/CommunityMapping/)
   Mapping specifications around active and inactive communities on JUN Nation-community framework.  
   - 🇧🇷 Brazil ✅
   - 🇷🇺 Russia ✅
   - Other nations in progress...
 
-- **🛠️ The JUNToolkit:**
+- [**🛠️ The JUNToolkit:**](/JUNToolkit/)
    A curated tool set of all kinds that will lead a volunteer's work a lot easier.
 
-- **The Digital Jumpstyle Platform** 
+- [**🖥️ The Digital Jumpstyle Platform**](/DigitalJumpstylePlatform/)
    A place to innovate and make good use of data and information centralized in JUN. All projects originated in JUN will be used here to build a bigger platform for Jumpers around the World.
 
-- **Updating AwesomeJumpstyle**
+- [**😎 AwesomeJumpstyle** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)](#)
    AwesomeJumpstyle is the most updated list of current events in Jumpstyle scene.
 
 ---

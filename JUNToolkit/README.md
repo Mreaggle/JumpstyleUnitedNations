@@ -6,24 +6,32 @@ Welcome to the resource guide for all things related to Jumpstyle projects! This
 
 ## Table of Contents
 
-1. [Historical Data Research](#historical-data-research)
-2. [Music Discovery](#music-discovery)
-3. [Content Creation and Collaboration](#content-creation-and-collaboration)
-4. [Poll and Survey Tools](#poll-and-survey-tools)
-5. [Additional Resources](#additional-resources)
+1. [KeyFiguresWorldwide](./KeyFiguresWorldwide/Dance/README.md)
+2. [Historical Data Research](#historical-data-research)
+3. [Music Discovery](#music-discovery)
+4. [Content Creation and Collaboration](#content-creation-and-collaboration)
+5. [Poll and Survey Tools](#poll-and-survey-tools)
+6. [Additional Resources](#additional-resources)
 
 ---
 
 ## Historical Data Research
 
-### 1. Wayback Machine
+### 1. Key Figures Worldwide
+
+**Description:** The Key Figures Worldwide project is an index for jumpers, artists, groups and events that somehow influenced the scene as a whole.
+
+- **Directory:** [JUNToolkit/KeyFiguresWorldwide](./KeyFiguresWorldwide/Dance/README.md)
+- **How to Use:** Enter the URL of the website you want to explore and select a date from the available snapshots.
+
+### 2. The Wayback Machine
 
 **Description:** The Wayback Machine is an internet archive that allows you to access old versions of websites. This is particularly useful for retrieving information from defunct websites or understanding the history of online communities.
 
 - **Website:** [archive.org/web](https://archive.org/web)
 - **How to Use:** Enter the URL of the website you want to explore and select a date from the available snapshots.
 
-### 2. Google Search Operators
+### 3. Google Search Operators
 
 **Description:** Google search operators are special commands you can use in Google Search to refine your search results. These are great for finding specific information or historical records.
 
@@ -33,7 +41,7 @@ Welcome to the resource guide for all things related to Jumpstyle projects! This
 
 - **Guide:** [Google Search Operators Guide](https://moz.com/learn/seo/search-operators)
 
-### 3. Internet Archive
+### 4. Internet Archive
 
 **Description:** Beyond the Wayback Machine, the Internet Archive hosts a massive collection of digital media, including texts, videos, audio recordings, and more. 
 
@@ -121,6 +129,36 @@ Welcome to the resource guide for all things related to Jumpstyle projects! This
 
 - **Website:** [strawpoll.com](https://www.strawpoll.me/)
 - **How to Use:** Create a poll, share the link, and see the results in real time.
+### StrawPoll similar tools:
+2. [Doodle](https://doodle.com/)
+3. [Google Forms](https://forms.google.com/)
+4. [PAID - SurveyMonkey](https://www.surveymonkey.com/)
+5. [Typeform](https://www.typeform.com/)
+6. [Poll Everywhere](https://www.polleverywhere.com/)
+7. [Kahoot!](https://kahoot.com/)
+8. [Mentimeter](https://www.mentimeter.com/)
+9. [Crowdsignal](https://crowdsignal.com/)
+10. [Slido](https://www.sli.do/)
+11. [Socrative](https://www.socrative.com/)
+12. [PollMaker](https://www.poll-maker.com/)
+13. [Polltab](https://polltab.com/)
+14. [Quizizz](https://quizizz.com/)
+15. [SurveyLegend](https://www.surveylegend.com/)
+16. [Zoho Survey](https://www.zoho.com/survey/)
+17. [Microsoft Forms](https://forms.office.com/)
+18. [Pigeonhole Live](https://www.pigeonholelive.com/)
+19. [Tricider](https://www.tricider.com/)
+20. [Quizlet](https://quizlet.com/)
+21. [Survio](https://www.survio.com/)
+22. [Obsurvey](https://www.obsurvey.com/)
+23. [Qzzr](https://www.qzzr.com/)
+24. [LimeSurvey](https://www.limesurvey.org/)
+25. [EasyPolls](https://www.easypolls.net/)
+26. [PAID - SurveyGizmo (Alchemer)](https://www.alchemer.com/)
+27. [Formstack](https://www.formstack.com/)
+24. [VoxVote](https://www.voxvote.com/)
+29. [Micropoll](http://www.micropoll.com/)
+30. [Zoho Polls](https://www.zoho.com/survey/polls.html)
 
 ---
 
