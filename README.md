@@ -13,6 +13,7 @@ We aim to improve archive maintenance, build relationships, and spread accurate 
 > - [🤝 Help us](#the-general-assembly)
 > - [📋 Awesome Lists](#awesomejumpstyle)
 > - [🗳️ Voting Tools](#online-poll-platforms)
+
 > Discover jumpers, artists, communities, events, utilities, and more!
 > 
 > Show your support for the dance by signing the peace treaty!
