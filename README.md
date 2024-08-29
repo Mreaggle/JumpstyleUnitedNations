@@ -50,83 +50,6 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
 
 ---
 
-## 📂 JUN Repository Structure
-
-### JumpstyleUnitedNations
-
-Projects within JumpstyleUnitedNations repository are called 'branches' in GitHub, those are our current branches:
-
-1. **📂 JumpstyleTimeline**  
-   Collaborative project to document the history of Jumpstyle across different nations. Each nation has its own directory to update its history, type in Markdown to contribute and keep in mind that uploading content inside the repository before pasting their URLs/links is always better than external hyperlinks (media for example).
-
-     - 📂 Nation-communities
-       - nation-timeline.md
-     - 📂 KeyFigures
-       - 📂 Dance
-         - README.md
-         - 📂 Jumpers
-           - jumper.md
-
-2. **📂 JumpstyleFrameworks**  
-   A curated archive of free and open frameworks, standards, routines, competition systems and utilities for building and maintaining the Global Community.
-
-3. **📂 JumpstyleArchive**  
-   Archives of The Global Community, organized by continents nations and states (even for provinces, cities or similar), with information about national teams and state-communities.
-   
-   - **📂 Continents**  
-     - **📂 Africa**  
-         - 📂 African Nation-communities
-           - 📂 NationalTeams
-           - 📂 State-communities
-
-     - **📂 Americas**  
-         - 📂 Central American Nation-communities
-           - 📂 NationalTeams
-           - 📂 State-communities           
-         - 📂 North American Nation-communities
-           - 📂 NationalTeams
-           - 📂 State-communities         
-         - 📂 South American Nation-communities
-           - 📂 NationalTeams
-           - 📂 State-communities         
-     - **📂 Asia**  
-         - 📂 Asian Nation-communities
-           - 📂 NationalTeams
-           - 📂 State-communities         
-     - **📂 Europe**  
-         - 📂 European Nations-communities
-           - 📂 NationalTeams
-           - 📂 State-communities         
-     - **Oceania**
-         - 📂 Oceanian Nation-communities   
-           - 📂 NationalTeams
-           - 📂 State-communities         
-   - **Global**  
-       - 📂 Continental Communities
-       - 📂 International Communities
-   
-   - **📂 Active Nation-Communities**  
-       - 📂 Nation-communities
-     Find active jumpers and communities worldwide.
-
-4. **📂 HowTo**  
-   Guides for different platforms and systems to help you start contributing to the repository.  
-
-     - 📂 Android
-     - 📂 Browser (PC, Phone)
-     - 📂 CommandLine
-     - 📂 iOS
-     - 📂 Linux
-     - 📂 MacOS
-     - 📂 Typing
-     - 📂 Windows
-
-4. **📂 CommunityMapping**  
-   Different communities built within different Nations (active or not) are called "Nation-communities" inside JUN, their specifications are going to be collected here so it must be considered a legit community.
-
-3. **📂 JUNToolkit**
-   A curated tool set of all kinds that will lead a volunteer's work a lot easier.
-     - 📂 KeyFiguresWorldWide
 ---
 
 ## Volunteering
@@ -163,8 +86,8 @@ Find all needed information on how to contribute under [./HowTo/ branch.](./HowT
 
 ---
 ###### `📩 Apply now by sending us a DM on our [Instagram page (@jumpstyleunitednations)](https://instagram.com/JumpstyleUnitedNations) so you can speak for your nation and discuss on the board. Read [rules](#volunteering) before starting.`
-
-# AwesomeJumpstyle
+---
+# :sunglasses: AwesomeJumpstyle :sunglasses:
 
 ## Global Communities
 

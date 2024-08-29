@@ -1,5 +1,3 @@
-Here's a UX-focused README file that provides a list of useful tools for projects involving historical data research, music discovery, and more:
-
 ---
 
 # 📚 Useful Tools for Jumpstyle and Historical Data Projects
