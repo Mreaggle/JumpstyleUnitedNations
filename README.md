@@ -1,5 +1,9 @@
 # $\color{Aquamarine}{🌐\ JumpstyleUnitedNations}$ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b6dcf1a-f18f-469f-bd12-6b59565badfd" width="250" alt="IMG_6848-removebg-preview (1)"/>
+</p>
+
 ---
 ```
 ░░░░░██╗██╗░░░██╗███╗░░██╗
@@ -19,7 +23,7 @@ We aim to improve archive maintenance, build relationships, and spread accurate 
 
 > - [❓ START HERE](./HowTo/StartHere/)
 > - [🤝 Who is JUN?](#the-general-assembly)
-> - [🔄 Running Projects](#current-volunteering-tasks)
+> - [🔄 Running Projects](#running-projects)
 > - [🛠️ JUN Toolkit](./JUNToolkit/)
 > - [📸 Instagram](https://instagram.com/JumpstyleUnitedNations)
 > - [📋 Awesome Lists](#awesomejumpstyle)
