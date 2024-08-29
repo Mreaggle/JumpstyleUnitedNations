@@ -110,7 +110,7 @@ Click on the country flag to jump directly to the list of volunteers from that n
 
 - [IvaN](https://www.youtube.com/watch?v=p6JSrUMydo8)
 
-### Lithuania
+### 🇱🇹 Lithuania
 
 - [Decade](https://www.youtube.com/watch?v=qdjhTgYcxA8)
 
