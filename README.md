@@ -70,7 +70,6 @@ Find all needed information on how to contribute under [./HowTo/ branch.](./HowT
 
 - **🗃️ The Jumpstyle Archive:**  
   A collaborative project documenting the history of Jumpstyle from various perspectives and experiences.  
-- **Building The Collaborative Jumpstyle 
 
 - **🗺️ The Jumpstyle Frameworks**  
   Open share of validated standards, guidelines, good practices, routines, competition systems and similar.
