@@ -38,8 +38,8 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
 | 🇧🇷 (9) | 🇻🇪 (1) | 🇳🇱 (2) | 🇨🇱 (3) |
 |--------|---------|---------|---------|
 | 🇪🇸 (2) | 🇵🇱 (4) | 🇷🇺 (1) | 🇯🇵 (1) |
-| 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (?) |
-| 🇮🇩 (1) | 🇺🇸 (1) |         |         |
+| 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (3) | 🇦🇷 (1) |
+| 🇮🇩 (2) | 🇺🇸 (2) |         |         |
 
 🇧🇷 (8) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa
 🇻🇪 (1) - Honterz
@@ -51,8 +51,10 @@ Feel free to contribute and share insights about your national Jumpstyle scene. 
 🇯🇵 (1) - SolaR
 🇧🇪 (1) - Marjin
 🇮🇹 (2) - Yalser, 2jumperz
-🇫🇷 (3) - Mr. Covin, Snak’e, EDX
-🇮🇩 (1) - MKP
+🇫🇷 (3) - Snak’e, EDX
+🇮🇩 (1) - MKP, Chan
+🇺🇸 (2) - Zöe, Grinzler
+🇦🇷 (1) - IvaN
 
 ---
 
