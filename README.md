@@ -61,7 +61,7 @@ We continuously search for contributors from all the Jumpstyle Eras, including t
 - 🇮🇹 (2) - Yalser, 2jumperz
 - 🇫🇷 (2) - Snak’e, EDX
 - 🇮🇩 (1) - MKP, Jaegar
-- 🇺🇸 (2) - Zöe, Grinzler
+- 🇺🇸 (2) - Zoë, Grinz
 - 🇦🇷 (1) - IvaN
 - 🇱🇹 (1) - Decade
 
