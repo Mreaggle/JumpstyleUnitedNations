@@ -152,7 +152,7 @@ Add your Nation's information.
 - **February**:
   - The year that saw the explosion of Jumpstyle as a dance all over the Global, with hits such as Scooter - Jumping All Over The Global, Patrick Jumpen - The Secret and Holiday, Jeckyll & Hyde - Freefall and Frozen Flame.
 - **March**:
-  - [One of DuoJump's videos, which would become one of his most famous, is released to promote belgian-jumpstyle.com. It is already possible to see hardjump moves being performed.](https://www.youtube.com/watch?v=B4FP-ACzWks)
+  - [One of the most famous Duo Jump's videos, is released to promote belgian-jumpstyle.com. It is already possible to see hardjump moves being performed.](https://youtu.be/IUbh_FCo8QU?si=Fs3egYB4yKgmQ5Rb)
 - **April**:
   - The Germans create meetings focused on the massive MultiJump, the first meeting takes place in Berlin and around this time the dance officially migrates to digital via YouTube, becoming famous globally.
 - **May**:
