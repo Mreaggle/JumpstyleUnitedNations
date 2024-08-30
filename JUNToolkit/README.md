@@ -20,6 +20,8 @@ Welcome to the resource guide for all things related to Jumpstyle projects! This
 
 ## Historical Data Research
 
+ - You can sort videos by tagging them as before:YYYY-MM-DD so, to watch a video that was released before January 1st, 2015, you search before:2015-01-01 + you can narrow the search as you'd like. It also works with after:YYYY-MM-DD. It's not perfect, but it's as good as it gets.
+
 ### 1. Key Figures Worldwide
 
 **Description:** The Key Figures Worldwide project is an index for jumpers, artists, groups and events that somehow influenced the scene as a whole.
