@@ -49,7 +49,7 @@ We continuously search for contributors from all the Jumpstyle Eras, including t
 | 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (2) | 🇦🇷 (1) |
 | 🇮🇩 (2) | 🇺🇸 (2) | 🇱🇹 (1) |         |
 
-- 🇧🇷 (8) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa, Digo
+- 🇧🇷 (9) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa, Digo
 - 🇻🇪 (1) - Honterz
 - 🇳🇱 (2) - Dion, Jelle
 - 🇨🇱 (3) - Lauth, Mat1, Neon
