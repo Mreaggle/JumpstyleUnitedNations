@@ -15,15 +15,15 @@ We'll break down the timeline by Jumpstyle eras, making it easier to navigate. F
 We started by studying on how to name Jumpstyle age perspectives, such as:
 
 - └── 1991 - 2004 The Undeground/Clubber | Skïen/Stamping Era
-    - └── 2005 - The Internet/Google Videos | Oldschool/Tekstyle Era
-        - └── 2006 - The Internet/YouTube | Youth/Fun Era
-            - └── 2007 - Internet/Patrick Jumpen | Meetings/HardJump Era
-                - └── 2008 - Internet/Competitive | Random Terminology era
-                    - └── 2009 - Internet/Competitive | Polish Ownstyle/Russian Sidejump
-                        - └── 2013 Internet/Competitive | Facebook/Jumpstyle-only Era
-                            - └── 2016 Internet/Competitive | Instagram/Global Era
-                                - └── 2020 TikTok/Pandemics | Yabujin/RomancePlanet | Fortnite/Roblox Era
-                                    - └── 2024 Internet/Competitive | Internet/Music | Jumpstyle Peace Era
+- └── 2005 - The Internet/Google Videos | Oldschool/Tekstyle Era
+- └── 2006 - The Internet/YouTube | Youth/Fun Era
+- └── 2007 - Internet/Patrick Jumpen | Meetings/HardJump Era
+- └── 2008 - Internet/Competitive | Random Terminology era
+- └── 2009 - Internet/Competitive | Polish Ownstyle/Russian Sidejump
+- └── 2013 Internet/Competitive | Facebook/Jumpstyle-only Era
+- └── 2016 Internet/Competitive | Instagram/Global Era
+                                - └──2020 TikTok/Pandemics | Yabujin/RomancePlanet | Fortnite/Roblox Era
+                                    -└── 2024 Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 # 🔥⚡️ Jumpstyle Timeline - Key Figures  ⚡️🔥
 Get a brief of the most impactful for the Global Community and after that, a granular list on each Nation's perspectives.
