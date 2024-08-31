@@ -23,7 +23,7 @@ We started by studying on how to name Jumpstyle age perspectives, such as:
 - └── 2013 Internet/Competitive | Facebook/Jumpstyle-only Era
 - └── 2016 Internet/Competitive | Instagram/Global Era
                                 - └──2020 TikTok/Pandemics | Yabujin/RomancePlanet | Fortnite/Roblox Era
-                                    -└── 2024 Internet/Competitive | Internet/Music | Jumpstyle Peace Era
+                                    - └── 2024 Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 # 🔥⚡️ Jumpstyle Timeline - Key Figures  ⚡️🔥
 Get a brief of the most impactful for the Global Community and after that, a granular list on each Nation's perspectives.
