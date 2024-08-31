@@ -47,7 +47,7 @@ We continuously search for contributors from all the Jumpstyle Eras, including t
 |--------|---------|---------|---------|
 | 🇪🇸 (2) | 🇵🇱 (4) | 🇷🇺 (1) | 🇯🇵 (1) |
 | 🇧🇪 (1) | 🇮🇹 (2) | 🇫🇷 (2) | 🇦🇷 (1) |
-| 🇮🇩 (2) | 🇺🇸 (2) | 🇱🇹 (1) |         |
+| 🇮🇩 (2) | 🇺🇸 (2) | 🇱🇹 (1) | 🇺🇦 (1) |
 
 - 🇧🇷 (9) - RafaJ, Mreaggle, Tibirius, Matrix, ELNT, LuFe, Xafiix, LuVa, Digo
 - 🇻🇪 (1) - Honterz
@@ -64,7 +64,7 @@ We continuously search for contributors from all the Jumpstyle Eras, including t
 - 🇺🇸 (2) - Zoë, Grinz
 - 🇦🇷 (1) - IvaN
 - 🇱🇹 (1) - Decade
-
+- 🇺🇦 (1) - Shkap
 ---
 ## [Volunteering](/HowTo/StartHere/)
 
