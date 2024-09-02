@@ -13,7 +13,10 @@
   - [Systm posts his first video](https://youtu.be/eIzr4G15OZc?si=tjL8TkvpYQiri9lr)
   
 - **October**:
-  - Dance Generation USA is founded
+  - Dance Generation USA was founded as the largest USA Electro dance group that promoted dancers from coast to coast. The group was mainly focused on promoting Electro dance but Jumpstyle was also promoted within this group and it was also the way that Double Helix was able to collaborate with Hops.
+  
+- **November**:
+  - [J-man Jumper was the first person to make a Jumpstyle promo video in an attempt to bring Hardstyle Jumpstyle and Melbourne shuffling to the United States from Europe](https://youtu.be/m-BnQNzSW1g?si=1OuDPJq1FPYq39Sw)  
 
 ---
 
@@ -29,11 +32,6 @@
 - **July**:
   - [DJ Kruze makes a USA jumpstyle movie for USA Dance Generation](https://youtu.be/jMohZScdR_Q?si=MnQlAGljkA6pxI4m)
   
-- **November**:
-  - [J-man Jumper was the first person to make a Jumpstyle promo video in an attempt to bring Hardstyle Jumpstyle and Melbourne shuffling to the United States from Europe](https://youtu.be/m-BnQNzSW1g?si=1OuDPJq1FPYq39Sw)  
-  
----
-
 #### 2010: [Brief Overview of Contributions]
 
 - **July**:
