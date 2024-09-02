@@ -2,1095 +2,611 @@
 
 ## United States of America
 
-### Undeground/Clubber/Skïen Era
-
-#### 1997: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  - [Event or Contribution 2](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-
-#### 1998: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-
-#### 1999: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-
-#### 2000: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-
-#### 2001: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-
-#### 2002: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-
-#### 2003: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-
-#### 2004: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-### Internet/Google Videos/Oldschool Era
-#### 2005: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-### Internet/YouTube Era
-#### 2006: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
-### Internet/Patrick Jumpen/HardJump era
-#### 2007: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
-
----
 ### Internet/Competitive Era
+
 #### 2008: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
   
-- **February**: 
-  - [Event or Contribution 1](#)
+- **March**:
+  - [Black is the first american jumper to post a Jumpstyle video to Youtube](https://youtu.be/lrxZMMh75aA?si=4R04vSSrP4oGBg_J)
   
-- **March**: 
-  - [Event or Contribution 1](#)
+- **May**:
+  - [Systm posts his first video](https://youtu.be/eIzr4G15OZc?si=tjL8TkvpYQiri9lr)
   
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+- **October**:
+  - Dance Generation USA is founded
 
 ---
-### Internet/Competitive/Ownstyle/Sidejump era
-#### 2009: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
-  
-- **February**: 
-  - [Event or Contribution 1](#)
-  
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
 
+### Internet/Competitive/Ownstyle/Sidejump era
+
+#### 2009: [Brief Overview of Contributions]
+
+- **March**:
+  - [Psychsz is introduced to jumpstyle but only for a short period of time](https://youtu.be/8XGhE5c_omM?si=9jz94os0GP0rAPFT)
+  - [Psychsz and DoubleHelix make the first in person American Jumpstyle Collaboration video](https://youtu.be/Abam3WruE-Y?si=0iEaITfqbnPtCrNf)
+  - [J-Man was the 2nd American jumper to post a video to the internet after being the first jumper to promote the dance style to the united states](https://youtu.be/zyqhsZ6pGfU?si=hTACbxs2L77KhQmz)
+
+- **July**:
+  - [DJ Kruze makes a USA jumpstyle movie for USA Dance Generation](https://youtu.be/jMohZScdR_Q?si=MnQlAGljkA6pxI4m)
+  
+- **November**:
+  - [J-man Jumper was the first person to make a Jumpstyle promo video in an attempt to bring Hardstyle Jumpstyle and Melbourne shuffling to the United States from Europe](https://youtu.be/m-BnQNzSW1g?si=1OuDPJq1FPYq39Sw)  
+  
 ---
 
 #### 2010: [Brief Overview of Contributions]
-- **January**: 
-  - [Event or Contribution 1](#)
+
+- **July**:
+  - [Spinfreak works with DJ Kruze to become the first american jumper and american hardstyle DJ duo to collaborate on a jumpstyle project in the united states](https://youtu.be/_ddYeegtxJk?si=jXouLksrl-cbpIrr)
   
-- **February**: 
-  - [Event or Contribution 1](#)
+- **November**:
+  - [The American Connection was the first American jumpstyle movie created with at least 5 jumpers. The 5 jumpers included Doublehelix Black Spinfreak Binda and Systm. During this time Binda had already stopped dancing jumpstyle after about 1.5-2 years of dancing.](https://youtu.be/d6UIdWoRtSc?si=J6r1_VV1oxMAyjAi)
   
-- **March**: 
-  - [Event or Contribution 1](#)
-  
-- **April**: 
-  - [Event or Contribution 1](#)
-  
-- **May**: 
-  - [Event or Contribution 1](#)
-  
-- **June**: 
-  - [Event or Contribution 1](#)
-  
-- **July**: 
-  - [Event or Contribution 1](#)
-  
-- **August**: 
-  - [Event or Contribution 1](#)
-  
-- **September**: 
-  - [Event or Contribution 1](#)
-  
-- **October**: 
-  - [Event or Contribution 1](#)
-  
-- **November**: 
-  - [Event or Contribution 1](#)
-  
-- **December**: 
-  - [Event or Contribution 1](#)
+- **December**:
+  - [The 2nd USA Jumpstyle collaboration video comes out in which the American connection collabs with LAHJ and other jumpers for USA dance generation](https://youtu.be/iSYM9Ds-hQE?si=VQp3uBSzf6cAMnfB)
 
 ---
 
 #### 2011: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2012: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2013: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
+
 ### Internet/Competitive/Jumpstyle era
+
 #### 2014: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2015: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2016: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2017: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2018: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2019: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
+
 ### Internet/TikTok/Yabujin/RomancePlanet/Pandemics Era
+
 #### 2020: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2021: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2022: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
 
 #### 2023: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
 
 ---
+
 ### Jumpstyle Comeback Era
+
 #### 2024: [Brief Overview of Contributions]
-- **January**: 
+
+- **January**:
   - [Event or Contribution 1](#)
   
-- **February**: 
+- **February**:
   - [Event or Contribution 1](#)
   
-- **March**: 
+- **March**:
   - [Event or Contribution 1](#)
   
-- **April**: 
+- **April**:
   - [Event or Contribution 1](#)
   
-- **May**: 
+- **May**:
   - [Event or Contribution 1](#)
   
-- **June**: 
+- **June**:
   - [Event or Contribution 1](#)
   
-- **July**: 
+- **July**:
   - [Event or Contribution 1](#)
   
-- **August**: 
+- **August**:
   - [Event or Contribution 1](#)
   
-- **September**: 
+- **September**:
   - [Event or Contribution 1](#)
   
-- **October**: 
+- **October**:
   - [Event or Contribution 1](#)
   
-- **November**: 
+- **November**:
   - [Event or Contribution 1](#)
   
-- **December**: 
+- **December**:
   - [Event or Contribution 1](#)
