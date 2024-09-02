@@ -4,7 +4,7 @@
 
 ### Internet/Competitive Era
 
-#### 2008: [Brief Overview of Contributions]
+#### 2008:
   
 - **March**:
   - [Black is the first american jumper to post a Jumpstyle video to Youtube](https://youtu.be/lrxZMMh75aA?si=4R04vSSrP4oGBg_J)
@@ -22,7 +22,7 @@
 
 ### Internet/Competitive/Ownstyle/Sidejump era
 
-#### 2009: [Brief Overview of Contributions]
+#### 2009:
 
 - **March**:
   - [Psychsz is introduced to jumpstyle but only for a short period of time](https://youtu.be/8XGhE5c_omM?si=9jz94os0GP0rAPFT)
@@ -32,7 +32,7 @@
 - **July**:
   - [DJ Kruze makes a USA jumpstyle movie for USA Dance Generation](https://youtu.be/jMohZScdR_Q?si=MnQlAGljkA6pxI4m)
   
-#### 2010: [Brief Overview of Contributions]
+#### 2010:
 
 - **July**:
   - [Spinfreak works with DJ Kruze to become the first american jumper and american hardstyle DJ duo to collaborate on a jumpstyle project in the united states](https://youtu.be/_ddYeegtxJk?si=jXouLksrl-cbpIrr)
