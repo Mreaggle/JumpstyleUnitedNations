@@ -47,6 +47,7 @@
   - [The American Connection was the first American jumpstyle movie created with at least 5 jumpers. The 5 jumpers included Doublehelix Black Spinfreak Binda and Systm. During this time Binda had already stopped dancing jumpstyle after about 1.5-2 years of dancing.](https://youtu.be/d6UIdWoRtSc?si=J6r1_VV1oxMAyjAi)
   
 - **December**:
+  - [The group known as the Los Angeles Hard Jumperz performs a Jumpstyle demo by Black Mask Productions in Venice Beach California. The Jumpers in this video consisted of Hops, Enik, Flash, Fuzer and Force.](https://youtu.be/OEldnGwP0VU?si=j_4oI_oh8U7OzWOS)
   - [The 2nd USA Jumpstyle collaboration video comes out in which the American connection collabs with LAHJ and other jumpers for USA dance generation](https://youtu.be/iSYM9Ds-hQE?si=VQp3uBSzf6cAMnfB)
 
 ---
