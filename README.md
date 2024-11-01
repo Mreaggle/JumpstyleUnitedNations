@@ -3,8 +3,13 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2b6dcf1a-f18f-469f-bd12-6b59565badfd" width="250" alt="IMG_6848-removebg-preview (1)"/>
 </p>
-
+We are working on more inovations like this, e a part by openly commenting or suggesting aything at: [JUN - Global Jumpstyle - WhatsApp](https://chat.whatsapp.com/FgkFtEDoLqzJJQfRyZG6Fi)
 ---
+ T R A N S L A T E |
+|-----------|
+| Select your language before aenything.  |
+|-----------|
+| [![Português](🇧🇷)](https://translate.google.com/translate?sl=auto&tl=pt&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Español - Venezuela](🇻🇪g)](https://translate.google.com/translate?sl=auto&tl=es&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Nederlands](🇳🇱)](https://translate.google.com/translate?sl=auto&tl=nl&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Español - Chile](🇨🇱)](https://translate.google.com/translate?sl=auto&tl=es&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Español - España](🇪🇸g)](https://translate.google.com/translate?sl=auto&tl=es&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Polski](🇵🇱)](https://translate.google.com/translate?sl=auto&tl=pl&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Русский](🇷🇺)](https://translate.google.com/translate?sl=auto&tl=ru&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![日本語](🇯🇵)](https://translate.google.com/translate?sl=auto&tl=ja&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Français - Belgique](🇧🇪)](https://translate.google.com/translate?sl=auto&tl=fr&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Italiano](🇮🇹)](https://translate.google.com/translate?sl=auto&tl=it&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Français - France](https://www.countryflags.io/fr/flat/24.png)](https://translate.google.com/translate?sl=auto&tl=fr&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Español - Argentina](🇦🇷)](https://translate.google.com/translate?sl=auto&tl=es&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Bahasa Indonesia](🇮🇩)](https://translate.google.com/translate?sl=auto&tl=id&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![English - USA](🇺🇸)](https://translate.google.com/translate?sl=auto&tl=en&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Lietuvių](🇱🇹)](https://translate.google.com/translate?sl=auto&tl=lt&u=https://github.com/Mreaggle/JumpstyleUnitedNations) [![Українська](🇺🇦)](https://translate.google.com/translate?sl=auto&tl=uk&u=https://github.com/Mreaggle/JumpstyleUnitedNations) |
 
 ## The Global Jumpstyle Scene Body
 
