@@ -189,7 +189,7 @@
 ---
 -   **March**: [Iconic Russian multijump video (Noisecontrollers - Confucius).](https://www.youtube.com/watch?v=xQIGg9rXsb0)
 -   **April**: [RafaJumpen publishes 2011 Ibirapuera meeting video (BR).](https://www.youtube.com/watch?v=B4FP-ACzWks)
--   **~2011**: Luksy attends first meeting (Krakow). PowerJumper active in 2f2j (NL). Clothing: RU (Beanies, slip-ons, swag pants), PL (Sosho pants, white Vans).
+-   **~2011**: Luksy attends first meeting (Krakow). PowerJumper active in 2f2j (NL). Clothing: RU (Beanies, slip-ons, swag pants), PL (Sosho pants, white Nike Ship and football boots).
 
 #### 2012 🇵🇱 🇧🇷 🇮🇹 🇲🇽 🇨🇱 🇮🇩 🇫🇷 🇺🇦 🇷🇺 🌎
 > Patrick Jumpen & Dion attend Poznan meeting. All-Ass organizes Ibirapuera meeting (BR). Krakow meeting features potentially largest multijump. Sidejump fades as distinct category in Russia. Yabujin active as shuffler/jumper (LT).
