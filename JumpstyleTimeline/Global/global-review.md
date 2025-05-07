@@ -1,4 +1,4 @@
-# Jumpstyle Global Timeline
+# Jumpstyle Global Timeline (review version)
 
 ## Global 🌎
 
