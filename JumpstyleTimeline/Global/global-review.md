@@ -91,7 +91,6 @@
 > Jumpstyle music becomes a clearer genre. Tuning CDs ('Tuning Beats', 'Explosive Car Tuning') feature Jumpstyle. The dance starts appearing in nightclubs, consolidating the old-school base (two kicks forward).
 ---
 -   **~2004**: [Coone - The Return released, considered a key track defining the Jumpstyle sound.](https://www.discogs.com/pt_BR/release/1131509-Coone-The-Return-Remixes)
--   **~2004-2005**: Dion Teurlings & Patrick Jumpen perform their first official show. Choreography for 'Jump For Joy' created.
 
 ---
 
