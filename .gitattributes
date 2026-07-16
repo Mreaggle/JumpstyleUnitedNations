@@ -1,0 +1,2 @@
+# Preserve the byte-exact legacy README without enforcing modern whitespace rules.
+docs/legacy/README-2025.md -whitespace

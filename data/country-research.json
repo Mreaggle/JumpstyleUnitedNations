@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "lastReviewed": "2026-07-16",
+  "statuses": ["research-in-progress", "research-needed", "no-national-file"],
+  "countries": [
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "timeline": "JumpstyleTimeline/Argentina/ar-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": true
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "timeline": "JumpstyleTimeline/Belgium/be-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "timeline": "JumpstyleTimeline/Brazil/br-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "timeline": "JumpstyleTimeline/Chile/cl-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "timeline": "JumpstyleTimeline/Czech Republic/cz-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": true
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "timeline": "JumpstyleTimeline/France/fr-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "timeline": null,
+      "status": "no-national-file",
+      "legacyTemplate": false
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "timeline": "JumpstyleTimeline/Indonesia/id-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "timeline": "JumpstyleTimeline/Italy/it-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "timeline": "JumpstyleTimeline/Japan/jp-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": true
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "timeline": "JumpstyleTimeline/Lithuania/lt-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "timeline": "JumpstyleTimeline/Malaysia/my-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": true
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "timeline": "JumpstyleTimeline/Mexico/mx-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "timeline": "JumpstyleTimeline/Netherlands/nl-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "timeline": "JumpstyleTimeline/Poland/pl-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "timeline": "JumpstyleTimeline/Russia/ru-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "timeline": "JumpstyleTimeline/Spain/es-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": true
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "timeline": "JumpstyleTimeline/USA/us-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "timeline": "JumpstyleTimeline/Ukraine/ua-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "timeline": "JumpstyleTimeline/Venezuela/ve-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": true
+    }
+  ]
+}

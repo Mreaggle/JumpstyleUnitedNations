@@ -71,6 +71,8 @@ Add your Nation's information.
   - The Oh, Complex and Highstreet were all playing Jump in Belgium between 1997-1999.
 - **May**:
   - [Jumper Records is a new label founded by Da Boy Tommy and Da Rick under Impart Productions to recognize Jump as a well-established music genre.](https://www.discogs.com/label/5956-Jumper-Records)
+- **December**:
+  - [Jumper Records' first wave brought together Da Rick's "Attention", Da Boy Tommy's "Little Dicks" and DJ Frank's "Funkin Serious", establishing a dedicated Belgian home for the harder, retro-influenced sound called Jump.](https://www.jumperrecords.com/)
 
 ---
 
@@ -83,6 +85,8 @@ Add your Nation's information.
 #### 1999 🇳🇱 : 
 - **January**:
   - Hardstyle starts raising as a movement and as Netherlands Hardcore/Gabber main alternative, sounding more melodical, atmospheric and easy to listen.
+- **October**:
+  - [Da Boy Tommy's "Halloween" becomes a defining Belgian Jump hit; more than 45,000 copies were sold in Flanders and the single entered the official Ultratop chart.](https://www.ultratop.be/nl/song/57404/Da-Boy-Tommy-Halloween)
 
 ---
 
@@ -142,6 +146,8 @@ Add your Nation's information.
   - [DJ Coone emerges into the Belgium Jump scene, with tracks such as 'Life is Complex', dedicated to Complex nightclub. Patrick Jumpen (Patrick Pereira and Dion Teurlings) becomes one of the first successful projects on YouTube history, reaching millions of views with Tutorials and Jumpstyle Vlogs. Jumpstyle is already generating communities Globalwide and specific technical structures start to develop. 'Jumpstyle' term represents more a dance than a music genre at this point.](https://www.youtube.com/watch?v=B4FP-ACzWks)
 - **August**:
   - The 4-step 'Stamp' basis of Jumpstyle is defined as Hardjump Stamp and new styles emerge from this definition.
+- **October**:
+  - [Dutch teenagers were already learning through shared online videos, giving demonstrations and lessons, and distinguishing standard Jumpstyle from Hardjump before the 2007 commercial peak.](https://3voor12.vpro.nl/lokaal/utrecht/artikelen/overzicht/2007/maart/utracks-musical-the-utrecht-story-en-jumpin-radio.html)
 
 ---
 
@@ -172,6 +178,8 @@ Add your Nation's information.
 - **December**:
   - [Different mainstream artists go viral together, such as Patrick Jumpen, Coone, Jeckyll & Hyde, Scooter, Furax, DJ Marcky, Greg C, Loic D and DJ Porny.](https://www.youtube.com/watch?v=B4FP-ACzWks)
   - [Coone releases "The Return", the song that made jumpstyle spread even more.](https://www.discogs.com/pt_BR/release/1131509-Coone-The-Return-Remixes)
+  - [Jeckyll & Hyde's "Freefall" becomes the only Jumpstyle track to reach number one in the Dutch Top 40; Patrick Jumpen's "Holiday" peaks at number five.](https://www.top40.nl/nieuws-nieuws-back-to-the-zeros-wat-was-hot)
+  - [More than 14,000 people attend Herfstpop in Rijswijk, where Patrick Jumpen opens the festival with a jump contest and Jeckyll & Hyde also perform, showing how deeply the Belgian-born trend had entered Dutch youth culture.](https://3voor12.vpro.nl/lokaal/den-haag/artikelen/overzicht/2007/september/verslag-herfstpop-2007.html)
 
 ---
 
@@ -197,6 +205,11 @@ Add your Nation's information.
   - Internet Leagues begin.
 - **October**:
   - Globalwide meetings happen every week.
+- **November**:
+  - [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html)
+- **December**:
+  - [A major Krakow meeting gathers jumpers from across Poland; footage preserves the scale of the Polish scene as Ownstyle and competitive formats take shape.](https://youtu.be/5EAadhCfrLs?si=gNh-_UamFItl2jkB)
+  - [The preview for the First Russian Jumpstyle League is uploaded on December 10, documenting that the national online competition was already underway before the end of 2008.](https://www.youtube.com/watch?v=bEzrZSwCEnM)
 
 ---
 
@@ -204,8 +217,10 @@ Add your Nation's information.
 #### 2009 🇷🇺 🇵🇱 🇧🇷 🇩🇪 🌎 : 
 - **January**:
   - The Russian Jumpstyle league is in full swing through the Jumpstylers.ru forum, most of the leagues are virtual, where jumpers submit their videos on YouTube to be judged. Samurai is one of the big names along with Yarche, DSJumper and LonelyHawk.
+  - [An archived February 2009 snapshot of Jumpstylers.ru preserves the First Russian Jumpstyle League brackets, previews and battle links, including freestyle semifinals and a separate new-jumpers division.](https://web.archive.org/web/20090210025827/http://jumpstylers.ru/)
 - **February**:
   - The Polish Jumpstyle league is also in full swing and they work in the same way on the JumpstylePolska.pl forum. DannieL and Iceman are great legends and in March we have the biggest national meeting registered in Poland.
+  - [A preserved April 2009 snapshot of JumpstylePolska.pl shows dedicated forum sections for `Zloty` (meetings) and `Liga Jumpstyle Polska`, confirming the community infrastructure behind Poland's events and leagues.](https://web.archive.org/web/20090416222333/http://www.jumpstylepolska.pl/)
 - **March**:
   - A video collection is made with several countries.
 - **April**:
@@ -234,6 +249,8 @@ Add your Nation's information.
   - Development phase of the JSB League managed by Orkut.
 - **April**:
   - From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases.
+- **May**:
+  - [France develops a distinct competitive generation around figures such as Spiady and Rey'Steal, whose videos carry French technique, spins and style into international leagues.](https://youtu.be/1uTKW-AYsr4?si=m-qe5D1zRxad6ncw)
 
 ---
 
@@ -254,6 +271,10 @@ Add your Nation's information.
   - Patrick Jumpen admires Polish Jump and travels to Poznan with Dion Teurlings for a national meeting.
 - **February**:
   - All-Ass organized the 2012 meeting at Ibirapuera. Add more information about events and JSB.
+- **March**:
+  - [A large multijump in Krakow records the continuing strength of Poland's meeting culture and collective performance.](https://youtu.be/SsikuMUUsw0)
+- **April**:
+  - A new internationally visible generation expands the map beyond Europe, including [Dany in Italy](https://youtu.be/RVzg5YvG6k0?si=M6SME41IskQXaMBB), [Walle in Mexico](https://youtu.be/yiLAYlTyR4g?si=SkabFusK1aK4gG9X), [Lauth in Chile](https://youtu.be/1_Z3f4ZFfxQ?si=4LoSb9p35vwbYG1E) and [Cosmic in Indonesia](https://youtu.be/dR5fJsl9dXw?si=5pJfj-LB-1AoaAD8).
 
 ---
 
@@ -263,6 +284,10 @@ Add your Nation's information.
   - Dang3r wins the 6th edition of JSB against Cursebird.
 - **February**:
   - Jumpstyle becomes a niche competitive dance formed by a league-driven Global Community.
+- **February 24**:
+  - [Belgian pioneer Da Boy Tommy dies at age 36 following a road accident. His records, including "Halloween" and "Candyman", remain foundational documents of the genre's first commercial era.](https://qmusic.be/nieuws/da-boy-tommyis-overleden-1-1)
+- **December**:
+  - [The 6th Annual Los Angeles Jump Meeting brings together the Southern California scene; its 2013 event title, video and participating crews were preserved by Jumpstyle Brasil in January 2014.](https://web.archive.org/web/20140214012333/http://jumpstyle.com.br/2014/02/6th-annual-los-angeles-jump-meeting-2013/)
 
 ---
 
@@ -299,6 +324,8 @@ Add your Nation's information.
 #### 2020 🌎 : 
 - **January**:
   - [Yabujin is introduced by the names of Yabujin, Azeroy, Gyrotta Zao and many others, creating a kind of paralell universe where those personalities coexisted.](https://www.youtube.com/watch?v=JqAZJrFlzhM)
+- **February**:
+  - [Fortnite releases the "Springy" emote, internally identified as `EID_JumpStyleDance`, carrying Jumpstyle-derived movement into one of the world's largest games.](https://fortnite.gg/cosmetics?id=4008&type=emote)
 
 ---
 
@@ -343,5 +370,19 @@ Add your Nation's information.
   - Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw.
 - **March**:
   - New and old names emerge on the scene and some join the FBS roster, among them: Digo, Tauan/NegaoJumper, DinamarK, BeatrixJumper, Lux, All Ass, XafiiX, Tibirius, Blackzin, Whitejumper, Blaze, Comila, RafaJumpen, Neo'Trox, Luviskh, Bento, Japa, LuFe, GeloQuente, Well Rodrigues and Hamood.
+
+---
+
+#### 2025 🇵🇱 🇺🇸 🇫🇷 🇱🇹 🌎 :
+- **January**:
+  - [A new Warsaw meeting brings Polish jumpers together for a large multijump, continuing the country's meeting tradition across generations.](https://www.instagram.com/reel/DFBo14VIRtm/)
+- **March**:
+  - [Pitchfork documents how Lithuanian artist Yabujin and his DJ GYROTTA ZAO alias shaped a new underground wave of jagged Jumpstyle music and a TikTok microgenre with more than 23,000 posts.](https://pitchfork.com/thepitch/chasing-yabujin-the-artist-who-secretly-shaped-the-underground-sound-of-the-2020s/)
+
+---
+
+#### 2026 🇧🇪 🌎 :
+- **January**:
+  - [Da Rick officially revives Jumper Records in Belgium with new releases, events and an active catalogue, reconnecting the label that helped name the sound in 1997 with a new global audience.](https://www.jumperrecords.com/)
 
 ---

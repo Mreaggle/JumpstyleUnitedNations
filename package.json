@@ -1,0 +1,14 @@
+{
+  "name": "jumpstyle-united-nations-archive",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Validation tooling for the Jumpstyle United Nations historical archive.",
+  "scripts": {
+    "check": "node scripts/check.mjs"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
