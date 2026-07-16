@@ -1143,19 +1143,33 @@
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
 
+#### 2009
+
+- **During 2009**: The [2025 community review](global-review.md) records Snak'e joining Hardzone, Jumperz Evolution merging with Hard Zone, Dutch-style influence reaching German and Spanish dancers through JumperKelvin, and a period of intense Russian-Ukrainian experimentation. <!-- global-event:135 -->
+
 #### 2010
 
-- **January**: [The Ukrainian Jumpstyle League reaches its Freestyle semifinals in January, documenting a national competitive structure linked to jumpstyle.com.ua.](https://youtu.be/smzlm1_koIQ) <!-- global-event:107 -->
-- **October 23**: [Jumpers from Kyiv and Donetsk meet in Donetsk, creating a documented intercity Ukrainian gathering.](https://youtu.be/CSQ9-UjSQG4) <!-- global-event:113 -->
+- **January**: [The Ukrainian Jumpstyle League reaches its Freestyle semifinals in January, documenting a national competitive structure linked to jumpstyle.com.ua.](https://youtu.be/smzlm1_koIQ) <!-- global-event:138 -->
+- **October 23**: [Jumpers from Kyiv and Donetsk meet in Donetsk, creating a documented intercity Ukrainian gathering.](https://youtu.be/CSQ9-UjSQG4) <!-- global-event:145 -->
+- **During 2010**: The [2025 community review](global-review.md) additionally identifies Effect, Xardas, Groszek, DudQ, Woren/Anointed and Cost alongside the already documented Scot, Badsz, S1dej, Jagr, Spiady and Rey'Steal; it records Badsz's monthly `TopJumperz` compilations and the JumpstylePolskaPL channel as important distribution points. <!-- global-event:148 -->
 
 #### 2011
 
-- **October 26**: [The JTP Cup announces an open Jumpstyle championship of Ukraine in Kyiv with international participation; because the competition day is not preserved in the description, the upload date is used.](https://youtu.be/JjTxxsAWJ54) <!-- global-event:123 -->
+- **October 26**: [The JTP Cup announces an open Jumpstyle championship of Ukraine in Kyiv with international participation; because the competition day is not preserved in the description, the upload date is used.](https://youtu.be/JjTxxsAWJ54) <!-- global-event:157 -->
+- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:159 -->
+
+#### 2012
+
+- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:166 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
+#### 2016
+
+- **During 2016**: The [2025 community review](global-review.md) records Jelle's visibility through the Jumpers Versus Project in the Netherlands and Smaill's Ukrainian `golden year` videos, some of which were later deleted. <!-- global-event:195 -->
+
 #### 2017
 
-- **August 14**: [Kyiv's ninth Ukrainian Hard Dance Meet Up is documented with a participant list spanning multiple generations; because no separate event date is stated, the upload date is used.](https://youtu.be/-E5KIjjq1dM) <!-- global-event:155 -->
+- **August 14**: [Kyiv's ninth Ukrainian Hard Dance Meet Up is documented with a participant list spanning multiple generations; because no separate event date is stated, the upload date is used.](https://youtu.be/-E5KIjjq1dM) <!-- global-event:199 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->
