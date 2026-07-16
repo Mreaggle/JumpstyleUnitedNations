@@ -48,8 +48,8 @@
     {
       "code": "DE",
       "name": "Germany",
-      "timeline": null,
-      "status": "no-national-file",
+      "timeline": "JumpstyleTimeline/Germany/de-timeline.md",
+      "status": "research-in-progress",
       "legacyTemplate": false
     },
     {

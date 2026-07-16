@@ -20,6 +20,7 @@ const requiredFiles = [
   "docs/legacy/README-2025.md",
   "data/README.md",
   "data/country-research.json",
+  "data/global-event-countries.json",
   "data/source-registry.json",
   "llms.txt",
   "JumpstyleTimeline/Global/global-timeline.md",

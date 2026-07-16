@@ -1133,3 +1133,34 @@
   
 - **December**: 
   - [Event or Contribution 1](#)
+
+<!-- JUN:GLOBAL-SYNC:START -->
+## Synchronized records from the Global Timeline
+
+> Generated from [`Global/global-timeline.md`](../Global/global-timeline.md).
+> Edit the global source and `data/global-event-countries.json`, then run
+> `npm run sync:national`. Do not edit this block manually.
+
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2012
+
+- **April**: A new internationally visible generation expands the map beyond Europe, including [Dany in Italy](https://youtu.be/RVzg5YvG6k0?si=M6SME41IskQXaMBB), [Walle in Mexico](https://youtu.be/yiLAYlTyR4g?si=SkabFusK1aK4gG9X), [Lauth in Chile](https://youtu.be/1_Z3f4ZFfxQ?si=4LoSb9p35vwbYG1E) and [Cosmic in Indonesia](https://youtu.be/dR5fJsl9dXw?si=5pJfj-LB-1AoaAD8). <!-- global-event:096 -->
+
+### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
+
+#### 2023
+
+- **February**: In April, Mreaggle, Dourado, Matrix and Grilox visit Chile for the Hardstyle Mafia festival, and meet Lauth for a meeting in Santiago. Mreaggle reaches the new generation around October to November 2023. The community reunites soon after Mreaggle makes a compilation of old-generation jumpers and the new generation he found on TikTok under the influence of Yabujincore and RomancePlanet. Old-school jumpers join the community. A meeting takes place at Ibirapuera in November 2023, the jumpers are wearing the Topper Dominator boot, where the manufacturer itself encouraged the scene on its Instagram. Digital influencers and dancers such as Elvis Bugalu and Danshaper are part of the new generation of Brazilian jumpers. <!-- global-event:111 -->
+
+#### 2024
+
+- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:115 -->
+
+### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
+
+#### 2024
+
+- **February**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:118 -->
+
+<!-- JUN:GLOBAL-SYNC:END -->

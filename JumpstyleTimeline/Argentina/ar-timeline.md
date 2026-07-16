@@ -1133,3 +1133,24 @@
   
 - **December**: 
   - [Event or Contribution 1](#)
+
+<!-- JUN:GLOBAL-SYNC:START -->
+## Synchronized records from the Global Timeline
+
+> Generated from [`Global/global-timeline.md`](../Global/global-timeline.md).
+> Edit the global source and `data/global-event-countries.json`, then run
+> `npm run sync:national`. Do not edit this block manually.
+
+### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
+
+#### 2024
+
+- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:115 -->
+
+### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
+
+#### 2024
+
+- **February**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:118 -->
+
+<!-- JUN:GLOBAL-SYNC:END -->

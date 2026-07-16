@@ -5,7 +5,8 @@
   "type": "module",
   "description": "Validation tooling for the Jumpstyle United Nations historical archive.",
   "scripts": {
-    "check": "node scripts/check.mjs"
+    "check": "node scripts/check.mjs && node scripts/sync-national-timelines.mjs --check",
+    "sync:national": "node scripts/sync-national-timelines.mjs"
   },
   "license": "MIT",
   "engines": {

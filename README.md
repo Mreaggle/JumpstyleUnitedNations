@@ -24,7 +24,7 @@ JUN is a community-maintained archive of Jumpstyle dance, music, people, meeting
 | Area | Purpose | Status |
 | --- | --- | --- |
 | [Global Timeline](JumpstyleTimeline/Global/global-timeline.md) | Chronological, sourced milestones across countries | Active curation |
-| [National Timelines](JumpstyleTimeline/) | Country-specific perspectives and local records | Mixed maturity |
+| [National Timelines](JumpstyleTimeline/) | Country-specific perspectives, synchronized global records and local research | Mixed maturity |
 | [Key Figures Worldwide](JUNToolkit/KeyFiguresWorldwide/Dance/README.md) | Community index of influential jumpers | Community review |
 | [Jumpstyle Archive](JumpstyleArchive/) | Forums, media, competitions, voices and knowledge | In development |
 | [Community Mapping](CommunityMapping/) | Active and historical national communities | In development |
@@ -83,10 +83,15 @@ Do not commit private chats, contact exports, private group links or personal da
 ## Validation
 
 ```bash
+npm run sync:national
 npm run check
 ```
 
-The validator checks required documentation, machine-readable registries, internal links, logo references and private-file protections without adding runtime dependencies.
+`sync:national` distributes every classified Global Timeline record into the
+corresponding country files. The assignment manifest is
+[`data/global-event-countries.json`](data/global-event-countries.json); edit it
+instead of changing generated blocks by hand. The validator checks that all 122
+records are accounted for and that every national timeline is synchronized.
 
 ## License
 

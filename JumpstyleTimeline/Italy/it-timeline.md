@@ -1133,3 +1133,30 @@
   
 - **December**: 
   - [Event or Contribution 1](#)
+
+<!-- JUN:GLOBAL-SYNC:START -->
+## Synchronized records from the Global Timeline
+
+> Generated from [`Global/global-timeline.md`](../Global/global-timeline.md).
+> Edit the global source and `data/global-event-countries.json`, then run
+> `npm run sync:national`. Do not edit this block manually.
+
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2012
+
+- **April**: A new internationally visible generation expands the map beyond Europe, including [Dany in Italy](https://youtu.be/RVzg5YvG6k0?si=M6SME41IskQXaMBB), [Walle in Mexico](https://youtu.be/yiLAYlTyR4g?si=SkabFusK1aK4gG9X), [Lauth in Chile](https://youtu.be/1_Z3f4ZFfxQ?si=4LoSb9p35vwbYG1E) and [Cosmic in Indonesia](https://youtu.be/dR5fJsl9dXw?si=5pJfj-LB-1AoaAD8). <!-- global-event:096 -->
+
+### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
+
+#### 2024
+
+- **February**: At the beginning of the year, the WJL'24 solo edition took place, and in August, the WJLTeams'24 took place, which would lead to an offensive incident between the teams from Italy (Snack Bros) and Brazil (Fireborn Squad). After an international outcry, the leaders of the teams, communities and organization reached a solution in favor of peace in the competitive dance scene and the seriousness of the WJL league. Mreaggle, together with Jumpstyle Brazil administrators, started JUN - Jumpstyle United Nations, a project that aims to bring together all the perspectives of all jumpers from all nations in favor of a greater goal: Unification and passing on all appropriate and possible knowledge to the younger generations. Several Jumpers and Artists from different generations volunteered and formed the alliance, establishing an open and global repository that can be fed by several jumpers. <!-- global-event:114 -->
+
+### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
+
+#### 2024
+
+- **January**: At the beginning of the year, the WJL'24 solo edition took place, and in August, the WJLTeams'24 took place, which would lead to an offensive incident between the teams from Italy (Snack Bros) and Brazil (Fireborn Squad). After an international outcry, the leaders of the teams, communities and organization reached a solution in favor of peace in the competitive dance scene and the seriousness of the WJL league. Mreaggle, together with Jumpstyle Brazil administrators, started JUN - Jumpstyle United Nations, a project that aims to bring together all the perspectives of all jumpers from all nations in favor of a greater goal: Unification and passing on all appropriate and possible knowledge to the younger generations. Several Jumpers and Artists from different generations volunteered and formed the alliance, establishing an open and global repository that can be fed by several jumpers. <!-- global-event:117 -->
+
+<!-- JUN:GLOBAL-SYNC:END -->

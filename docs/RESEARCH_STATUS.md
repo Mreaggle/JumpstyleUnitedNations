@@ -58,7 +58,7 @@ The source URLs currently promoted by this pass are registered in [`data/source-
 2. **P1 - Core countries:** Belgium, Netherlands, Poland, Russia, France and Germany.
 3. **P2 - Key Figures countries:** Ukraine, Italy, Brazil, Mexico, Chile and Indonesia.
 4. **P3 - Open national archives:** Argentina, Czech Republic, Japan, Lithuania, Malaysia, Spain, United States and Venezuela.
-5. **P4 - Cross-check:** deduplicate the global and national timelines and request community review.
+5. **P4 - Cross-check:** review global-to-national assignments, add missing local context and request community review.
 
 ## Completion criteria
 

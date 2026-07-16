@@ -12,7 +12,12 @@
 
 ### Published historical record
 
-`JumpstyleTimeline/Global/global-timeline.md` contains cross-border milestones. Country directories contain national perspectives, but their maturity varies and must be checked in `data/country-research.json`.
+`JumpstyleTimeline/Global/global-timeline.md` contains cross-border milestones.
+`data/global-event-countries.json` assigns each detailed global record to zero
+or more countries, and `npm run sync:national` publishes those records inside
+marked generated blocks in every country timeline. Global-only context may have
+an empty assignment. Country-authored material remains outside the generated
+blocks. National maturity must still be checked in `data/country-research.json`.
 
 ### Curated indexes
 
@@ -24,7 +29,7 @@
 
 ### Research control plane
 
-`data/` contains machine-readable country and source status. `docs/` defines policy, current coverage and multilingual research plans. Agents should read these before editing timelines.
+`data/` contains machine-readable country and source status plus the global-to-national event assignment manifest. `docs/` defines policy, current coverage and multilingual research plans. Agents should read these before editing timelines.
 
 ### Legacy contributor material
 

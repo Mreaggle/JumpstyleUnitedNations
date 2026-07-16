@@ -1133,3 +1133,18 @@
   
 - **December**: 
   - [Event or Contribution 1](#)
+
+<!-- JUN:GLOBAL-SYNC:START -->
+## Synchronized records from the Global Timeline
+
+> Generated from [`Global/global-timeline.md`](../Global/global-timeline.md).
+> Edit the global source and `data/global-event-countries.json`, then run
+> `npm run sync:national`. Do not edit this block manually.
+
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2012
+
+- **April**: A new internationally visible generation expands the map beyond Europe, including [Dany in Italy](https://youtu.be/RVzg5YvG6k0?si=M6SME41IskQXaMBB), [Walle in Mexico](https://youtu.be/yiLAYlTyR4g?si=SkabFusK1aK4gG9X), [Lauth in Chile](https://youtu.be/1_Z3f4ZFfxQ?si=4LoSb9p35vwbYG1E) and [Cosmic in Indonesia](https://youtu.be/dR5fJsl9dXw?si=5pJfj-LB-1AoaAD8). <!-- global-event:096 -->
+
+<!-- JUN:GLOBAL-SYNC:END -->

@@ -18,6 +18,7 @@ JUN is a community-maintained historical archive of Jumpstyle dance, music, peop
 - Repository architecture: docs/ARCHITECTURE.md
 - Structural audit: docs/REPOSITORY_AUDIT.md
 - Country status data: data/country-research.json
+- Global-to-national assignments: data/global-event-countries.json
 - Public source registry: data/source-registry.json
 
 ## Primary historical datasets
@@ -30,6 +31,7 @@ JUN is a community-maintained historical archive of Jumpstyle dance, music, peop
 ## Critical caveats
 
 - Nineteen national timeline files still contain legacy placeholder scaffolds. Placeholders are not evidence.
+- Generated national blocks come from data/global-event-countries.json. Update the manifest and run npm run sync:national; do not edit those blocks manually.
 - The Global Timeline is add-only by default. Do not delete entries while enriching it.
 - Private chats and contact exports must never be committed, quoted or used as public citations.
 - Store event date, upload date and archive date separately. If only upload date survives, label it as a fallback.
@@ -37,4 +39,6 @@ JUN is a community-maintained historical archive of Jumpstyle dance, music, peop
 
 ## Validation
 
-Run: npm run check
+Run synchronization: npm run sync:national
+
+Run validation: npm run check

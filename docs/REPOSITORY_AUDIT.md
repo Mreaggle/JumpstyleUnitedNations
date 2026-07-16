@@ -5,17 +5,23 @@ Last reviewed: 2026-07-16
 ## Current strengths
 
 - A long-running Global Timeline with cross-border community input.
-- National timeline paths for 19 countries.
+- National timeline paths for 20 countries, including Germany.
 - Key Figures, volunteer and community perspectives from multiple generations.
 - Thematic archive areas for forums, media, competitions, voices and knowledge.
-- A public museum at `jumpstyle.com.br/JUN/` that makes selected material easier to browse.
+- A public museum at `jumpstyle.com.br/JUN/` with curated highlights and the complete Global Timeline.
+- Explicit global-to-national assignments and reproducible national synchronization.
 - New evidence, privacy and agent operating policies.
 
 ## Current structural debt
 
 ### National timelines
 
-All 19 national files retain the original year/month placeholder scaffold. Some have useful contributions mixed into the template, but an agent cannot assume that a file is mature because it exists. Germany appears in Key Figures and the Global Timeline but has no national file.
+Nineteen national files retain the original year/month placeholder scaffold.
+Some have useful contributions mixed into the template, but an agent cannot
+assume that a file is mature because it exists. Germany now has a national file.
+All 20 timelines include a generated block containing the Global Timeline
+records assigned to that country; those synchronized records improve discovery
+but do not make the remaining national research complete.
 
 ### Duplicate navigation and prose
 
