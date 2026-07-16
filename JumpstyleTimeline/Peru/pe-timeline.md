@@ -11,6 +11,10 @@ This national or territorial view is synchronized from sourced records in the Gl
 > Edit the global source and `data/global-event-countries.json`, then run
 > `npm run sync:national`. Do not edit this block manually.
 
-_No Global Timeline event is currently attributed specifically to Peru._
+### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
+
+#### 2025
+
+- **February**: The community review records Anthony Honterz promoting the Synergy Perú event. <!-- global-event:242 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

@@ -1,5 +1,14 @@
 # Jumpstyle Global Timeline (review version)
 
+> **Historical review snapshot:** this file preserves the 2025 community review
+> used during reconciliation and is not the publication source. Verified
+> corrections and restored material are incorporated into
+> [`global-timeline.md`](global-timeline.md). In particular, Coone's `The Return
+> (Remixes)` is dated to November 2007 rather than 2004; Patrick Jumpen's
+> `Holiday` peaked at number five rather than number one in the Dutch Top 40;
+> Fortnite's emote is `Springy` from February 2020 rather than `Jumpy`; Bonzai
+> Jumps begins in 1994; and JUN's foundation is confirmed as August 20, 2024.
+
 ## Global 🌎
 
 ### The Underground/Club | Hardcore/Music Era (Pre-Dance)

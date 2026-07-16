@@ -1145,25 +1145,19 @@
 
 #### 2015
 
-- **February 25**: [Argentina's first combined Shuffle and Jumpstyle meet is documented by its organizers; because no separate event date is stated, the upload date is used.](https://youtu.be/-CIQ0xcCljw) <!-- global-event:145 -->
-- **July 26**: [An Argentina Jumpstyle Meeting takes place at Puerto Madero in Buenos Aires; because no separate event date is stated, the upload date is used.](https://youtu.be/YhvNyxMt9Ng) <!-- global-event:147 -->
+- **February 25**: [Argentina's first combined Shuffle and Jumpstyle meet is documented by its organizers; because no separate event date is stated, the upload date is used.](https://youtu.be/-CIQ0xcCljw) <!-- global-event:187 -->
+- **July 26**: [An Argentina Jumpstyle Meeting takes place at Puerto Madero in Buenos Aires; because no separate event date is stated, the upload date is used.](https://youtu.be/YhvNyxMt9Ng) <!-- global-event:189 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2017
 
-- **July 21**: [Argentina Hard Dance Generation holds the first day of its national meet-up at Puerto Madero in Buenos Aires, preserving a multi-day national gathering.](https://youtu.be/1MWGNirsNRg) <!-- global-event:154 -->
+- **July 21**: [Argentina Hard Dance Generation holds the first day of its national meet-up at Puerto Madero in Buenos Aires, preserving a multi-day national gathering.](https://youtu.be/1MWGNirsNRg) <!-- global-event:198 -->
 
 ### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
 
 #### 2024
 
-- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:178 -->
-
-### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
-
-#### 2024
-
-- **February**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:181 -->
+- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:228 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

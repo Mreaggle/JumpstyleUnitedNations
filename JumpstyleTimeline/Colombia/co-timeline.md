@@ -15,6 +15,6 @@ This national view is synchronized from sourced records in the Global Timeline.
 
 #### 2010
 
-- **December 22**: [A large Jumpstyle encounter between Angels of Jump and People Ad Jump is documented in Bogotá; because no separate event date is stated, the upload date is used.](https://youtu.be/H3WgXC22_cc) <!-- global-event:114 -->
+- **December 22**: [A large Jumpstyle encounter between Angels of Jump and People Ad Jump is documented in Bogotá; because no separate event date is stated, the upload date is used.](https://youtu.be/H3WgXC22_cc) <!-- global-event:146 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

@@ -6,7 +6,15 @@ Last reviewed: 2026-07-16
 
 The recent research pass was substantial but not exhaustive.
 
-The private JUN WhatsApp export was used as a discovery index for names, countries, videos, meetings, forums and first-person context. It was not processed message by message into a complete claim database, and it was intentionally not copied, quoted or committed. The public internet pass verified selected high-value records, especially for Belgium, the Netherlands, France, Poland, Russia and the global revival, but it was not a complete crawl of every language, channel or archive.
+The 2026-07-16 correction and enrichment pass compared the surviving
+`global-review.md` history with the current Global Timeline, checked disputed
+music and event dates against public sources, and restored review-only material
+with explicit attribution. It did not inspect, quote or publish private
+messages. Maintainer-confirmed facts such as JUN's August 20 foundation date and
+the Polish Nike Ship footwear record are labeled as approved first-person or
+community-review evidence rather than presented as independently sourced facts.
+
+An earlier discovery pass used the private JUN WhatsApp export as an index for names, countries, videos, meetings, forums and first-person context. It was not processed message by message into a complete claim database, and it was intentionally not copied, quoted or committed. The public internet passes verified selected high-value records, especially for Belgium, the Netherlands, France, Poland, Russia and the global revival, but they were not a complete crawl of every language, channel or archive.
 
 ## What was covered
 
@@ -19,6 +27,10 @@ The private JUN WhatsApp export was used as a discovery index for names, countri
 - Live Jumpstylers.ru event, league-winner and site-map indexes; TAF competition records; Polish municipal listings; and contemporary Dutch and German press.
 - Official cultural and event records for (LA)HORDE's `To Da Bone`, Bass Events' Flashback Festival and the 2026 German championship in Lehrte.
 - Public records for Fortnite's Jumpstyle-derived emote and the Yabujin/DJ GYROTTA ZAO revival.
+- Release and chart cross-checks for Bountyhunter, Binum, Yves De Ruyter, Dream Your Dream, Jeckyll & Hyde, Patrick Jumpen, Coone and Scooter.
+- Public records for the 2007 schoolyard and instructional-DVD peak, Scooter's 2008 UK number-one album and the 2009 Guinness mass-dance record.
+- Contextual footwork and club-culture records for skanking, breaking, C-Walk, disco, Melbourne Shuffle, gabber/hakken and drum and bass, explicitly separated from claims of direct Jumpstyle lineage.
+- Public broadcaster, label, cultural-institution and event records covering Brazil's 2024 national television appearance, `Jumpstyle Never Dies`, Atomic Destination Team, Flashback Festival, (LA)HORDE and continuing Polish instruction.
 - A first multilingual research vocabulary for all countries represented by JUN timelines and Key Figures.
 
 The source URLs currently promoted by this pass are registered in [`data/source-registry.json`](../data/source-registry.json).
