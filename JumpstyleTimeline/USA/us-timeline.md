@@ -620,18 +620,18 @@
 
 #### 2013
 
-- **December**: [The 6th Annual Los Angeles Jump Meeting brings together the Southern California scene; its 2013 event title, video and participating crews were preserved by Jumpstyle Brasil in January 2014.](https://web.archive.org/web/20140214012333/http://jumpstyle.com.br/2014/02/6th-annual-los-angeles-jump-meeting-2013/) <!-- global-event:100 -->
+- **December**: [The 6th Annual Los Angeles Jump Meeting brings together the Southern California scene; its 2013 event title, video and participating crews were preserved by Jumpstyle Brasil in January 2014.](https://web.archive.org/web/20140214012333/http://jumpstyle.com.br/2014/02/6th-annual-los-angeles-jump-meeting-2013/) <!-- global-event:139 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2020
 
-- **February**: [Fortnite releases the "Springy" emote, internally identified as `EID_JumpStyleDance`, carrying Jumpstyle-derived movement into one of the world's largest games.](https://fortnite.gg/cosmetics?id=4008&type=emote) <!-- global-event:108 -->
+- **February**: [Fortnite releases the "Springy" emote, internally identified as `EID_JumpStyleDance`, carrying Jumpstyle-derived movement into one of the world's largest games.](https://fortnite.gg/cosmetics?id=4008&type=emote) <!-- global-event:167 -->
 
 ### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
 
 #### 2023
 
-- **March**: Travsz is Global champion for the WJL against Ivi. <!-- global-event:112 -->
+- **March**: Travsz is Global champion for the WJL against Ivi. <!-- global-event:174 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

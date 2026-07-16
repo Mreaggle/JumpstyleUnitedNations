@@ -18,6 +18,7 @@ JUN is a community-maintained historical archive of Jumpstyle dance, music, peop
 - Repository architecture: docs/ARCHITECTURE.md
 - Structural audit: docs/REPOSITORY_AUDIT.md
 - Country status data: data/country-research.json
+- Complete country and territory catalog: data/country-catalog.json
 - Global-to-national assignments: data/global-event-countries.json
 - Public source registry: data/source-registry.json
 

@@ -1,14 +1,158 @@
 {
   "schemaVersion": 1,
   "lastReviewed": "2026-07-16",
-  "statuses": ["research-in-progress", "research-needed", "no-national-file"],
+  "statuses": [
+    "research-in-progress",
+    "research-needed",
+    "no-national-file"
+  ],
   "countries": [
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "timeline": "JumpstyleTimeline/Afghanistan/af-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AX",
+      "name": "Åland Islands",
+      "timeline": "JumpstyleTimeline/Åland Islands/ax-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "timeline": "JumpstyleTimeline/Albania/al-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "timeline": "JumpstyleTimeline/Algeria/dz-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa",
+      "timeline": "JumpstyleTimeline/American Samoa/as-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "timeline": "JumpstyleTimeline/Andorra/ad-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "timeline": "JumpstyleTimeline/Angola/ao-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AI",
+      "name": "Anguilla",
+      "timeline": "JumpstyleTimeline/Anguilla/ai-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AQ",
+      "name": "Antarctica",
+      "timeline": "JumpstyleTimeline/Antarctica/aq-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "timeline": "JumpstyleTimeline/Antigua and Barbuda/ag-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
     {
       "code": "AR",
       "name": "Argentina",
       "timeline": "JumpstyleTimeline/Argentina/ar-timeline.md",
       "status": "research-needed",
       "legacyTemplate": true
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "timeline": "JumpstyleTimeline/Armenia/am-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AW",
+      "name": "Aruba",
+      "timeline": "JumpstyleTimeline/Aruba/aw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "timeline": "JumpstyleTimeline/Australia/au-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "timeline": "JumpstyleTimeline/Austria/at-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "timeline": "JumpstyleTimeline/Azerbaijan/az-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "timeline": "JumpstyleTimeline/Bahamas/bs-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "timeline": "JumpstyleTimeline/Bahrain/bh-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "timeline": "JumpstyleTimeline/Bangladesh/bd-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "timeline": "JumpstyleTimeline/Barbados/bb-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "timeline": "JumpstyleTimeline/Belarus/by-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
     },
     {
       "code": "BE",
@@ -18,11 +162,158 @@
       "legacyTemplate": true
     },
     {
+      "code": "BZ",
+      "name": "Belize",
+      "timeline": "JumpstyleTimeline/Belize/bz-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "timeline": "JumpstyleTimeline/Benin/bj-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BM",
+      "name": "Bermuda",
+      "timeline": "JumpstyleTimeline/Bermuda/bm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "timeline": "JumpstyleTimeline/Bhutan/bt-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia, Plurinational State of",
+      "timeline": "JumpstyleTimeline/Bolivia, Plurinational State of/bo-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BQ",
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "timeline": "JumpstyleTimeline/Bonaire, Sint Eustatius and Saba/bq-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "timeline": "JumpstyleTimeline/Bosnia and Herzegovina/ba-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "timeline": "JumpstyleTimeline/Botswana/bw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BV",
+      "name": "Bouvet Island",
+      "timeline": "JumpstyleTimeline/Bouvet Island/bv-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
       "code": "BR",
       "name": "Brazil",
       "timeline": "JumpstyleTimeline/Brazil/br-timeline.md",
       "status": "research-in-progress",
       "legacyTemplate": true
+    },
+    {
+      "code": "IO",
+      "name": "British Indian Ocean Territory",
+      "timeline": "JumpstyleTimeline/British Indian Ocean Territory/io-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BN",
+      "name": "Brunei Darussalam",
+      "timeline": "JumpstyleTimeline/Brunei Darussalam/bn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "timeline": "JumpstyleTimeline/Bulgaria/bg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "timeline": "JumpstyleTimeline/Burkina Faso/bf-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "timeline": "JumpstyleTimeline/Burundi/bi-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "timeline": "JumpstyleTimeline/Cabo Verde/cv-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "timeline": "JumpstyleTimeline/Cambodia/kh-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "timeline": "JumpstyleTimeline/Cameroon/cm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "timeline": "JumpstyleTimeline/Canada/ca-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KY",
+      "name": "Cayman Islands",
+      "timeline": "JumpstyleTimeline/Cayman Islands/ky-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic",
+      "timeline": "JumpstyleTimeline/Central African Republic/cf-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "timeline": "JumpstyleTimeline/Chad/td-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
     },
     {
       "code": "CL",
@@ -32,11 +323,221 @@
       "legacyTemplate": true
     },
     {
+      "code": "CN",
+      "name": "China",
+      "timeline": "JumpstyleTimeline/China/cn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island",
+      "timeline": "JumpstyleTimeline/Christmas Island/cx-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CC",
+      "name": "Cocos (Keeling) Islands",
+      "timeline": "JumpstyleTimeline/Cocos (Keeling) Islands/cc-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "timeline": "JumpstyleTimeline/Colombia/co-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "timeline": "JumpstyleTimeline/Comoros/km-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CG",
+      "name": "Congo",
+      "timeline": "JumpstyleTimeline/Congo/cg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CD",
+      "name": "Congo, The Democratic Republic of the",
+      "timeline": "JumpstyleTimeline/Congo, The Democratic Republic of the/cd-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CK",
+      "name": "Cook Islands",
+      "timeline": "JumpstyleTimeline/Cook Islands/ck-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "timeline": "JumpstyleTimeline/Costa Rica/cr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CI",
+      "name": "Côte d'Ivoire",
+      "timeline": "JumpstyleTimeline/Côte d'Ivoire/ci-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "timeline": "JumpstyleTimeline/Croatia/hr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "timeline": "JumpstyleTimeline/Cuba/cu-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CW",
+      "name": "Curaçao",
+      "timeline": "JumpstyleTimeline/Curaçao/cw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "timeline": "JumpstyleTimeline/Cyprus/cy-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
       "code": "CZ",
       "name": "Czech Republic",
       "timeline": "JumpstyleTimeline/Czech Republic/cz-timeline.md",
       "status": "research-needed",
       "legacyTemplate": true
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "timeline": "JumpstyleTimeline/Denmark/dk-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "timeline": "JumpstyleTimeline/Djibouti/dj-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "timeline": "JumpstyleTimeline/Dominica/dm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "timeline": "JumpstyleTimeline/Dominican Republic/do-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "timeline": "JumpstyleTimeline/Ecuador/ec-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "timeline": "JumpstyleTimeline/Egypt/eg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "timeline": "JumpstyleTimeline/El Salvador/sv-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "timeline": "JumpstyleTimeline/Equatorial Guinea/gq-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "timeline": "JumpstyleTimeline/Eritrea/er-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "timeline": "JumpstyleTimeline/Estonia/ee-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "timeline": "JumpstyleTimeline/Eswatini/sz-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "timeline": "JumpstyleTimeline/Ethiopia/et-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "FK",
+      "name": "Falkland Islands (Malvinas)",
+      "timeline": "JumpstyleTimeline/Falkland Islands (Malvinas)/fk-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "timeline": "JumpstyleTimeline/Faroe Islands/fo-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "timeline": "JumpstyleTimeline/Fiji/fj-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "timeline": "JumpstyleTimeline/Finland/fi-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
     },
     {
       "code": "FR",
@@ -46,10 +547,192 @@
       "legacyTemplate": true
     },
     {
+      "code": "GF",
+      "name": "French Guiana",
+      "timeline": "JumpstyleTimeline/French Guiana/gf-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PF",
+      "name": "French Polynesia",
+      "timeline": "JumpstyleTimeline/French Polynesia/pf-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TF",
+      "name": "French Southern Territories",
+      "timeline": "JumpstyleTimeline/French Southern Territories/tf-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "timeline": "JumpstyleTimeline/Gabon/ga-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "timeline": "JumpstyleTimeline/Gambia/gm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "timeline": "JumpstyleTimeline/Georgia/ge-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
       "code": "DE",
       "name": "Germany",
       "timeline": "JumpstyleTimeline/Germany/de-timeline.md",
       "status": "research-in-progress",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "timeline": "JumpstyleTimeline/Ghana/gh-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar",
+      "timeline": "JumpstyleTimeline/Gibraltar/gi-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "timeline": "JumpstyleTimeline/Greece/gr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GL",
+      "name": "Greenland",
+      "timeline": "JumpstyleTimeline/Greenland/gl-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "timeline": "JumpstyleTimeline/Grenada/gd-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GP",
+      "name": "Guadeloupe",
+      "timeline": "JumpstyleTimeline/Guadeloupe/gp-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GU",
+      "name": "Guam",
+      "timeline": "JumpstyleTimeline/Guam/gu-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "timeline": "JumpstyleTimeline/Guatemala/gt-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GG",
+      "name": "Guernsey",
+      "timeline": "JumpstyleTimeline/Guernsey/gg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "timeline": "JumpstyleTimeline/Guinea/gn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "timeline": "JumpstyleTimeline/Guinea-Bissau/gw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "timeline": "JumpstyleTimeline/Guyana/gy-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "timeline": "JumpstyleTimeline/Haiti/ht-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "HM",
+      "name": "Heard Island and McDonald Islands",
+      "timeline": "JumpstyleTimeline/Heard Island and McDonald Islands/hm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "VA",
+      "name": "Holy See (Vatican City State)",
+      "timeline": "JumpstyleTimeline/Holy See (Vatican City State)/va-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "timeline": "JumpstyleTimeline/Honduras/hn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "timeline": "JumpstyleTimeline/Hong Kong/hk-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "timeline": "JumpstyleTimeline/Hungary/hu-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": false
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "timeline": "JumpstyleTimeline/Iceland/is-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "timeline": "JumpstyleTimeline/India/in-timeline.md",
+      "status": "research-needed",
       "legacyTemplate": false
     },
     {
@@ -60,11 +743,53 @@
       "legacyTemplate": true
     },
     {
+      "code": "IR",
+      "name": "Iran, Islamic Republic of",
+      "timeline": "JumpstyleTimeline/Iran, Islamic Republic of/ir-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "timeline": "JumpstyleTimeline/Iraq/iq-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "timeline": "JumpstyleTimeline/Ireland/ie-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "IM",
+      "name": "Isle of Man",
+      "timeline": "JumpstyleTimeline/Isle of Man/im-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "timeline": "JumpstyleTimeline/Israel/il-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
       "code": "IT",
       "name": "Italy",
       "timeline": "JumpstyleTimeline/Italy/it-timeline.md",
       "status": "research-in-progress",
       "legacyTemplate": true
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "timeline": "JumpstyleTimeline/Jamaica/jm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
     },
     {
       "code": "JP",
@@ -74,11 +799,158 @@
       "legacyTemplate": true
     },
     {
+      "code": "JE",
+      "name": "Jersey",
+      "timeline": "JumpstyleTimeline/Jersey/je-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "timeline": "JumpstyleTimeline/Jordan/jo-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "timeline": "JumpstyleTimeline/Kazakhstan/kz-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "timeline": "JumpstyleTimeline/Kenya/ke-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "timeline": "JumpstyleTimeline/Kiribati/ki-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KP",
+      "name": "Korea, Democratic People's Republic of",
+      "timeline": "JumpstyleTimeline/Korea, Democratic People's Republic of/kp-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KR",
+      "name": "Korea, Republic of",
+      "timeline": "JumpstyleTimeline/Korea, Republic of/kr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "timeline": "JumpstyleTimeline/Kosovo/xk-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "timeline": "JumpstyleTimeline/Kuwait/kw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "timeline": "JumpstyleTimeline/Kyrgyzstan/kg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "LA",
+      "name": "Lao People's Democratic Republic",
+      "timeline": "JumpstyleTimeline/Lao People's Democratic Republic/la-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "timeline": "JumpstyleTimeline/Latvia/lv-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "timeline": "JumpstyleTimeline/Lebanon/lb-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "timeline": "JumpstyleTimeline/Lesotho/ls-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "timeline": "JumpstyleTimeline/Liberia/lr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "timeline": "JumpstyleTimeline/Libya/ly-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "timeline": "JumpstyleTimeline/Liechtenstein/li-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
       "code": "LT",
       "name": "Lithuania",
       "timeline": "JumpstyleTimeline/Lithuania/lt-timeline.md",
       "status": "research-in-progress",
       "legacyTemplate": true
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "timeline": "JumpstyleTimeline/Luxembourg/lu-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MO",
+      "name": "Macao",
+      "timeline": "JumpstyleTimeline/Macao/mo-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "timeline": "JumpstyleTimeline/Madagascar/mg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "timeline": "JumpstyleTimeline/Malawi/mw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
     },
     {
       "code": "MY",
@@ -88,11 +960,151 @@
       "legacyTemplate": true
     },
     {
+      "code": "MV",
+      "name": "Maldives",
+      "timeline": "JumpstyleTimeline/Maldives/mv-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "timeline": "JumpstyleTimeline/Mali/ml-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "timeline": "JumpstyleTimeline/Malta/mt-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "timeline": "JumpstyleTimeline/Marshall Islands/mh-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MQ",
+      "name": "Martinique",
+      "timeline": "JumpstyleTimeline/Martinique/mq-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "timeline": "JumpstyleTimeline/Mauritania/mr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "timeline": "JumpstyleTimeline/Mauritius/mu-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "YT",
+      "name": "Mayotte",
+      "timeline": "JumpstyleTimeline/Mayotte/yt-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
       "code": "MX",
       "name": "Mexico",
       "timeline": "JumpstyleTimeline/Mexico/mx-timeline.md",
       "status": "research-in-progress",
       "legacyTemplate": true
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia, Federated States of",
+      "timeline": "JumpstyleTimeline/Micronesia, Federated States of/fm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MD",
+      "name": "Moldova, Republic of",
+      "timeline": "JumpstyleTimeline/Moldova, Republic of/md-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "timeline": "JumpstyleTimeline/Monaco/mc-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "timeline": "JumpstyleTimeline/Mongolia/mn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "timeline": "JumpstyleTimeline/Montenegro/me-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MS",
+      "name": "Montserrat",
+      "timeline": "JumpstyleTimeline/Montserrat/ms-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "timeline": "JumpstyleTimeline/Morocco/ma-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "timeline": "JumpstyleTimeline/Mozambique/mz-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "timeline": "JumpstyleTimeline/Myanmar/mm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "timeline": "JumpstyleTimeline/Namibia/na-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NR",
+      "name": "Nauru",
+      "timeline": "JumpstyleTimeline/Nauru/nr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "timeline": "JumpstyleTimeline/Nepal/np-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
     },
     {
       "code": "NL",
@@ -102,11 +1114,186 @@
       "legacyTemplate": true
     },
     {
+      "code": "NC",
+      "name": "New Caledonia",
+      "timeline": "JumpstyleTimeline/New Caledonia/nc-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "timeline": "JumpstyleTimeline/New Zealand/nz-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "timeline": "JumpstyleTimeline/Nicaragua/ni-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "timeline": "JumpstyleTimeline/Niger/ne-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "timeline": "JumpstyleTimeline/Nigeria/ng-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NU",
+      "name": "Niue",
+      "timeline": "JumpstyleTimeline/Niue/nu-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NF",
+      "name": "Norfolk Island",
+      "timeline": "JumpstyleTimeline/Norfolk Island/nf-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "timeline": "JumpstyleTimeline/North Macedonia/mk-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "timeline": "JumpstyleTimeline/Northern Mariana Islands/mp-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "timeline": "JumpstyleTimeline/Norway/no-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "timeline": "JumpstyleTimeline/Oman/om-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "timeline": "JumpstyleTimeline/Pakistan/pk-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "timeline": "JumpstyleTimeline/Palau/pw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PS",
+      "name": "Palestine, State of",
+      "timeline": "JumpstyleTimeline/Palestine, State of/ps-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "timeline": "JumpstyleTimeline/Panama/pa-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "timeline": "JumpstyleTimeline/Papua New Guinea/pg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "timeline": "JumpstyleTimeline/Paraguay/py-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "timeline": "JumpstyleTimeline/Peru/pe-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "timeline": "JumpstyleTimeline/Philippines/ph-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PN",
+      "name": "Pitcairn",
+      "timeline": "JumpstyleTimeline/Pitcairn/pn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
       "code": "PL",
       "name": "Poland",
       "timeline": "JumpstyleTimeline/Poland/pl-timeline.md",
       "status": "research-in-progress",
       "legacyTemplate": true
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "timeline": "JumpstyleTimeline/Portugal/pt-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "timeline": "JumpstyleTimeline/Puerto Rico/pr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "timeline": "JumpstyleTimeline/Qatar/qa-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "RE",
+      "name": "Réunion",
+      "timeline": "JumpstyleTimeline/Réunion/re-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "timeline": "JumpstyleTimeline/Romania/ro-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
     },
     {
       "code": "RU",
@@ -116,18 +1303,340 @@
       "legacyTemplate": true
     },
     {
+      "code": "RW",
+      "name": "Rwanda",
+      "timeline": "JumpstyleTimeline/Rwanda/rw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "BL",
+      "name": "Saint Barthélemy",
+      "timeline": "JumpstyleTimeline/Saint Barthélemy/bl-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SH",
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "timeline": "JumpstyleTimeline/Saint Helena, Ascension and Tristan da Cunha/sh-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "timeline": "JumpstyleTimeline/Saint Kitts and Nevis/kn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "timeline": "JumpstyleTimeline/Saint Lucia/lc-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "MF",
+      "name": "Saint Martin (French part)",
+      "timeline": "JumpstyleTimeline/Saint Martin (French part)/mf-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "timeline": "JumpstyleTimeline/Saint Pierre and Miquelon/pm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "timeline": "JumpstyleTimeline/Saint Vincent and the Grenadines/vc-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "timeline": "JumpstyleTimeline/Samoa/ws-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "timeline": "JumpstyleTimeline/San Marino/sm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "ST",
+      "name": "Sao Tome and Principe",
+      "timeline": "JumpstyleTimeline/Sao Tome and Principe/st-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "timeline": "JumpstyleTimeline/Saudi Arabia/sa-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "timeline": "JumpstyleTimeline/Senegal/sn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "timeline": "JumpstyleTimeline/Serbia/rs-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "timeline": "JumpstyleTimeline/Seychelles/sc-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "timeline": "JumpstyleTimeline/Sierra Leone/sl-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "timeline": "JumpstyleTimeline/Singapore/sg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SX",
+      "name": "Sint Maarten (Dutch part)",
+      "timeline": "JumpstyleTimeline/Sint Maarten (Dutch part)/sx-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "timeline": "JumpstyleTimeline/Slovakia/sk-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "timeline": "JumpstyleTimeline/Slovenia/si-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "timeline": "JumpstyleTimeline/Solomon Islands/sb-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "timeline": "JumpstyleTimeline/Somalia/so-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "timeline": "JumpstyleTimeline/South Africa/za-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GS",
+      "name": "South Georgia and the South Sandwich Islands",
+      "timeline": "JumpstyleTimeline/South Georgia and the South Sandwich Islands/gs-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "timeline": "JumpstyleTimeline/South Sudan/ss-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
       "code": "ES",
       "name": "Spain",
       "timeline": "JumpstyleTimeline/Spain/es-timeline.md",
-      "status": "research-needed",
+      "status": "research-in-progress",
       "legacyTemplate": true
     },
     {
-      "code": "US",
-      "name": "United States",
-      "timeline": "JumpstyleTimeline/USA/us-timeline.md",
-      "status": "research-in-progress",
-      "legacyTemplate": true
+      "code": "LK",
+      "name": "Sri Lanka",
+      "timeline": "JumpstyleTimeline/Sri Lanka/lk-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "timeline": "JumpstyleTimeline/Sudan/sd-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "timeline": "JumpstyleTimeline/Suriname/sr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "timeline": "JumpstyleTimeline/Svalbard and Jan Mayen/sj-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "timeline": "JumpstyleTimeline/Sweden/se-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "timeline": "JumpstyleTimeline/Switzerland/ch-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "SY",
+      "name": "Syrian Arab Republic",
+      "timeline": "JumpstyleTimeline/Syrian Arab Republic/sy-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan, Province of China",
+      "timeline": "JumpstyleTimeline/Taiwan, Province of China/tw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "timeline": "JumpstyleTimeline/Tajikistan/tj-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania, United Republic of",
+      "timeline": "JumpstyleTimeline/Tanzania, United Republic of/tz-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "timeline": "JumpstyleTimeline/Thailand/th-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "timeline": "JumpstyleTimeline/Timor-Leste/tl-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "timeline": "JumpstyleTimeline/Togo/tg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TK",
+      "name": "Tokelau",
+      "timeline": "JumpstyleTimeline/Tokelau/tk-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "timeline": "JumpstyleTimeline/Tonga/to-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "timeline": "JumpstyleTimeline/Trinidad and Tobago/tt-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "timeline": "JumpstyleTimeline/Tunisia/tn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TR",
+      "name": "Türkiye",
+      "timeline": "JumpstyleTimeline/Türkiye/tr-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "timeline": "JumpstyleTimeline/Turkmenistan/tm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TC",
+      "name": "Turks and Caicos Islands",
+      "timeline": "JumpstyleTimeline/Turks and Caicos Islands/tc-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "timeline": "JumpstyleTimeline/Tuvalu/tv-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "timeline": "JumpstyleTimeline/Uganda/ug-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
     },
     {
       "code": "UA",
@@ -137,11 +1646,116 @@
       "legacyTemplate": true
     },
     {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "timeline": "JumpstyleTimeline/United Arab Emirates/ae-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "timeline": "JumpstyleTimeline/United Kingdom/gb-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": false
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "timeline": "JumpstyleTimeline/USA/us-timeline.md",
+      "status": "research-in-progress",
+      "legacyTemplate": true
+    },
+    {
+      "code": "UM",
+      "name": "United States Minor Outlying Islands",
+      "timeline": "JumpstyleTimeline/United States Minor Outlying Islands/um-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "timeline": "JumpstyleTimeline/Uruguay/uy-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "timeline": "JumpstyleTimeline/Uzbekistan/uz-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "timeline": "JumpstyleTimeline/Vanuatu/vu-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
       "code": "VE",
       "name": "Venezuela",
       "timeline": "JumpstyleTimeline/Venezuela/ve-timeline.md",
       "status": "research-needed",
       "legacyTemplate": true
+    },
+    {
+      "code": "VN",
+      "name": "Viet Nam",
+      "timeline": "JumpstyleTimeline/Viet Nam/vn-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "VG",
+      "name": "Virgin Islands, British",
+      "timeline": "JumpstyleTimeline/Virgin Islands, British/vg-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "VI",
+      "name": "Virgin Islands, U.S.",
+      "timeline": "JumpstyleTimeline/Virgin Islands, U.S./vi-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "WF",
+      "name": "Wallis and Futuna",
+      "timeline": "JumpstyleTimeline/Wallis and Futuna/wf-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "EH",
+      "name": "Western Sahara",
+      "timeline": "JumpstyleTimeline/Western Sahara/eh-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "timeline": "JumpstyleTimeline/Yemen/ye-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "timeline": "JumpstyleTimeline/Zambia/zm-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "timeline": "JumpstyleTimeline/Zimbabwe/zw-timeline.md",
+      "status": "research-needed",
+      "legacyTemplate": false
     }
   ]
 }

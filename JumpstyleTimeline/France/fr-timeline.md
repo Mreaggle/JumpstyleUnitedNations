@@ -1160,38 +1160,54 @@
 
 #### 2005
 
-- **January**: [Tekstyle emerges as a French alternative to Mainstream Jumpstyle, approaching the French Tek scene.](https://en.wikipedia.org/wiki/Teknival) <!-- global-event:031 -->
-- **March**: [Belgium gets more into France and less into The Netherlands, Tekstyle was going to surge as an underground answer to mainstream Jumpstyle.](https://en.wikipedia.org/wiki/Teknival) <!-- global-event:033 -->
+- **January**: [Tekstyle emerges as a French alternative to Mainstream Jumpstyle, approaching the French Tek scene.](https://en.wikipedia.org/wiki/Teknival) <!-- global-event:032 -->
+- **March**: [Belgium gets more into France and less into The Netherlands, Tekstyle was going to surge as an underground answer to mainstream Jumpstyle.](https://en.wikipedia.org/wiki/Teknival) <!-- global-event:034 -->
 
 ### Internet/Patrick Jumpen | Meetings/HardJump Era
 
 #### 2007
 
-- **January**: The jump subgenre is experiencing its heyday through the music of Jeckyll & Hyde, DJ Coone, Furax, Scooter and the internet clips of Patrick Jumpen. <!-- global-event:044 -->
-- **December**: [Different mainstream artists go viral together, such as Patrick Jumpen, Coone, Jeckyll & Hyde, Scooter, Furax, DJ Marcky, Greg C, Loic D and DJ Porny.](https://www.youtube.com/watch?v=B4FP-ACzWks) <!-- global-event:055 -->
+- **January**: The jump subgenre is experiencing its heyday through the music of Jeckyll & Hyde, DJ Coone, Furax, Scooter and the internet clips of Patrick Jumpen. <!-- global-event:047 -->
+- **December**: [Different mainstream artists go viral together, such as Patrick Jumpen, Coone, Jeckyll & Hyde, Scooter, Furax, DJ Marcky, Greg C, Loic D and DJ Porny.](https://www.youtube.com/watch?v=B4FP-ACzWks) <!-- global-event:062 -->
 
 ### Internet/Competitive | Random Terminology Era
 
 #### 2008
 
-- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:069 -->
+- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:083 -->
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
 
 #### 2010
 
-- **May**: [France develops a distinct competitive generation around figures such as Spiady and Rey'Steal, whose videos carry French technique, spins and style into international leagues.](https://youtu.be/1uTKW-AYsr4?si=m-qe5D1zRxad6ncw) <!-- global-event:088 -->
+- **May**: [France develops a distinct competitive generation around figures such as Spiady and Rey'Steal, whose videos carry French technique, spins and style into international leagues.](https://youtu.be/1uTKW-AYsr4?si=m-qe5D1zRxad6ncw) <!-- global-event:112 -->
+
+#### 2011
+
+- **February**: [An International Meet Up in Bilbao brings together jumpers from Brazil, France and Spain; because no event date is stated, the February 6 upload date is used.](https://youtu.be/5fRHXHdWSnI) <!-- global-event:118 -->
+- **April**: [Paris hosts its first documented Jumpstyle reunion on April 23, preserved by the event catalogue at Jumpstylers.ru.](https://jumpstylers.ru/forum/23-Event-Movies/33785-i-reunion-de-jumpstyle-paris-le-23-04-2011-htt.html) <!-- global-event:121 -->
+
+### Internet/Competitive | Instagram/Global Projects Era
+
+#### 2017
+
+- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:156 -->
+
+#### 2018
+
+- **May 19**: [(LA)HORDE and La Gaîté Lyrique organize the 150 BPM night in Paris with Jumpstyle dancers, Hardstyle and Gabber, extending "To Da Bone" into a community event.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:157 -->
+- **July 14**: ["To Da Bone" reaches Amsterdam's Julidans festival during an international tour that also takes the European Jumpstyle cast to Portugal, Canada and other stages.](https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde) <!-- global-event:158 -->
 
 ### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
 
 #### 2024
 
-- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:115 -->
+- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:178 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2024
 
-- **February**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:118 -->
+- **February**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:181 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

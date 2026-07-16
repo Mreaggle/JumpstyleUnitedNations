@@ -1198,47 +1198,79 @@
 #### 2002
 
 - **January**: [Jumpstyle undergoes a period of growth in Belgium and Northern France, with new upbeat sounds. The genre became a counter-movement to Hardstyle gaining traction in the Netherlands, getting more melodic.](https://www.youtube.com/watch?v=Sk_xD1_OlSg) <!-- global-event:029 -->
+- **During 2002**: [Coone releases his first EP, "Protect the Innocent", an early milestone in the career of the Belgian producer who would become one of the genre's central figures.](https://music.apple.com/us/artist/coone/218861949) <!-- global-event:030 -->
 
 ### The Internet/Google Videos | Oldschool/Tekstyle Era
 
 #### 2005
 
-- **March**: [Belgium gets more into France and less into The Netherlands, Tekstyle was going to surge as an underground answer to mainstream Jumpstyle.](https://en.wikipedia.org/wiki/Teknival) <!-- global-event:033 -->
+- **March**: [Belgium gets more into France and less into The Netherlands, Tekstyle was going to surge as an underground answer to mainstream Jumpstyle.](https://en.wikipedia.org/wiki/Teknival) <!-- global-event:034 -->
 
 ### The Internet/YouTube | Youth/Fun Era
 
 #### 2006
 
-- **January**: [Woops by Binum was released in 2006 by Babaorum Records (a sub-label of DiKi Records).](https://www.discogs.com/label/1369-Bonzai-Jumps) <!-- global-event:035 -->
-- **March**: [MarjinV (aka Marry) and one of the main contributors, uploads his solo as ""my own jumpstyle"" being the first one to use Own + Jumpstyle in the same sentence.](https://www.youtube.com/watch?v=C1wkZEwV18E) <!-- global-event:037 -->
-- **July**: [DJ Coone emerges into the Belgium Jump scene, with tracks such as 'Life is Complex', dedicated to Complex nightclub. Patrick Jumpen (Patrick Pereira and Dion Teurlings) becomes one of the first successful projects on YouTube history, reaching millions of views with Tutorials and Jumpstyle Vlogs. Jumpstyle is already generating communities Globalwide and specific technical structures start to develop. 'Jumpstyle' term represents more a dance than a music genre at this point.](https://www.youtube.com/watch?v=B4FP-ACzWks) <!-- global-event:041 -->
+- **January**: [Woops by Binum was released in 2006 by Babaorum Records (a sub-label of DiKi Records).](https://www.discogs.com/label/1369-Bonzai-Jumps) <!-- global-event:037 -->
+- **March**: [MarjinV (aka Marry) and one of the main contributors, uploads his solo as ""my own jumpstyle"" being the first one to use Own + Jumpstyle in the same sentence.](https://www.youtube.com/watch?v=C1wkZEwV18E) <!-- global-event:039 -->
+- **July**: [DJ Coone emerges into the Belgium Jump scene, with tracks such as 'Life is Complex', dedicated to Complex nightclub. Patrick Jumpen (Patrick Pereira and Dion Teurlings) becomes one of the first successful projects on YouTube history, reaching millions of views with Tutorials and Jumpstyle Vlogs. Jumpstyle is already generating communities Globalwide and specific technical structures start to develop. 'Jumpstyle' term represents more a dance than a music genre at this point.](https://www.youtube.com/watch?v=B4FP-ACzWks) <!-- global-event:043 -->
+- **July**: [Dirty Workz is founded in Belgium in 2006, establishing the label platform that would carry Coone and a new generation of harder dance music to an international audience.](https://shop.dirtyworkz.com/service/about/) <!-- global-event:044 -->
 
 ### Internet/Patrick Jumpen | Meetings/HardJump Era
 
 #### 2007
 
-- **January**: The jump subgenre is experiencing its heyday through the music of Jeckyll & Hyde, DJ Coone, Furax, Scooter and the internet clips of Patrick Jumpen. <!-- global-event:044 -->
-- **February**: The year that saw the explosion of Jumpstyle as a dance all over the Global, with hits such as Scooter - Jumping All Over The Global, Patrick Jumpen - The Secret and Holiday, Jeckyll & Hyde - Freefall and Frozen Flame. <!-- global-event:045 -->
-- **March**: [One of the most famous Duo Jump's videos, is released to promote belgian-jumpstyle.com. It is already possible to see hardjump moves being performed.](https://youtu.be/IUbh_FCo8QU?si=Fs3egYB4yKgmQ5Rb) <!-- global-event:046 -->
-- **December**: [Different mainstream artists go viral together, such as Patrick Jumpen, Coone, Jeckyll & Hyde, Scooter, Furax, DJ Marcky, Greg C, Loic D and DJ Porny.](https://www.youtube.com/watch?v=B4FP-ACzWks) <!-- global-event:055 -->
-- **December**: [Coone releases "The Return", the song that made jumpstyle spread even more.](https://www.discogs.com/pt_BR/release/1131509-Coone-The-Return-Remixes) <!-- global-event:056 -->
+- **January**: The jump subgenre is experiencing its heyday through the music of Jeckyll & Hyde, DJ Coone, Furax, Scooter and the internet clips of Patrick Jumpen. <!-- global-event:047 -->
+- **February**: The year that saw the explosion of Jumpstyle as a dance all over the Global, with hits such as Scooter - Jumping All Over The Global, Patrick Jumpen - The Secret and Holiday, Jeckyll & Hyde - Freefall and Frozen Flame. <!-- global-event:048 -->
+- **March**: [One of the most famous Duo Jump's videos, is released to promote belgian-jumpstyle.com. It is already possible to see hardjump moves being performed.](https://youtu.be/IUbh_FCo8QU?si=Fs3egYB4yKgmQ5Rb) <!-- global-event:049 -->
+- **March**: [Jeckyll & Hyde release "Freefall" as a CD single on March 9; it later spends 27 weeks on the Dutch chart and reaches number one, while also charting in Belgium, Germany and Finland.](https://www.ultratop.be/nl/song/489d9/Jeckyll-%26-Hyde-Freefall) <!-- global-event:050 -->
+- **June**: [The two-disc "Belgian Jumpstyle Top 100" compilation is released on June 11, preserving a broad commercial canon that includes Coone, Mark With A K, Jeckyll & Hyde, Binum and many other Belgian-scene artists.](https://www.ultratop.be/nl/compilation/11a12/Belgian-Jumpstyle-Top-100) <!-- global-event:056 -->
+- **December**: [Different mainstream artists go viral together, such as Patrick Jumpen, Coone, Jeckyll & Hyde, Scooter, Furax, DJ Marcky, Greg C, Loic D and DJ Porny.](https://www.youtube.com/watch?v=B4FP-ACzWks) <!-- global-event:062 -->
+- **December**: [Coone releases "The Return", the song that made jumpstyle spread even more.](https://www.discogs.com/pt_BR/release/1131509-Coone-The-Return-Remixes) <!-- global-event:063 -->
 
 ### Internet/Competitive | Random Terminology Era
 
 #### 2008
 
-- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:069 -->
+- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:083 -->
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
 
 #### 2013
 
-- **February 24**: [Belgian pioneer Da Boy Tommy dies at age 36 following a road accident. His records, including "Halloween" and "Candyman", remain foundational documents of the genre's first commercial era.](https://qmusic.be/nieuws/da-boy-tommyis-overleden-1-1) <!-- global-event:099 -->
+- **February 24**: [Belgian pioneer Da Boy Tommy dies at age 36 following a road accident. His records, including "Halloween" and "Candyman", remain foundational documents of the genre's first commercial era.](https://qmusic.be/nieuws/da-boy-tommyis-overleden-1-1) <!-- global-event:135 -->
+
+### Internet/Competitive | Instagram/Global Projects Era
+
+#### 2017
+
+- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:156 -->
+
+#### 2018
+
+- **September 15**: [Bass Events launches Flashback Festival in Belgium, creating a recurring event dedicated to the earlier Jump and harder-styles repertoire.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:159 -->
+
+#### 2019
+
+- **September 14**: [Flashback Festival returns for its second Belgian edition, confirming an organized audience for Jump-era repertory after the commercial peak.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:164 -->
+
+#### 2021
+
+- **October 2**: [Flashback Festival resumes in Belgium after its 2020 interruption, continuing its official Jump and harder-styles programme.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:170 -->
+
+### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
+
+#### 2022
+
+- **September 24**: [Flashback Festival expands to three Belgian areas dedicated to Jump & Tek, Hardstyle and Hardcore, formalizing the historical branches of the harder-dance audience in one event.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:171 -->
+
+#### 2023
+
+- **May 13**: [Flashback Festival stages another Belgian edition, sustaining a dedicated festival platform for Jump, Tek and related harder styles.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:175 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2026
 
-- **January**: [Da Rick officially revives Jumper Records in Belgium with new releases, events and an active catalogue, reconnecting the label that helped name the sound in 1997 with a new global audience.](https://www.jumperrecords.com/) <!-- global-event:122 -->
+- **January**: [Da Rick officially revives Jumper Records in Belgium with new releases, events and an active catalogue, reconnecting the label that helped name the sound in 1997 with a new global audience.](https://www.jumperrecords.com/) <!-- global-event:185 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

@@ -5,7 +5,7 @@ Last reviewed: 2026-07-16
 ## Current strengths
 
 - A long-running Global Timeline with cross-border community input.
-- National timeline paths for 20 countries, including Germany.
+- National timeline paths for the original 20-country research set, including Germany. The catalog was expanded on 2026-07-16 to 249 ISO 3166-1 countries and territories plus Kosovo (`XK`).
 - Key Figures, volunteer and community perspectives from multiple generations.
 - Thematic archive areas for forums, media, competitions, voices and knowledge.
 - A public museum at `jumpstyle.com.br/JUN/` with curated highlights and the complete Global Timeline.
@@ -16,7 +16,7 @@ Last reviewed: 2026-07-16
 
 ### National timelines
 
-Nineteen national files retain the original year/month placeholder scaffold.
+Nineteen legacy national files retain the original year/month placeholder scaffold. Newly cataloged countries use a compact synchronized research shell instead.
 Some have useful contributions mixed into the template, but an agent cannot
 assume that a file is mature because it exists. Germany now has a national file.
 All 20 timelines include a generated block containing the Global Timeline

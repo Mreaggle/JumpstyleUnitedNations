@@ -13,8 +13,11 @@ The private JUN WhatsApp export was used as a discovery index for names, countri
 - Existing JUN Global Timeline and Key Figures Worldwide.
 - Public records from Jumper Records, Ultratop, Dutch Top 40, Qmusic Belgium and VPRO 3voor12.
 - Contemporary French cultural coverage from Le Monde.
-- Selected YouTube meeting and league records in Poland, Russia, the Netherlands, Belgium, Brazil and the United States.
+- Sixty-four additional sourced events spanning Europe, Latin America and Asia, with explicit upload-date fallback labels where an event date does not survive.
+- Selected YouTube meeting and league records in Poland, Russia, Ukraine, the Netherlands, Germany, the United Kingdom, Spain, Italy, Hungary, the Czech Republic, Mexico, Chile, Argentina, Colombia, Indonesia, Malaysia and Japan.
 - Wayback snapshots of JumpstylePolska.pl, Jumpstylers.ru and an archived Jumpstyle Brasil meeting page.
+- Live Jumpstylers.ru event, league-winner and site-map indexes; TAF competition records; Polish municipal listings; and contemporary Dutch and German press.
+- Official cultural and event records for (LA)HORDE's `To Da Bone`, Bass Events' Flashback Festival and the 2026 German championship in Lehrte.
 - Public records for Fortnite's Jumpstyle-derived emote and the Yabujin/DJ GYROTTA ZAO revival.
 - A first multilingual research vocabulary for all countries represented by JUN timelines and Key Figures.
 
@@ -57,7 +60,7 @@ The source URLs currently promoted by this pass are registered in [`data/source-
 1. **P0 - Source inventory:** normalize all known public URLs and metadata.
 2. **P1 - Core countries:** Belgium, Netherlands, Poland, Russia, France and Germany.
 3. **P2 - Key Figures countries:** Ukraine, Italy, Brazil, Mexico, Chile and Indonesia.
-4. **P3 - Open national archives:** Argentina, Czech Republic, Japan, Lithuania, Malaysia, Spain, United States and Venezuela.
+4. **P3 - Open national archives:** Colombia, Hungary, United Kingdom, Lithuania, United States and Venezuela; deepen the newly anchored Argentina, Czech, Japanese, Malaysian and Spanish chronologies.
 5. **P4 - Cross-check:** review global-to-national assignments, add missing local context and request community review.
 
 ## Completion criteria

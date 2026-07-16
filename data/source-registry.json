@@ -97,6 +97,126 @@
       "countries": ["LT", "GLOBAL"],
       "status": "supported",
       "url": "https://pitchfork.com/thepitch/chasing-yabujin-the-artist-who-secretly-shaped-the-underground-sound-of-the-2020s/"
+    },
+    {
+      "id": "dirty-workz-history",
+      "type": "official-label",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://shop.dirtyworkz.com/service/about/"
+    },
+    {
+      "id": "vpro-jumpin-radio-2007",
+      "type": "contemporary-press",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "supported",
+      "url": "https://3voor12.vpro.nl/lokaal/utrecht/artikelen/overzicht/2007/maart/utracks-musical-the-utrecht-story-en-jumpin-radio.html"
+    },
+    {
+      "id": "vpro-jump-ban-2007",
+      "type": "contemporary-press",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "supported",
+      "url": "https://3voor12.vpro.nl/artikelen/jump-adepten-snappen-niks-van-jumpstyle-verbod"
+    },
+    {
+      "id": "ultratop-freefall",
+      "type": "official-chart",
+      "language": "nl",
+      "countries": ["BE", "NL", "DE"],
+      "status": "verified",
+      "url": "https://www.ultratop.be/nl/song/489d9/Jeckyll-%26-Hyde-Freefall"
+    },
+    {
+      "id": "ultratop-belgian-jumpstyle-top-100",
+      "type": "official-chart",
+      "language": "nl",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://www.ultratop.be/nl/compilation/11a12/Belgian-Jumpstyle-Top-100"
+    },
+    {
+      "id": "taf-first-german-championship",
+      "type": "official-competition-record",
+      "language": "de",
+      "countries": ["DE"],
+      "status": "verified",
+      "url": "https://taf.k5v.de/ceis/webShowCompetitionResultsListTaf.do?mandant=3&selYear=2008"
+    },
+    {
+      "id": "taz-berlin-meeting-2009",
+      "type": "contemporary-press",
+      "language": "de",
+      "countries": ["DE"],
+      "status": "supported",
+      "url": "https://taz.de/Die-wollen-nur-spielen/%21689502/"
+    },
+    {
+      "id": "jumpstylers-event-movies",
+      "type": "community-archive",
+      "language": "ru",
+      "countries": ["RU", "PL", "NL", "ES", "FR"],
+      "status": "supported",
+      "url": "https://jumpstylers.ru/forum/23-Event-Movies.html"
+    },
+    {
+      "id": "jumpstylers-league-winners",
+      "type": "community-competition-record",
+      "language": "ru",
+      "countries": ["RU", "PL", "GLOBAL"],
+      "status": "supported",
+      "url": "https://jumpstylers.ru/jumpstyle-league-winners.html"
+    },
+    {
+      "id": "jumpstylers-site-map",
+      "type": "community-archive-index",
+      "language": "ru",
+      "countries": ["RU", "GLOBAL"],
+      "status": "supported",
+      "url": "https://jumpstylers.ru/site-map.html"
+    },
+    {
+      "id": "gliwice-national-meeting-2016",
+      "type": "municipal-event-record",
+      "language": "pl",
+      "countries": ["PL"],
+      "status": "verified",
+      "url": "https://gliwice.eu/wydarzenia/kulturalne/2016-08-27/i-ogolnopolski-zlot-jumpstyle-w-gliwicach"
+    },
+    {
+      "id": "lahorde-to-da-bone",
+      "type": "official-production-record",
+      "language": "en",
+      "countries": ["FR", "BE", "NL", "GLOBAL"],
+      "status": "verified",
+      "url": "https://collectiflahorde.com/production/age-of-content"
+    },
+    {
+      "id": "institut-francais-to-da-bone",
+      "type": "official-cultural-record",
+      "language": "fr",
+      "countries": ["FR", "BE", "NL", "GLOBAL"],
+      "status": "verified",
+      "url": "https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde"
+    },
+    {
+      "id": "bass-events-flashback",
+      "type": "official-event-archive",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://www.bassevents.be/tags/flashback-festival"
+    },
+    {
+      "id": "lehrte-german-championship-2026",
+      "type": "official-club-report",
+      "language": "de",
+      "countries": ["DE"],
+      "status": "verified",
+      "url": "https://www.lehrtersv.de/tsa-aktuelles/1062-taf-deutsche-meisterschaft-jumpstyle-und-deutschland-cup-shuffle-lehrte-praesentiert-sich-als-top-ausrichter"
     }
   ]
 }

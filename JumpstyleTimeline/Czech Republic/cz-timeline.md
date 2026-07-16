@@ -1141,6 +1141,14 @@
 > Edit the global source and `data/global-event-countries.json`, then run
 > `npm run sync:national`. Do not edit this block manually.
 
-_No Global Timeline event is currently attributed specifically to Czech Republic._
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2010
+
+- **April**: [A Prague Jumpstyle gathering at Hřiště hrdinů is documented by a video published on April 19; because no separate event date is stated, the upload date is used.](https://youtu.be/hx0jyzKvTTo) <!-- global-event:111 -->
+
+#### 2013
+
+- **June 21**: ["The Republic of Jumpstyle 4: Together in Prague" is published as a Czech community film; because no separate event date is stated, the upload date is used.](https://youtu.be/48b5BNfX94o) <!-- global-event:137 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

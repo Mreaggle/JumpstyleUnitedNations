@@ -1145,29 +1145,45 @@
 
 #### 2008
 
-- **February**: The first Russian Jumpstyle meet takes place in St. Petersburg, jumpers like Samurai start to gain notoriety on the internet. <!-- global-event:060 -->
-- **April**: At this point, Russian jumpers realize that they are creating their own style of dance, forming a model to be followed by all Russians, so the label Sidejump was created to differentiate itself from the others. <!-- global-event:062 -->
-- **June**: Techniques are well-established and keep evolving every second, Germany, Poland and Russia start to develop their own techniques. People are now dancing to Hardstyle as Jumpstyle is slower than their needs to evolve in speed technique. <!-- global-event:064 -->
-- **December**: [The preview for the First Russian Jumpstyle League is uploaded on December 10, documenting that the national online competition was already underway before the end of 2008.](https://www.youtube.com/watch?v=bEzrZSwCEnM) <!-- global-event:071 -->
+- **February**: The first Russian Jumpstyle meet takes place in St. Petersburg, jumpers like Samurai start to gain notoriety on the internet. <!-- global-event:067 -->
+- **April**: At this point, Russian jumpers realize that they are creating their own style of dance, forming a model to be followed by all Russians, so the label Sidejump was created to differentiate itself from the others. <!-- global-event:071 -->
+- **June**: Techniques are well-established and keep evolving every second, Germany, Poland and Russia start to develop their own techniques. People are now dancing to Hardstyle as Jumpstyle is slower than their needs to evolve in speed technique. <!-- global-event:074 -->
+- **August**: [An international Jump Meeting takes place in Moscow on August 17, bringing together Russian jumpers including Samurai, Hardstyle_king and ANRJumper.](https://jumpstylers.ru/forum/23-Event-Movies/36-international-jump-meeting.html) <!-- global-event:080 -->
+- **December**: [The preview for the First Russian Jumpstyle League is uploaded on December 10, documenting that the national online competition was already underway before the end of 2008.](https://www.youtube.com/watch?v=bEzrZSwCEnM) <!-- global-event:085 -->
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
 
 #### 2009
 
-- **January**: The Russian Jumpstyle league is in full swing through the Jumpstylers.ru forum, most of the leagues are virtual, where jumpers submit their videos on YouTube to be judged. Samurai is one of the big names along with Yarche, DSJumper and LonelyHawk. <!-- global-event:072 -->
-- **January**: [An archived February 2009 snapshot of Jumpstylers.ru preserves the First Russian Jumpstyle League brackets, previews and battle links, including freestyle semifinals and a separate new-jumpers division.](https://web.archive.org/web/20090210025827/http://jumpstylers.ru/) <!-- global-event:073 -->
-- **August**: Russia created its own aesthetic and tricks and called it The Sidejump. <!-- global-event:081 -->
-- **September**: [Jumpers like DannieL and Samurai are already well-recognized for their own styles.](https://www.youtube.com/watch?v=XHk4fOR9Bts) <!-- global-event:082 -->
-- **October**: [The Russian Jump League (RJL) is formed, bringing a new level of competition to the scene.](https://www.youtube.com/watch?v=lgNqkkIu8iE) <!-- global-event:083 -->
+- **January**: The Russian Jumpstyle league is in full swing through the Jumpstylers.ru forum, most of the leagues are virtual, where jumpers submit their videos on YouTube to be judged. Samurai is one of the big names along with Yarche, DSJumper and LonelyHawk. <!-- global-event:086 -->
+- **January**: [An archived February 2009 snapshot of Jumpstylers.ru preserves the First Russian Jumpstyle League brackets, previews and battle links, including freestyle semifinals and a separate new-jumpers division.](https://web.archive.org/web/20090210025827/http://jumpstylers.ru/) <!-- global-event:087 -->
+- **July**: [The Summer Jumpstyle League begins on July 15 at Jumpstylers.ru, with separate Freestyle and Sidejump divisions won by k4^Jumpen and Jagr, respectively.](https://jumpstylers.ru/jumpstyle-league-winners.html) <!-- global-event:098 -->
+- **July**: [A C-walk versus Jumpstyle battle takes place at Moscow's Luzhniki complex on July 25, documenting exchange and competition between online-born street-dance communities.](https://jumpstylers.ru/forum/23-Event-Movies/603-luzhniki-25-07-2009-battle-c-walk-vs-jumpstyle-2-bonus.html) <!-- global-event:099 -->
+- **August**: Russia created its own aesthetic and tricks and called it The Sidejump. <!-- global-event:100 -->
+- **September**: [Jumpers like DannieL and Samurai are already well-recognized for their own styles.](https://www.youtube.com/watch?v=XHk4fOR9Bts) <!-- global-event:102 -->
+- **October**: [The Russian Jump League (RJL) is formed, bringing a new level of competition to the scene.](https://www.youtube.com/watch?v=lgNqkkIu8iE) <!-- global-event:103 -->
 
 #### 2010
 
-- **January**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:084 -->
-- **February**: Standout years for jumpers like Scot, Badsz (now Russian Village Boys), S1dej and Jagr <!-- global-event:085 -->
-- **April**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:087 -->
+- **January**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:106 -->
+- **February**: Standout years for jumpers like Scot, Badsz (now Russian Village Boys), S1dej and Jagr <!-- global-event:108 -->
+- **April**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:110 -->
 
 #### 2011
 
-- **March**: [Russian jumpers unite at a famous dance studio to record the video that would be one of the most famous over Jumpstyle in YouTube. They're dancing to Noisecontrollers - Confucius.](https://www.youtube.com/watch?v=xQIGg9rXsb0) <!-- global-event:091 -->
+- **March**: [Russian jumpers unite at a famous dance studio to record the video that would be one of the most famous over Jumpstyle in YouTube. They're dancing to Noisecontrollers - Confucius.](https://www.youtube.com/watch?v=xQIGg9rXsb0) <!-- global-event:119 -->
+- **September 25**: [The Women's World Jumpstyle League begins, running until March 24, 2012 and ending with Alinka as champion, a rare preserved record of a dedicated women's international division.](https://jumpstylers.ru/jumpstyle-league-winners.html) <!-- global-event:122 -->
+
+#### 2012
+
+- **July 20**: [The HEB league concludes after six months with solo, duo, Hardjump, women's and team divisions, illustrating how Russian-hosted online competitions had diversified their formats.](https://jumpstylers.ru/jumpstyle-league-winners.html) <!-- global-event:130 -->
+
+#### 2014
+
+- **During 2014**: [The Jumpstylers.ru archive indexes the World Jumpstyle League 2014 alongside solo, duo, women's and team competitions, preserving the continued breadth of the league ecosystem.](https://jumpstylers.ru/site-map.html) <!-- global-event:143 -->
+
+#### 2015
+
+- **During 2015**: [Jumpstylers.ru preserves a dedicated Russian Jumpstyle League 2015 index as well as the fourth Russian championship, showing that the competitive archive remained active well beyond its first wave.](https://jumpstylers.ru/site-map.html) <!-- global-event:148 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

@@ -2,6 +2,13 @@
 
 This directory exposes repository maturity and source information without requiring an agent to infer status from prose.
 
+## `country-catalog.json`
+
+The catalog defines the complete ISO 3166-1 country and territory scaffold,
+with Kosovo included under the user-assigned `XK` code. It is the source of
+truth for creating national research files without claiming that every country
+already has verified Jumpstyle history.
+
 ## `country-research.json`
 
 Each country record contains:
@@ -12,7 +19,7 @@ Each country record contains:
 - `status`: `research-in-progress`, `research-needed` or `no-national-file`.
 - `legacyTemplate`: whether the national file still contains original placeholder scaffolding.
 
-The registry includes countries represented by national files, JUN contributors, Key Figures or established Global Timeline events. Update the status only after inspecting the national file and its public evidence.
+The registry includes every catalog entry. Update the status only after inspecting the national file and its public evidence.
 
 ## `source-registry.json`
 

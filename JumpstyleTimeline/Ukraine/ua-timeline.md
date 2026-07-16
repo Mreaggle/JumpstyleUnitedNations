@@ -1141,6 +1141,21 @@
 > Edit the global source and `data/global-event-countries.json`, then run
 > `npm run sync:national`. Do not edit this block manually.
 
-_No Global Timeline event is currently attributed specifically to Ukraine._
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2010
+
+- **January**: [The Ukrainian Jumpstyle League reaches its Freestyle semifinals in January, documenting a national competitive structure linked to jumpstyle.com.ua.](https://youtu.be/smzlm1_koIQ) <!-- global-event:107 -->
+- **October 23**: [Jumpers from Kyiv and Donetsk meet in Donetsk, creating a documented intercity Ukrainian gathering.](https://youtu.be/CSQ9-UjSQG4) <!-- global-event:113 -->
+
+#### 2011
+
+- **October 26**: [The JTP Cup announces an open Jumpstyle championship of Ukraine in Kyiv with international participation; because the competition day is not preserved in the description, the upload date is used.](https://youtu.be/JjTxxsAWJ54) <!-- global-event:123 -->
+
+### Internet/Competitive | Instagram/Global Projects Era
+
+#### 2017
+
+- **August 14**: [Kyiv's ninth Ukrainian Hard Dance Meet Up is documented with a participant list spanning multiple generations; because no separate event date is stated, the upload date is used.](https://youtu.be/-E5KIjjq1dM) <!-- global-event:155 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

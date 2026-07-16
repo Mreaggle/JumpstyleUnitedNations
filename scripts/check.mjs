@@ -19,6 +19,7 @@ const requiredFiles = [
   "docs/RESEARCH_STATUS.md",
   "docs/legacy/README-2025.md",
   "data/README.md",
+  "data/country-catalog.json",
   "data/country-research.json",
   "data/global-event-countries.json",
   "data/source-registry.json",
@@ -31,12 +32,15 @@ for (const file of requiredFiles) {
 }
 
 const countries = readJson("data/country-research.json");
+const countryCatalog = readJson("data/country-catalog.json");
 const sources = readJson("data/source-registry.json");
 
 if (countries.schemaVersion !== 1)
   errors.push("Unsupported country registry schema");
-if (countries.countries.length !== 20)
-  errors.push("Country registry must contain 20 JUN research countries");
+if (countries.countries.length !== countryCatalog.countries.length)
+  errors.push("Country registry must cover the complete country catalog");
+if (countryCatalog.countries.length !== 250)
+  errors.push("Country catalog must contain 249 ISO records plus Kosovo (XK)");
 if (
   new Set(countries.countries.map((country) => country.code)).size !==
   countries.countries.length

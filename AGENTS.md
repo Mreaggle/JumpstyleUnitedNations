@@ -38,9 +38,11 @@ Prefer sources in this order:
 4. Assign an evidence status defined in `docs/EDITORIAL_POLICY.md`.
 5. Add the smallest useful timeline entry without rewriting unrelated history.
 6. Update `data/country-research.json` when a country's maturity changes.
-7. Update `data/global-event-countries.json` and run `npm run sync:national`
+7. Keep `data/country-catalog.json` complete and run `npm run scaffold:countries`
+   when a catalog entry or national path is added.
+8. Update `data/global-event-countries.json` and run `npm run sync:national`
    when a Global Timeline event is added or changed.
-8. Run the repository validator and inspect the diff for accidental deletions.
+9. Run the repository validator and inspect the diff for accidental deletions.
 
 ## Repository ownership
 

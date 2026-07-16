@@ -1141,6 +1141,15 @@
 > Edit the global source and `data/global-event-countries.json`, then run
 > `npm run sync:national`. Do not edit this block manually.
 
-_No Global Timeline event is currently attributed specifically to Spain._
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2009
+
+- **December 28**: [Bilbao hosts what organizers call the biggest Jump Meeting in northern Spain at Plaza Moyúa; the exact date survives in the video's description.](https://youtu.be/2bO2br4i7m8) <!-- global-event:105 -->
+
+#### 2011
+
+- **February**: [An International Meet Up in Bilbao brings together jumpers from Brazil, France and Spain; because no event date is stated, the February 6 upload date is used.](https://youtu.be/5fRHXHdWSnI) <!-- global-event:118 -->
+- **December 28**: [An international urban-dance meeting in Bilbao draws more than 100 participants, with Jumpstyle organizers Nitros and Xundi helping coordinate the event.](https://larutadelbacalao.blogspot.com/2011/12/?m=0) <!-- global-event:124 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

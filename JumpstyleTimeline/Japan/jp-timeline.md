@@ -1141,6 +1141,14 @@
 > Edit the global source and `data/global-event-countries.json`, then run
 > `npm run sync:national`. Do not edit this block manually.
 
-_No Global Timeline event is currently attributed specifically to Japan._
+### Internet/Competitive | Instagram/Global Projects Era
+
+#### 2018
+
+- **October 29**: [A Jumpstyle meet presented by Tasshi is documented in Osaka; because no separate event date is stated, the upload date is used.](https://youtu.be/hrx4WNu1Rzg) <!-- global-event:160 -->
+
+#### 2020
+
+- **February**: [A sudden Jumpstyle meet-up is documented in Japan on February 16, preserving a small national scene immediately before pandemic restrictions.](https://youtu.be/cVOy9rEKXYU) <!-- global-event:168 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

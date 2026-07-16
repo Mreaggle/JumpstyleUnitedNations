@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://jumpstyle.com.br/JUN/"><img alt="Official museum" src="https://img.shields.io/badge/official_museum-jumpstyle.com.br%2FJUN-25b8f4"></a>
   <a href="JumpstyleTimeline/Global/global-timeline.md"><img alt="Global timeline" src="https://img.shields.io/badge/global_timeline-1991--2026-69df43"></a>
-  <a href="data/country-research.json"><img alt="National research" src="https://img.shields.io/badge/national_research-20_countries-1677ff"></a>
+  <a href="data/country-research.json"><img alt="National research" src="https://img.shields.io/badge/national_structure-250_archives-1677ff"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/Mreaggle/JumpstyleUnitedNations?color=ffffff"></a>
   <a href="https://github.com/Mreaggle/JumpstyleUnitedNations/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/Mreaggle/JumpstyleUnitedNations?color=69df43"></a>
   <a href="CONTRIBUTING.md"><img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-25b8f4"></a>

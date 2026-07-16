@@ -1145,12 +1145,12 @@
 
 #### 2020
 
-- **January**: [Yabujin is introduced by the names of Yabujin, Azeroy, Gyrotta Zao and many others, creating a kind of paralell universe where those personalities coexisted.](https://www.youtube.com/watch?v=JqAZJrFlzhM) <!-- global-event:107 -->
+- **January**: [Yabujin is introduced by the names of Yabujin, Azeroy, Gyrotta Zao and many others, creating a kind of paralell universe where those personalities coexisted.](https://www.youtube.com/watch?v=JqAZJrFlzhM) <!-- global-event:166 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2025
 
-- **March**: [Pitchfork documents how Lithuanian artist Yabujin and his DJ GYROTTA ZAO alias shaped a new underground wave of jagged Jumpstyle music and a TikTok microgenre with more than 23,000 posts.](https://pitchfork.com/thepitch/chasing-yabujin-the-artist-who-secretly-shaped-the-underground-sound-of-the-2020s/) <!-- global-event:121 -->
+- **March**: [Pitchfork documents how Lithuanian artist Yabujin and his DJ GYROTTA ZAO alias shaped a new underground wave of jagged Jumpstyle music and a TikTok microgenre with more than 23,000 posts.](https://pitchfork.com/thepitch/chasing-yabujin-the-artist-who-secretly-shaped-the-underground-sound-of-the-2020s/) <!-- global-event:184 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->
