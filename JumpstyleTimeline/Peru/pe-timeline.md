@@ -15,6 +15,6 @@ This national or territorial view is synchronized from sourced records in the Gl
 
 #### 2025
 
-- **February**: The community review records Anthony Honterz promoting the Synergy Perú event. <!-- global-event:242 -->
+- **February**: The community review records Anthony Honterz promoting the Synergy Perú event. <!-- global-event:246 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

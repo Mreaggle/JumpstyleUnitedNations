@@ -1180,54 +1180,54 @@
 #### 2010
 
 - **January**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:137 -->
-- **April**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:141 -->
-- **During 2010**: The [2025 community review](global-review.md) additionally identifies Effect, Xardas, Groszek, DudQ, Woren/Anointed and Cost alongside the already documented Scot, Badsz, S1dej, Jagr, Spiady and Rey'Steal; it records Badsz's monthly `TopJumperz` compilations and the JumpstylePolskaPL channel as important distribution points. <!-- global-event:148 -->
+- **April**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:142 -->
+- **During 2010**: The [2025 community review](global-review.md) additionally identifies Effect, Xardas, Groszek, DudQ, Woren/Anointed and Cost alongside the already documented Scot, Badsz, S1dej, Jagr, Spiady and Rey'Steal; it records Badsz's monthly `TopJumperz` compilations and the JumpstylePolskaPL channel as important distribution points. <!-- global-event:151 -->
 
 #### 2011
 
-- **February**: These were outstanding years for jumpers who would influence an entire generation, Kamill, Effect, Kadze and Xardas. Patrick Jumpen admires Polish Jumping and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:151 -->
-- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:159 -->
-- **During 2011**: The review preserves a distinctive clothing record: Russian dancers commonly wore beanies, slip-ons and loose `swag` trousers, while Polish dancers combined Sosho pants with white **Nike Ship** shoes and football boots. <!-- global-event:160 -->
+- **February**: These were outstanding years for jumpers who would influence an entire generation, Kamill, Effect, Kadze and Xardas. Patrick Jumpen admires Polish Jumping and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:154 -->
+- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:163 -->
+- **During 2011**: The review preserves a distinctive clothing record: Russian dancers commonly wore beanies, slip-ons and loose `swag` trousers, while Polish dancers combined Sosho pants with white **Nike Ship** shoes and football boots. <!-- global-event:164 -->
 
 #### 2012
 
-- **January**: Patrick Jumpen admires Polish Jump and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:161 -->
-- **March**: [A large multijump in Krakow records the continuing strength of Poland's meeting culture and collective performance.](https://youtu.be/SsikuMUUsw0) <!-- global-event:164 -->
-- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:166 -->
-- **April**: [Dion Teurlings' film preserves Patrick Jumpen and Dion at the Poznań meeting.](https://youtu.be/4OLRJ27VU4g) <!-- global-event:167 -->
+- **January**: Patrick Jumpen admires Polish Jump and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:165 -->
+- **March**: [A large multijump in Krakow records the continuing strength of Poland's meeting culture and collective performance.](https://youtu.be/SsikuMUUsw0) <!-- global-event:168 -->
+- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:170 -->
+- **April**: [Dion Teurlings' film preserves Patrick Jumpen and Dion at the Poznań meeting.](https://youtu.be/4OLRJ27VU4g) <!-- global-event:171 -->
 
 #### 2013
 
-- **During 2013**: The [2025 community review](global-review.md) records HardSexionAddicted dissolving in France and a global clothing trend around Sosho pants and Nike Mercurial football boots; it also records Sosho's influence on the period's emphasis on clean technique. <!-- global-event:180 -->
+- **During 2013**: The [2025 community review](global-review.md) records HardSexionAddicted dissolving in France and a global clothing trend around Sosho pants and Nike Mercurial football boots; it also records Sosho's influence on the period's emphasis on clean technique. <!-- global-event:184 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2016
 
-- **August 27**: [Gliwice hosts a nationwide Polish Jumpstyle meeting organized by JumpIsLife, with workshops, a tournament and teams travelling from cities including Łódź, Pabianice, Poznań, Kraków and Olsztyn.](https://gliwice.eu/wydarzenia/kulturalne/2016-08-27/i-ogolnopolski-zlot-jumpstyle-w-gliwicach) <!-- global-event:194 -->
+- **August 27**: [Gliwice hosts a nationwide Polish Jumpstyle meeting organized by JumpIsLife, with workshops, a tournament and teams travelling from cities including Łódź, Pabianice, Poznań, Kraków and Olsztyn.](https://gliwice.eu/wydarzenia/kulturalne/2016-08-27/i-ogolnopolski-zlot-jumpstyle-w-gliwicach) <!-- global-event:198 -->
 
 ### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
 
 #### 2023
 
-- **August**: [Poland's Atomic Destination Team defeats France after a nearly seven-month World Jumpstyle Cup — Nations campaign, retaining the team world title and documenting the endurance of international video-league competition.](https://www.piekary.info/grupa-taneczna-z-piekar-mistrzem-swiata-atomic-destination-team-po-raz-drugi-siegnelo-po-zloto) <!-- global-event:224 -->
+- **August**: [Poland's Atomic Destination Team defeats France after a nearly seven-month World Jumpstyle Cup — Nations campaign, retaining the team world title and documenting the endurance of international video-league competition.](https://www.piekary.info/grupa-taneczna-z-piekar-mistrzem-swiata-atomic-destination-team-po-raz-drugi-siegnelo-po-zloto) <!-- global-event:228 -->
 
 #### 2024
 
-- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:228 -->
+- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:232 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2024
 
-- **September**: The community review records Filip opening a Jumpstyle school in Poland, LuVa of Shuffle Timeline joining JUN and contributors beginning methodological discussions for the GitHub archive. <!-- global-event:233 -->
-- **December**: The community review records Kauan sharing a technique PDF and Filip promoting the Warsaw meeting scheduled for January 18, 2025. <!-- global-event:238 -->
+- **September**: The community review records Filip opening a Jumpstyle school in Poland, LuVa of Shuffle Timeline joining JUN and contributors beginning methodological discussions for the GitHub archive. <!-- global-event:237 -->
+- **December**: The community review records Kauan sharing a technique PDF and Filip promoting the Warsaw meeting scheduled for January 18, 2025. <!-- global-event:242 -->
 
 #### 2025
 
-- **January**: [A new Warsaw meeting brings Polish jumpers together for a large multijump, continuing the country's meeting tradition across generations.](https://www.instagram.com/reel/DFBo14VIRtm/) <!-- global-event:240 -->
-- **January**: The [2025 community review](global-review.md) records Grinzler publishing a United States tribute, Filip offering an online course and Snak'e sharing aerial footage during the month's renewed international activity. <!-- global-event:241 -->
-- **March**: The community review records Zygzak reuploading a Mimoza video, promotion of Jumpstyle League 2025, Luksy's participation and discussion about teaching stamping and bringing the new generation into public meetings. <!-- global-event:244 -->
-- **During 2025**: [Atomic Destination Team runs in-person Jumpstyle classes in several Polish cities, including Warsaw, Łódź and Piekary Śląskie, moving knowledge transmission from informal videos into recurring instruction.](https://adtjumpstyle.com/zajecia-stacjonarne/) <!-- global-event:245 -->
+- **January**: [A new Warsaw meeting brings Polish jumpers together for a large multijump, continuing the country's meeting tradition across generations.](https://www.instagram.com/reel/DFBo14VIRtm/) <!-- global-event:244 -->
+- **January**: The [2025 community review](global-review.md) records Grinzler publishing a United States tribute, Filip offering an online course and Snak'e sharing aerial footage during the month's renewed international activity. <!-- global-event:245 -->
+- **March**: The community review records Zygzak reuploading a Mimoza video, promotion of Jumpstyle League 2025, Luksy's participation and discussion about teaching stamping and bringing the new generation into public meetings. <!-- global-event:248 -->
+- **During 2025**: [Atomic Destination Team runs in-person Jumpstyle classes in several Polish cities, including Warsaw, Łódź and Piekary Śląskie, moving knowledge transmission from informal videos into recurring instruction.](https://adtjumpstyle.com/zajecia-stacjonarne/) <!-- global-event:249 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

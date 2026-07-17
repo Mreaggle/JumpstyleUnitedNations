@@ -1261,29 +1261,29 @@
 
 #### 2011
 
-- **February**: These were outstanding years for jumpers who would influence an entire generation, Kamill, Effect, Kadze and Xardas. Patrick Jumpen admires Polish Jumping and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:151 -->
-- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:159 -->
+- **February**: These were outstanding years for jumpers who would influence an entire generation, Kamill, Effect, Kadze and Xardas. Patrick Jumpen admires Polish Jumping and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:154 -->
+- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:163 -->
 
 #### 2012
 
-- **January**: Patrick Jumpen admires Polish Jump and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:161 -->
-- **April**: [Dion Teurlings' film preserves Patrick Jumpen and Dion at the Poznań meeting.](https://youtu.be/4OLRJ27VU4g) <!-- global-event:167 -->
+- **January**: Patrick Jumpen admires Polish Jump and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:165 -->
+- **April**: [Dion Teurlings' film preserves Patrick Jumpen and Dion at the Poznań meeting.](https://youtu.be/4OLRJ27VU4g) <!-- global-event:171 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2016
 
-- **During 2016**: The [2025 community review](global-review.md) records Jelle's visibility through the Jumpers Versus Project in the Netherlands and Smaill's Ukrainian `golden year` videos, some of which were later deleted. <!-- global-event:195 -->
+- **During 2016**: The [2025 community review](global-review.md) records Jelle's visibility through the Jumpers Versus Project in the Netherlands and Smaill's Ukrainian `golden year` videos, some of which were later deleted. <!-- global-event:199 -->
 
 #### 2018
 
-- **July 14**: ["To Da Bone" reaches Amsterdam's Julidans festival during an international tour that also takes the European Jumpstyle cast to Portugal, Canada and other stages.](https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde) <!-- global-event:203 -->
+- **July 14**: ["To Da Bone" reaches Amsterdam's Julidans festival during an international tour that also takes the European Jumpstyle cast to Portugal, Canada and other stages.](https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde) <!-- global-event:207 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2024
 
-- **November 21**: [Geck-o and Cut Sphere release "That Boogie", preserving a contemporary Dutch connection to the harder, retro-informed dance sound.](https://hardstyle.com/en/tracks/749790a0-a0ea-4e66-8b62-388772c4b116/that-boogie) <!-- global-event:236 -->
-- **During November**: The community review records the JumpstyleAI project being announced, renewed debate over competitive culture and community health, and Jelle leaving the JUN discussion group. <!-- global-event:237 -->
+- **November 21**: [Geck-o and Cut Sphere release "That Boogie", preserving a contemporary Dutch connection to the harder, retro-informed dance sound.](https://hardstyle.com/en/tracks/749790a0-a0ea-4e66-8b62-388772c4b116/that-boogie) <!-- global-event:240 -->
+- **During November**: The community review records the JumpstyleAI project being announced, renewed debate over competitive culture and community health, and Jelle leaving the JUN discussion group. <!-- global-event:241 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

@@ -1180,52 +1180,52 @@
 
 #### 2010
 
-- **May**: [France develops a distinct competitive generation around figures such as Spiady and Rey'Steal, whose videos carry French technique, spins and style into international leagues.](https://youtu.be/1uTKW-AYsr4?si=m-qe5D1zRxad6ncw) <!-- global-event:143 -->
-- **May**: The [2025 community review](global-review.md) records Spiady founding HardSexionAddicted (HSA) around February–March and the team's rivalry with Jumperz Evolution. <!-- global-event:144 -->
-- **During 2010**: The [2025 community review](global-review.md) additionally identifies Effect, Xardas, Groszek, DudQ, Woren/Anointed and Cost alongside the already documented Scot, Badsz, S1dej, Jagr, Spiady and Rey'Steal; it records Badsz's monthly `TopJumperz` compilations and the JumpstylePolskaPL channel as important distribution points. <!-- global-event:148 -->
+- **May**: [France develops a distinct competitive generation around figures such as Spiady and Rey'Steal, whose videos carry French technique, spins and style into international leagues.](https://youtu.be/1uTKW-AYsr4?si=m-qe5D1zRxad6ncw) <!-- global-event:144 -->
+- **May**: The [2025 community review](global-review.md) records Spiady founding HardSexionAddicted (HSA) around February–March and the team's rivalry with Jumperz Evolution. <!-- global-event:145 -->
+- **During 2010**: The [2025 community review](global-review.md) additionally identifies Effect, Xardas, Groszek, DudQ, Woren/Anointed and Cost alongside the already documented Scot, Badsz, S1dej, Jagr, Spiady and Rey'Steal; it records Badsz's monthly `TopJumperz` compilations and the JumpstylePolskaPL channel as important distribution points. <!-- global-event:151 -->
 
 #### 2011
 
-- **February**: [An International Meet Up in Bilbao brings together jumpers from Brazil, France and Spain; because no event date is stated, the February 6 upload date is used.](https://youtu.be/5fRHXHdWSnI) <!-- global-event:152 -->
-- **April**: [Paris hosts its first documented Jumpstyle reunion on April 23, preserved by the event catalogue at Jumpstylers.ru.](https://jumpstylers.ru/forum/23-Event-Movies/33785-i-reunion-de-jumpstyle-paris-le-23-04-2011-htt.html) <!-- global-event:155 -->
+- **February**: [An International Meet Up in Bilbao brings together jumpers from Brazil, France and Spain; because no event date is stated, the February 6 upload date is used.](https://youtu.be/5fRHXHdWSnI) <!-- global-event:155 -->
+- **April**: [Paris hosts its first documented Jumpstyle reunion on April 23, preserved by the event catalogue at Jumpstylers.ru.](https://jumpstylers.ru/forum/23-Event-Movies/33785-i-reunion-de-jumpstyle-paris-le-23-04-2011-htt.html) <!-- global-event:158 -->
 
 #### 2012
 
-- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:166 -->
+- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:170 -->
 
 #### 2013
 
-- **During 2013**: The [2025 community review](global-review.md) records HardSexionAddicted dissolving in France and a global clothing trend around Sosho pants and Nike Mercurial football boots; it also records Sosho's influence on the period's emphasis on clean technique. <!-- global-event:180 -->
+- **During 2013**: The [2025 community review](global-review.md) records HardSexionAddicted dissolving in France and a global clothing trend around Sosho pants and Nike Mercurial football boots; it also records Sosho's influence on the period's emphasis on clean technique. <!-- global-event:184 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2017
 
-- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:200 -->
+- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:204 -->
 
 #### 2018
 
-- **May 19**: [(LA)HORDE and La Gaîté Lyrique organize the 150 BPM night in Paris with Jumpstyle dancers, Hardstyle and Gabber, extending "To Da Bone" into a community event.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:202 -->
-- **July 14**: ["To Da Bone" reaches Amsterdam's Julidans festival during an international tour that also takes the European Jumpstyle cast to Portugal, Canada and other stages.](https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde) <!-- global-event:203 -->
+- **May 19**: [(LA)HORDE and La Gaîté Lyrique organize the 150 BPM night in Paris with Jumpstyle dancers, Hardstyle and Gabber, extending "To Da Bone" into a community event.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:206 -->
+- **July 14**: ["To Da Bone" reaches Amsterdam's Julidans festival during an international tour that also takes the European Jumpstyle cast to Portugal, Canada and other stages.](https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde) <!-- global-event:207 -->
 
 ### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
 
 #### 2023
 
-- **August**: [Poland's Atomic Destination Team defeats France after a nearly seven-month World Jumpstyle Cup — Nations campaign, retaining the team world title and documenting the endurance of international video-league competition.](https://www.piekary.info/grupa-taneczna-z-piekar-mistrzem-swiata-atomic-destination-team-po-raz-drugi-siegnelo-po-zloto) <!-- global-event:224 -->
+- **August**: [Poland's Atomic Destination Team defeats France after a nearly seven-month World Jumpstyle Cup — Nations campaign, retaining the team world title and documenting the endurance of international video-league competition.](https://www.piekary.info/grupa-taneczna-z-piekar-mistrzem-swiata-atomic-destination-team-po-raz-drugi-siegnelo-po-zloto) <!-- global-event:228 -->
 
 #### 2024
 
-- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:228 -->
+- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:232 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2024
 
-- **December**: [On December 6, (LA)HORDE and the Ballet National de Marseille present `To Da Bone` at the Kiran Nadar Museum of Art in New Delhi, demonstrating the work's continuing international life seven years after its premiere.](https://archive.knma.in/da-bone) <!-- global-event:239 -->
+- **December**: [On December 6, (LA)HORDE and the Ballet National de Marseille present `To Da Bone` at the Kiran Nadar Museum of Art in New Delhi, demonstrating the work's continuing international life seven years after its premiere.](https://archive.knma.in/da-bone) <!-- global-event:243 -->
 
 #### 2025
 
-- **January**: The [2025 community review](global-review.md) records Grinzler publishing a United States tribute, Filip offering an online course and Snak'e sharing aerial footage during the month's renewed international activity. <!-- global-event:241 -->
+- **January**: The [2025 community review](global-review.md) records Grinzler publishing a United States tribute, Filip offering an online course and Snak'e sharing aerial footage during the month's renewed international activity. <!-- global-event:245 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->
