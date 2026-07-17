@@ -553,6 +553,38 @@
       "countries": ["DE"],
       "status": "verified",
       "url": "https://www.lehrtersv.de/tsa-aktuelles/1062-taf-deutsche-meisterschaft-jumpstyle-und-deutschland-cup-shuffle-lehrte-praesentiert-sich-als-top-ausrichter"
+    },
+    {
+      "id": "dance-generation-usa-binda-promo",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["US"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=YLgdoXLyab8"
+    },
+    {
+      "id": "dance-generation-usa-binda-illusion",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["US"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=wGpCu410u2A"
+    },
+    {
+      "id": "dance-generation-usa-lahj-venice-beach",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["US"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=OEldnGwP0VU"
+    },
+    {
+      "id": "dance-generation-usa-black-freestyle-feelings",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["US"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=XGlJS-m60m4"
     }
   ]
 }

@@ -90,8 +90,8 @@ npm run check
 `sync:national` distributes every classified Global Timeline record into the
 corresponding country files. The assignment manifest is
 [`data/global-event-countries.json`](data/global-event-countries.json); edit it
-instead of changing generated blocks by hand. The validator checks that all 122
-records are accounted for and that every national timeline is synchronized.
+instead of changing generated blocks by hand. The validator checks that every
+record is accounted for and that every national timeline is synchronized.
 
 ## License
 

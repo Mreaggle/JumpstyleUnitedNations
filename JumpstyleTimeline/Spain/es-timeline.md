@@ -1150,7 +1150,7 @@
 
 #### 2011
 
-- **February**: [An International Meet Up in Bilbao brings together jumpers from Brazil, France and Spain; because no event date is stated, the February 6 upload date is used.](https://youtu.be/5fRHXHdWSnI) <!-- global-event:152 -->
-- **December 28**: [An international urban-dance meeting in Bilbao draws more than 100 participants, with Jumpstyle organizers Nitros and Xundi helping coordinate the event.](https://larutadelbacalao.blogspot.com/2011/12/?m=0) <!-- global-event:158 -->
+- **February**: [An International Meet Up in Bilbao brings together jumpers from Brazil, France and Spain; because no event date is stated, the February 6 upload date is used.](https://youtu.be/5fRHXHdWSnI) <!-- global-event:155 -->
+- **December 28**: [An international urban-dance meeting in Bilbao draws more than 100 participants, with Jumpstyle organizers Nitros and Xundi helping coordinate the event.](https://larutadelbacalao.blogspot.com/2011/12/?m=0) <!-- global-event:162 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

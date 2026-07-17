@@ -346,14 +346,20 @@ Add your Nation's information.
   - Standout years for jumpers like Scot, Badsz (now Russian Village Boys), S1dej and Jagr
 - **March**:
   - Development phase of the JSB League managed by Orkut.
+- **March 16**:
+  - [Dance Generation USA publishes `Binda Jump Style Promo`, documenting Connecticut jumper Binda in the United States; no separate recording date survives, so the YouTube upload date is used.](https://youtu.be/YLgdoXLyab8)
 - **April**:
   - From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases.
   - [A Prague Jumpstyle gathering at Hřiště hrdinů is documented by a video published on April 19; because no separate event date is stated, the upload date is used.](https://youtu.be/hx0jyzKvTTo)
 - **May**:
   - [France develops a distinct competitive generation around figures such as Spiady and Rey'Steal, whose videos carry French technique, spins and style into international leagues.](https://youtu.be/1uTKW-AYsr4?si=m-qe5D1zRxad6ncw)
   - The [2025 community review](global-review.md) records Spiady founding HardSexionAddicted (HSA) around February–March and the team's rivalry with Jumperz Evolution.
+- **May 21**:
+  - [Dance Generation USA publishes Binda's solo film `Illusion!`, preserving another early record of the Connecticut jumper and the American Hardjump scene; the upload date is used because no filming date is stated.](https://youtu.be/wGpCu410u2A)
 - **October 23**:
   - [Jumpers from Kyiv and Donetsk meet in Donetsk, creating a documented intercity Ukrainian gathering.](https://youtu.be/CSQ9-UjSQG4)
+- **December 8**:
+  - [Los Angeles Hard Jumperz perform a surprise Jumpstyle demonstration at Electro Afternoon 4 in Venice Beach, California; the video credits Hops, Enik, Flash, Fuzer and Force, and the upload date is used because no separate performance date is stated.](https://youtu.be/OEldnGwP0VU)
 - **December 22**:
   - [A large Jumpstyle encounter between Angels of Jump and People Ad Jump is documented in Bogotá; because no separate event date is stated, the upload date is used.](https://youtu.be/H3WgXC22_cc)
 - **December 27**:
@@ -377,6 +383,8 @@ Add your Nation's information.
   - [Paris hosts its first documented Jumpstyle reunion on April 23, preserved by the event catalogue at Jumpstylers.ru.](https://jumpstylers.ru/forum/23-Event-Movies/33785-i-reunion-de-jumpstyle-paris-le-23-04-2011-htt.html)
 - **September 25**:
   - [The Women's World Jumpstyle League begins, running until March 24, 2012 and ending with Alinka as champion, a rare preserved record of a dedicated women's international division.](https://jumpstylers.ru/jumpstyle-league-winners.html)
+- **October 15**:
+  - [Dance Generation USA publishes `BLaCK Presents. Freestyle Feelings`, documenting New York jumper Black's return in a freestyle performance; the upload date is used because no filming date is stated.](https://youtu.be/XGlJS-m60m4)
 - **October 26**:
   - [The JTP Cup announces an open Jumpstyle championship of Ukraine in Kyiv with international participation; because the competition day is not preserved in the description, the upload date is used.](https://youtu.be/JjTxxsAWJ54)
 - **December 28**:

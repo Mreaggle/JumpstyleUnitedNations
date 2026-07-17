@@ -39,6 +39,6 @@
 
 #### 2026
 
-- **April 25**: [The TAF German Jumpstyle Championship in Lehrte records roughly 300 starts and crowns 13 national champions; teams travel from several cities and the event closes with a community mass jump.](https://www.lehrtersv.de/tsa-aktuelles/1062-taf-deutsche-meisterschaft-jumpstyle-und-deutschland-cup-shuffle-lehrte-praesentiert-sich-als-top-ausrichter) <!-- global-event:250 -->
+- **April 25**: [The TAF German Jumpstyle Championship in Lehrte records roughly 300 starts and crowns 13 national champions; teams travel from several cities and the event closes with a community mass jump.](https://www.lehrtersv.de/tsa-aktuelles/1062-taf-deutsche-meisterschaft-jumpstyle-und-deutschland-cup-shuffle-lehrte-praesentiert-sich-als-top-ausrichter) <!-- global-event:254 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

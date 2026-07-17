@@ -1250,45 +1250,45 @@
 
 #### 2013
 
-- **February 24**: [Belgian pioneer Da Boy Tommy dies at age 36 following a road accident. His records, including "Halloween" and "Candyman", remain foundational documents of the genre's first commercial era.](https://qmusic.be/nieuws/da-boy-tommyis-overleden-1-1) <!-- global-event:174 -->
+- **February 24**: [Belgian pioneer Da Boy Tommy dies at age 36 following a road accident. His records, including "Halloween" and "Candyman", remain foundational documents of the genre's first commercial era.](https://qmusic.be/nieuws/da-boy-tommyis-overleden-1-1) <!-- global-event:178 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2017
 
-- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:200 -->
+- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:204 -->
 
 #### 2018
 
-- **September 15**: [Bass Events launches Flashback Festival in Belgium, creating a recurring event dedicated to the earlier Jump and harder-styles repertoire.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:204 -->
+- **September 15**: [Bass Events launches Flashback Festival in Belgium, creating a recurring event dedicated to the earlier Jump and harder-styles repertoire.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:208 -->
 
 #### 2019
 
-- **September 14**: [Flashback Festival returns for its second Belgian edition, confirming an organized audience for Jump-era repertory after the commercial peak.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:209 -->
+- **September 14**: [Flashback Festival returns for its second Belgian edition, confirming an organized audience for Jump-era repertory after the commercial peak.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:213 -->
 
 #### 2021
 
-- **October 2**: [Flashback Festival resumes in Belgium after its 2020 interruption, continuing its official Jump and harder-styles programme.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:217 -->
+- **October 2**: [Flashback Festival resumes in Belgium after its 2020 interruption, continuing its official Jump and harder-styles programme.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:221 -->
 
 ### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
 
 #### 2022
 
-- **September 24**: [Flashback Festival expands to three Belgian areas dedicated to Jump & Tek, Hardstyle and Hardcore, formalizing the historical branches of the harder-dance audience in one event.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:218 -->
+- **September 24**: [Flashback Festival expands to three Belgian areas dedicated to Jump & Tek, Hardstyle and Hardcore, formalizing the historical branches of the harder-dance audience in one event.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:222 -->
 
 #### 2023
 
-- **May 13**: [Flashback Festival stages another Belgian edition, sustaining a dedicated festival platform for Jump, Tek and related harder styles.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:223 -->
+- **May 13**: [Flashback Festival stages another Belgian edition, sustaining a dedicated festival platform for Jump, Tek and related harder styles.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:227 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2025
 
-- **August 23**: [Flashback Festival returns at Kasteel van Bossuit in Avelgem, continuing Belgium's large-scale platform for the anthems and artists of earlier harder-styles eras.](https://flashbackfestival.bassevents.be/info) <!-- global-event:246 -->
-- **November 28**: [The Metropolis reunion at WEX in Marche-en-Famenne dedicates its opening night to Jump, Tek and old-school Hard Dance, reviving the repertoire of a club central to the French-speaking Belgian scene.](https://www.metropolis.be/event/vendredi-jump-tek-hard-dance-old-32/register) <!-- global-event:248 -->
+- **August 23**: [Flashback Festival returns at Kasteel van Bossuit in Avelgem, continuing Belgium's large-scale platform for the anthems and artists of earlier harder-styles eras.](https://flashbackfestival.bassevents.be/info) <!-- global-event:250 -->
+- **November 28**: [The Metropolis reunion at WEX in Marche-en-Famenne dedicates its opening night to Jump, Tek and old-school Hard Dance, reviving the repertoire of a club central to the French-speaking Belgian scene.](https://www.metropolis.be/event/vendredi-jump-tek-hard-dance-old-32/register) <!-- global-event:252 -->
 
 #### 2026
 
-- **January**: [Da Rick officially revives Jumper Records in Belgium with new releases, events and an active catalogue, reconnecting the label that helped name the sound in 1997 with a new global audience.](https://www.jumperrecords.com/) <!-- global-event:249 -->
+- **January**: [Da Rick officially revives Jumper Records in Belgium with new releases, events and an active catalogue, reconnecting the label that helped name the sound in 1997 with a new global audience.](https://www.jumperrecords.com/) <!-- global-event:253 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

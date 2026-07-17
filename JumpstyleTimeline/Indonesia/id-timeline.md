@@ -1145,20 +1145,20 @@
 
 #### 2012
 
-- **April**: A new internationally visible generation expands the map beyond Europe, including [Dany in Italy](https://youtu.be/RVzg5YvG6k0?si=M6SME41IskQXaMBB), [Walle in Mexico](https://youtu.be/yiLAYlTyR4g?si=SkabFusK1aK4gG9X), [Lauth in Chile](https://youtu.be/1_Z3f4ZFfxQ?si=4LoSb9p35vwbYG1E) and [Cosmic in Indonesia](https://youtu.be/dR5fJsl9dXw?si=5pJfj-LB-1AoaAD8). <!-- global-event:165 -->
-- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:166 -->
+- **April**: A new internationally visible generation expands the map beyond Europe, including [Dany in Italy](https://youtu.be/RVzg5YvG6k0?si=M6SME41IskQXaMBB), [Walle in Mexico](https://youtu.be/yiLAYlTyR4g?si=SkabFusK1aK4gG9X), [Lauth in Chile](https://youtu.be/1_Z3f4ZFfxQ?si=4LoSb9p35vwbYG1E) and [Cosmic in Indonesia](https://youtu.be/dR5fJsl9dXw?si=5pJfj-LB-1AoaAD8). <!-- global-event:169 -->
+- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:170 -->
 
 #### 2013
 
-- **June 26**: [Indonesian jumpers hold a national meeting at Gelora Bung Karno in Jakarta, documenting a coordinated scene beyond Europe and Latin America.](https://youtu.be/BKZxUQXs8WQ) <!-- global-event:177 -->
+- **June 26**: [Indonesian jumpers hold a national meeting at Gelora Bung Karno in Jakarta, documenting a coordinated scene beyond Europe and Latin America.](https://youtu.be/BKZxUQXs8WQ) <!-- global-event:181 -->
 
 #### 2014
 
-- **April 19**: [Indonesian jumpers hold a meeting at UNEX Place in Pamulang, with the event film designed around collective participation rather than isolated solos.](https://youtu.be/eODPx5RgK6w) <!-- global-event:182 -->
-- **December 27**: [Ownstylerz.ID organizes an Indonesian Jump Meeting at Gelora Bung Karno, explicitly thanking the participating jumpers and announcing a future edition.](https://youtu.be/-6S1BUMJYps) <!-- global-event:186 -->
+- **April 19**: [Indonesian jumpers hold a meeting at UNEX Place in Pamulang, with the event film designed around collective participation rather than isolated solos.](https://youtu.be/eODPx5RgK6w) <!-- global-event:186 -->
+- **December 27**: [Ownstylerz.ID organizes an Indonesian Jump Meeting at Gelora Bung Karno, explicitly thanking the participating jumpers and announcing a future edition.](https://youtu.be/-6S1BUMJYps) <!-- global-event:190 -->
 
 #### 2015
 
-- **March 8**: [Ownstylerz.ID holds its second Indonesian Jump Meeting, continuing the organized Jakarta-area community documented the previous year.](https://youtu.be/Xx5RLkz2mK0) <!-- global-event:188 -->
+- **March 8**: [Ownstylerz.ID holds its second Indonesian Jump Meeting, continuing the organized Jakarta-area community documented the previous year.](https://youtu.be/Xx5RLkz2mK0) <!-- global-event:192 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

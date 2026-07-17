@@ -1169,27 +1169,27 @@
 
 - **January**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:137 -->
 - **February**: Standout years for jumpers like Scot, Badsz (now Russian Village Boys), S1dej and Jagr <!-- global-event:139 -->
-- **April**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:141 -->
-- **During 2010**: The [2025 community review](global-review.md) additionally identifies Effect, Xardas, Groszek, DudQ, Woren/Anointed and Cost alongside the already documented Scot, Badsz, S1dej, Jagr, Spiady and Rey'Steal; it records Badsz's monthly `TopJumperz` compilations and the JumpstylePolskaPL channel as important distribution points. <!-- global-event:148 -->
+- **April**: From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases. <!-- global-event:142 -->
+- **During 2010**: The [2025 community review](global-review.md) additionally identifies Effect, Xardas, Groszek, DudQ, Woren/Anointed and Cost alongside the already documented Scot, Badsz, S1dej, Jagr, Spiady and Rey'Steal; it records Badsz's monthly `TopJumperz` compilations and the JumpstylePolskaPL channel as important distribution points. <!-- global-event:151 -->
 
 #### 2011
 
-- **March**: [Russian jumpers unite at a famous dance studio to record the video that would be one of the most famous over Jumpstyle in YouTube. They're dancing to Noisecontrollers - Confucius.](https://www.youtube.com/watch?v=xQIGg9rXsb0) <!-- global-event:153 -->
-- **September 25**: [The Women's World Jumpstyle League begins, running until March 24, 2012 and ending with Alinka as champion, a rare preserved record of a dedicated women's international division.](https://jumpstylers.ru/jumpstyle-league-winners.html) <!-- global-event:156 -->
-- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:159 -->
-- **During 2011**: The review preserves a distinctive clothing record: Russian dancers commonly wore beanies, slip-ons and loose `swag` trousers, while Polish dancers combined Sosho pants with white **Nike Ship** shoes and football boots. <!-- global-event:160 -->
+- **March**: [Russian jumpers unite at a famous dance studio to record the video that would be one of the most famous over Jumpstyle in YouTube. They're dancing to Noisecontrollers - Confucius.](https://www.youtube.com/watch?v=xQIGg9rXsb0) <!-- global-event:156 -->
+- **September 25**: [The Women's World Jumpstyle League begins, running until March 24, 2012 and ending with Alinka as champion, a rare preserved record of a dedicated women's international division.](https://jumpstylers.ru/jumpstyle-league-winners.html) <!-- global-event:159 -->
+- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:163 -->
+- **During 2011**: The review preserves a distinctive clothing record: Russian dancers commonly wore beanies, slip-ons and loose `swag` trousers, while Polish dancers combined Sosho pants with white **Nike Ship** shoes and football boots. <!-- global-event:164 -->
 
 #### 2012
 
-- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:166 -->
-- **July 20**: [The HEB league concludes after six months with solo, duo, Hardjump, women's and team divisions, illustrating how Russian-hosted online competitions had diversified their formats.](https://jumpstylers.ru/jumpstyle-league-winners.html) <!-- global-event:169 -->
+- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:170 -->
+- **July 20**: [The HEB league concludes after six months with solo, duo, Hardjump, women's and team divisions, illustrating how Russian-hosted online competitions had diversified their formats.](https://jumpstylers.ru/jumpstyle-league-winners.html) <!-- global-event:173 -->
 
 #### 2014
 
-- **During 2014**: [The Jumpstylers.ru archive indexes the World Jumpstyle League 2014 alongside solo, duo, women's and team competitions, preserving the continued breadth of the league ecosystem.](https://jumpstylers.ru/site-map.html) <!-- global-event:183 -->
+- **During 2014**: [The Jumpstylers.ru archive indexes the World Jumpstyle League 2014 alongside solo, duo, women's and team competitions, preserving the continued breadth of the league ecosystem.](https://jumpstylers.ru/site-map.html) <!-- global-event:187 -->
 
 #### 2015
 
-- **During 2015**: [Jumpstylers.ru preserves a dedicated Russian Jumpstyle League 2015 index as well as the fourth Russian championship, showing that the competitive archive remained active well beyond its first wave.](https://jumpstylers.ru/site-map.html) <!-- global-event:190 -->
+- **During 2015**: [Jumpstylers.ru preserves a dedicated Russian Jumpstyle League 2015 index as well as the fourth Russian championship, showing that the competitive archive remained active well beyond its first wave.](https://jumpstylers.ru/site-map.html) <!-- global-event:194 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->
