@@ -1,5 +1,11 @@
 # 🕺 The Jumpstyle Timeline 🎵
 
+> **Research status:** the canonical cross-border chronology is
+> [`Global/global-timeline.md`](Global/global-timeline.md). National files have
+> mixed maturity and many still contain legacy placeholders. Check the
+> [country registry](../data/country-research.json) and
+> [editorial policy](../docs/EDITORIAL_POLICY.md) before reusing their content.
+
 Welcome to **The Jumpstyle Timeline**—a living, breathing archive of the global Jumpstyle movement! 🌍 This project aims to chronicle the evolution of Jumpstyle, highlighting the pioneers, innovators, and current stars who have shaped this vibrant dance form.
 
 ## 🚀 Project Overview

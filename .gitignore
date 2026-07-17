@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+
+# Private research inputs must remain local.
+*whatsapp*.txt
+*WhatsApp*.txt
+*chat-export*
+*private-chat*
+private/
+research-private/

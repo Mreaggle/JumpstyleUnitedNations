@@ -615,3 +615,58 @@
   
 - **December**:
   - [Event or Contribution 1](#)
+
+<!-- JUN:GLOBAL-SYNC:START -->
+## Synchronized records from the Global Timeline
+
+> Generated from [`Global/global-timeline.md`](../Global/global-timeline.md).
+> Edit the global source and `data/global-event-countries.json`, then run
+> `npm run sync:national`. Do not edit this block manually.
+
+### Related Footwork and Club-Culture Context
+
+#### 1970
+
+- **During the 1970s**: [Hip-hop culture and breaking take shape in the Bronx around block parties, DJs extending percussion breaks and dancers responding to those breaks.](https://americanhistory.si.edu/explore/stories/sazon-hip-hop) <!-- global-event:002 -->
+- **During the 1970s**: [The C-Walk emerges in the Los Angeles area as intricate footwork associated with first-generation Crip members before later circulating through hip-hop and popular dance. Community histories often credit Robert "Sugar Bear" Jackson among its early practitioners, but a single-creator attribution is not treated as settled here.](https://en.wikipedia.org/wiki/Crip_Walk) <!-- global-event:003 -->
+- **During the 1970s**: [Disco club culture expands during the decade and helps establish the continuous, DJ-led dancefloor that later electronic scenes inherit.](https://sirismm.si.edu/EADpdfs/NMAH.AC.1614.pdf) <!-- global-event:004 -->
+
+#### 1987
+
+- **During 1987**: [Powell Peralta begins the `Skateboarding Is Not a Crime` campaign. The slogan later supplies the linguistic model for Jumpstyle's own `Jumping Is Not a Crime` motto.](https://discovery.ucl.ac.uk/id/eprint/10089389/1/Borden-Lefebvre-Skateboarding.pdf) <!-- global-event:005 -->
+
+### Internet/Patrick Jumpen | Meetings/HardJump Era
+
+#### 2007
+
+- **January 1**: [Goldinferno publishes an early United States Jumpstyle video, documenting how the tutorial-and-solo format had already crossed the Atlantic.](https://knowyourmeme.com/memes/jumpstyle) <!-- global-event:067 -->
+
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2013
+
+- **December**: [The 6th Annual Los Angeles Jump Meeting brings together the Southern California scene; its 2013 event title, video and participating crews were preserved by Jumpstyle Brasil in January 2014.](https://web.archive.org/web/20140214012333/http://jumpstyle.com.br/2014/02/6th-annual-los-angeles-jump-meeting-2013/) <!-- global-event:178 -->
+
+### Internet/Competitive | Instagram/Global Projects Era
+
+#### 2019
+
+- **During 2019**: The [2025 community review](global-review.md) records a more cohesive United States online community taking shape alongside the renewed Brazilian meetings. <!-- global-event:211 -->
+
+#### 2020
+
+- **February 20**: [Fortnite releases the "Springy" emote, internally identified as `EID_JumpStyleDance`, carrying Jumpstyle-derived movement into one of the world's largest games.](https://fortnite.gg/cosmetics?id=4008&type=emote) <!-- global-event:213 -->
+
+### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
+
+#### 2023
+
+- **March**: Travsz is Global champion for the WJL against Ivi. <!-- global-event:222 -->
+
+### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
+
+#### 2025
+
+- **January**: The [2025 community review](global-review.md) records Grinzler publishing a United States tribute, Filip offering an online course and Snak'e sharing aerial footage during the month's renewed international activity. <!-- global-event:241 -->
+
+<!-- JUN:GLOBAL-SYNC:END -->

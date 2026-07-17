@@ -1,0 +1,27 @@
+- name: research
+  color: "25B8F4"
+  description: Historical research or source discovery
+- name: needs-evidence
+  color: "F9D648"
+  description: Useful lead that still needs a stable public source
+- name: verified-source
+  color: "69DF43"
+  description: Supported by an official or independently verified source
+- name: national-history
+  color: "1677FF"
+  description: Country-specific timeline or context
+- name: global-timeline
+  color: "0B2E6F"
+  description: Cross-border milestone for the Global Timeline
+- name: archive-recovery
+  color: "8B5CF6"
+  description: Wayback, deleted forum or unavailable media recovery
+- name: key-figures
+  color: "FF7A00"
+  description: Key Figures Worldwide data and review
+- name: documentation
+  color: "D4E5F7"
+  description: Repository documentation and contributor experience
+- name: privacy
+  color: "D73A4A"
+  description: Private-data handling; do not post sensitive material publicly

@@ -1133,3 +1133,24 @@
   
 - **December**: 
   - [Event or Contribution 1](#)
+
+<!-- JUN:GLOBAL-SYNC:START -->
+## Synchronized records from the Global Timeline
+
+> Generated from [`Global/global-timeline.md`](../Global/global-timeline.md).
+> Edit the global source and `data/global-event-countries.json`, then run
+> `npm run sync:national`. Do not edit this block manually.
+
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2009
+
+- **December 28**: [Bilbao hosts what organizers call the biggest Jump Meeting in northern Spain at Plaza Moyúa; the exact date survives in the video's description.](https://youtu.be/2bO2br4i7m8) <!-- global-event:134 -->
+- **During 2009**: The [2025 community review](global-review.md) records Snak'e joining Hardzone, Jumperz Evolution merging with Hard Zone, Dutch-style influence reaching German and Spanish dancers through JumperKelvin, and a period of intense Russian-Ukrainian experimentation. <!-- global-event:135 -->
+
+#### 2011
+
+- **February**: [An International Meet Up in Bilbao brings together jumpers from Brazil, France and Spain; because no event date is stated, the February 6 upload date is used.](https://youtu.be/5fRHXHdWSnI) <!-- global-event:152 -->
+- **December 28**: [An international urban-dance meeting in Bilbao draws more than 100 participants, with Jumpstyle organizers Nitros and Xundi helping coordinate the event.](https://larutadelbacalao.blogspot.com/2011/12/?m=0) <!-- global-event:158 -->
+
+<!-- JUN:GLOBAL-SYNC:END -->

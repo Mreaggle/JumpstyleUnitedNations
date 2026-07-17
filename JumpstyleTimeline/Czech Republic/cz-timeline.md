@@ -1133,3 +1133,26 @@
   
 - **December**: 
   - [Event or Contribution 1](#)
+
+<!-- JUN:GLOBAL-SYNC:START -->
+## Synchronized records from the Global Timeline
+
+> Generated from [`Global/global-timeline.md`](../Global/global-timeline.md).
+> Edit the global source and `data/global-event-countries.json`, then run
+> `npm run sync:national`. Do not edit this block manually.
+
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2010
+
+- **April**: [A Prague Jumpstyle gathering at Hřiště hrdinů is documented by a video published on April 19; because no separate event date is stated, the upload date is used.](https://youtu.be/hx0jyzKvTTo) <!-- global-event:142 -->
+
+#### 2011
+
+- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:159 -->
+
+#### 2013
+
+- **June 21**: ["The Republic of Jumpstyle 4: Together in Prague" is published as a Czech community film; because no separate event date is stated, the upload date is used.](https://youtu.be/48b5BNfX94o) <!-- global-event:176 -->
+
+<!-- JUN:GLOBAL-SYNC:END -->

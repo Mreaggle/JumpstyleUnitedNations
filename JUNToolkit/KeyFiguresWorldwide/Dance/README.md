@@ -1,5 +1,10 @@
 # JumpstyleTimeline/Key/Figures
 
+> **Editorial status:** this is a community-curated influence index, not a
+> definitive ranking. New entries need country, era, a public evidence link and
+> a short explanation of influence. See the repository
+> [evidence policy](../../../docs/EDITORIAL_POLICY.md) before editing.
+
 ## Remember all the legends upon Jumpstyle Timeline 💯.
 
 🤙 **What is this?** 🤙

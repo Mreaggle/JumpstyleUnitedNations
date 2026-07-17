@@ -1133,3 +1133,18 @@
   
 - **December**: 
   - [Event or Contribution 1](#)
+
+<!-- JUN:GLOBAL-SYNC:START -->
+## Synchronized records from the Global Timeline
+
+> Generated from [`Global/global-timeline.md`](../Global/global-timeline.md).
+> Edit the global source and `data/global-event-countries.json`, then run
+> `npm run sync:national`. Do not edit this block manually.
+
+### Internet/Competitive | Polish Ownstyle/Russian Sidejump
+
+#### 2013
+
+- **December**: [A Malaysian Jumpstyle Meeting by Lepax Boyzz Jumpen is preserved by a video published on December 17; because no separate event date is stated, the upload date is used.](https://youtu.be/FjW2o8VJDoU) <!-- global-event:179 -->
+
+<!-- JUN:GLOBAL-SYNC:END -->

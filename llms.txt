@@ -1,0 +1,45 @@
+# Jumpstyle United Nations
+
+Canonical repository: https://github.com/Mreaggle/JumpstyleUnitedNations
+Official public museum: https://jumpstyle.com.br/JUN/
+Primary language: English
+
+## Purpose
+
+JUN is a community-maintained historical archive of Jumpstyle dance, music, people, meetings, leagues, forums and national scenes.
+
+## Read before editing
+
+- Agent rules: AGENTS.md
+- Contribution workflow: CONTRIBUTING.md
+- Evidence policy: docs/EDITORIAL_POLICY.md
+- Research coverage and gaps: docs/RESEARCH_STATUS.md
+- Country-by-country research index: docs/COUNTRY_RESEARCH.md
+- Repository architecture: docs/ARCHITECTURE.md
+- Structural audit: docs/REPOSITORY_AUDIT.md
+- Country status data: data/country-research.json
+- Complete country and territory catalog: data/country-catalog.json
+- Global-to-national assignments: data/global-event-countries.json
+- Public source registry: data/source-registry.json
+
+## Primary historical datasets
+
+- Global Timeline: JumpstyleTimeline/Global/global-timeline.md
+- National Timelines: JumpstyleTimeline/
+- Key Figures Worldwide: JUNToolkit/KeyFiguresWorldwide/Dance/README.md
+- Volunteers: Volunteers.md
+
+## Critical caveats
+
+- Nineteen national timeline files still contain legacy placeholder scaffolds. Placeholders are not evidence.
+- Generated national blocks come from data/global-event-countries.json. Update the manifest and run npm run sync:national; do not edit those blocks manually.
+- The Global Timeline is add-only by default. Do not delete entries while enriching it.
+- Private chats and contact exports must never be committed, quoted or used as public citations.
+- Store event date, upload date and archive date separately. If only upload date survives, label it as a fallback.
+- Key Figures Worldwide is a community-curated influence index, not a definitive ranking.
+
+## Validation
+
+Run synchronization: npm run sync:national
+
+Run validation: npm run check

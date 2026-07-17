@@ -1,0 +1,558 @@
+{
+  "schemaVersion": 1,
+  "lastReviewed": "2026-07-16",
+  "sources": [
+    {
+      "id": "jumper-records",
+      "type": "official-label",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://www.jumperrecords.com/"
+    },
+    {
+      "id": "ultratop-halloween",
+      "type": "official-chart",
+      "language": "nl",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://www.ultratop.be/nl/ultratop50/1999/19991113"
+    },
+    {
+      "id": "qmusic-da-boy-tommy",
+      "type": "contemporary-press",
+      "language": "nl",
+      "countries": ["BE"],
+      "status": "supported",
+      "url": "https://qmusic.be/nieuws/da-boy-tommyis-overleden-1-1"
+    },
+    {
+      "id": "dutch-top40-zeros",
+      "type": "official-chart-editorial",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "verified",
+      "url": "https://www.top40.nl/nieuws-nieuws-back-to-the-zeros-wat-was-hot"
+    },
+    {
+      "id": "vpro-herfstpop-2007",
+      "type": "contemporary-press",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "supported",
+      "url": "https://3voor12.vpro.nl/lokaal/den-haag/artikelen/overzicht/2007/september/verslag-herfstpop-2007.html"
+    },
+    {
+      "id": "lemonde-tecktonik-2008",
+      "type": "contemporary-press",
+      "language": "fr",
+      "countries": ["FR", "BE", "NL"],
+      "status": "supported",
+      "url": "https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html"
+    },
+    {
+      "id": "first-russian-league-preview",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["RU"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=bEzrZSwCEnM"
+    },
+    {
+      "id": "jumpstylers-ru-2009",
+      "type": "archived-community-page",
+      "language": "ru",
+      "countries": ["RU"],
+      "status": "supported",
+      "url": "https://web.archive.org/web/20090210025827/http://jumpstylers.ru/"
+    },
+    {
+      "id": "jumpstylepolska-2009",
+      "type": "archived-community-page",
+      "language": "pl",
+      "countries": ["PL"],
+      "status": "supported",
+      "url": "https://web.archive.org/web/20090416222333/http://www.jumpstylepolska.pl/"
+    },
+    {
+      "id": "los-angeles-meeting-2013",
+      "type": "archived-community-page",
+      "language": "en",
+      "countries": ["US"],
+      "status": "supported",
+      "url": "https://web.archive.org/web/20140214012333/http://jumpstyle.com.br/2014/02/6th-annual-los-angeles-jump-meeting-2013/"
+    },
+    {
+      "id": "fortnite-springy",
+      "type": "platform-database",
+      "language": "en",
+      "countries": ["GLOBAL"],
+      "status": "supported",
+      "url": "https://fortnite.gg/cosmetics?id=4008&type=emote"
+    },
+    {
+      "id": "pitchfork-yabujin",
+      "type": "editorial-press",
+      "language": "en",
+      "countries": ["LT", "GLOBAL"],
+      "status": "supported",
+      "url": "https://pitchfork.com/thepitch/chasing-yabujin-the-artist-who-secretly-shaped-the-underground-sound-of-the-2020s/"
+    },
+    {
+      "id": "dirty-workz-history",
+      "type": "official-label",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://shop.dirtyworkz.com/service/about/"
+    },
+    {
+      "id": "vpro-jumpin-radio-2007",
+      "type": "contemporary-press",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "supported",
+      "url": "https://3voor12.vpro.nl/lokaal/utrecht/artikelen/overzicht/2007/maart/utracks-musical-the-utrecht-story-en-jumpin-radio.html"
+    },
+    {
+      "id": "vpro-jump-ban-2007",
+      "type": "contemporary-press",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "supported",
+      "url": "https://3voor12.vpro.nl/artikelen/jump-adepten-snappen-niks-van-jumpstyle-verbod"
+    },
+    {
+      "id": "ultratop-freefall",
+      "type": "official-chart",
+      "language": "nl",
+      "countries": ["BE", "NL", "DE"],
+      "status": "verified",
+      "url": "https://www.ultratop.be/nl/song/489d9/Jeckyll-%26-Hyde-Freefall"
+    },
+    {
+      "id": "ultratop-belgian-jumpstyle-top-100",
+      "type": "official-chart",
+      "language": "nl",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://www.ultratop.be/nl/compilation/11a12/Belgian-Jumpstyle-Top-100"
+    },
+    {
+      "id": "taf-first-german-championship",
+      "type": "official-competition-record",
+      "language": "de",
+      "countries": ["DE"],
+      "status": "verified",
+      "url": "https://taf.k5v.de/ceis/webShowCompetitionResultsListTaf.do?mandant=3&selYear=2008"
+    },
+    {
+      "id": "taz-berlin-meeting-2009",
+      "type": "contemporary-press",
+      "language": "de",
+      "countries": ["DE"],
+      "status": "supported",
+      "url": "https://taz.de/Die-wollen-nur-spielen/%21689502/"
+    },
+    {
+      "id": "jumpstylers-event-movies",
+      "type": "community-archive",
+      "language": "ru",
+      "countries": ["RU", "PL", "NL", "ES", "FR"],
+      "status": "supported",
+      "url": "https://jumpstylers.ru/forum/23-Event-Movies.html"
+    },
+    {
+      "id": "jumpstylers-league-winners",
+      "type": "community-competition-record",
+      "language": "ru",
+      "countries": ["RU", "PL", "GLOBAL"],
+      "status": "supported",
+      "url": "https://jumpstylers.ru/jumpstyle-league-winners.html"
+    },
+    {
+      "id": "jumpstylers-site-map",
+      "type": "community-archive-index",
+      "language": "ru",
+      "countries": ["RU", "GLOBAL"],
+      "status": "supported",
+      "url": "https://jumpstylers.ru/site-map.html"
+    },
+    {
+      "id": "gliwice-national-meeting-2016",
+      "type": "municipal-event-record",
+      "language": "pl",
+      "countries": ["PL"],
+      "status": "verified",
+      "url": "https://gliwice.eu/wydarzenia/kulturalne/2016-08-27/i-ogolnopolski-zlot-jumpstyle-w-gliwicach"
+    },
+    {
+      "id": "lahorde-to-da-bone",
+      "type": "official-production-record",
+      "language": "en",
+      "countries": ["FR", "BE", "NL", "GLOBAL"],
+      "status": "verified",
+      "url": "https://collectiflahorde.com/production/age-of-content"
+    },
+    {
+      "id": "institut-francais-to-da-bone",
+      "type": "official-cultural-record",
+      "language": "fr",
+      "countries": ["FR", "BE", "NL", "GLOBAL"],
+      "status": "verified",
+      "url": "https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde"
+    },
+    {
+      "id": "bass-events-flashback",
+      "type": "official-event-archive",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://www.bassevents.be/tags/flashback-festival"
+    },
+    {
+      "id": "smithsonian-bronx-hip-hop",
+      "type": "museum-editorial",
+      "language": "en",
+      "countries": ["US"],
+      "status": "verified",
+      "url": "https://americanhistory.si.edu/explore/stories/sazon-hip-hop"
+    },
+    {
+      "id": "smithsonian-disco-archive",
+      "type": "museum-collection-record",
+      "language": "en",
+      "countries": ["US"],
+      "status": "verified",
+      "url": "https://sirismm.si.edu/EADpdfs/NMAH.AC.1614.pdf"
+    },
+    {
+      "id": "ucl-skateboarding-slogan",
+      "type": "academic-publication",
+      "language": "en",
+      "countries": ["US"],
+      "status": "verified",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10089389/1/Borden-Lefebvre-Skateboarding.pdf"
+    },
+    {
+      "id": "abc-melbourne-shuffle",
+      "type": "public-broadcaster",
+      "language": "en",
+      "countries": ["AU"],
+      "status": "supported",
+      "url": "https://www.abc.net.au/listen/programs/musicshow/techno-shuffle/10231284"
+    },
+    {
+      "id": "dutch-canon-gabber",
+      "type": "official-cultural-record",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "verified",
+      "url": "https://www.canonvannederland.nl/nl/page/292759/gabber"
+    },
+    {
+      "id": "dutch-intangible-gabber",
+      "type": "official-cultural-record",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "verified",
+      "url": "https://www.immaterieelerfgoed.nl/nl/gabbercultuur"
+    },
+    {
+      "id": "beatportal-drum-and-bass-history",
+      "type": "music-editorial",
+      "language": "en",
+      "countries": ["GB"],
+      "status": "supported",
+      "url": "https://www.beatportal.com/articles/4445-beatports-definitive-history-of-drum-bass"
+    },
+    {
+      "id": "top40-poing",
+      "type": "official-chart-editorial",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "verified",
+      "url": "https://www.top40.nl/top40-artiesten/rotterdam-termination-source"
+    },
+    {
+      "id": "discogs-t99-gardiac",
+      "type": "music-database",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "supported",
+      "url": "https://www.discogs.com/pt_BR/release/64709-T99-Gardiac"
+    },
+    {
+      "id": "speedy-j-pull-over",
+      "type": "artist-first-party",
+      "language": "en",
+      "countries": ["NL"],
+      "status": "verified",
+      "url": "https://speedyj.bandcamp.com/album/pull-over"
+    },
+    {
+      "id": "musicbrainz-yves-de-ruyter",
+      "type": "music-database",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "supported",
+      "url": "https://musicbrainz.org/artist/2c028a5b-f873-4638-80fc-002b2c9b484f"
+    },
+    {
+      "id": "captain-history",
+      "type": "official-venue-history",
+      "language": "fr",
+      "countries": ["BE", "FR"],
+      "status": "verified",
+      "url": "https://www.cap-tain.com/infos"
+    },
+    {
+      "id": "beatport-bountyhunter-woops",
+      "type": "official-music-store",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "supported",
+      "url": "https://www.beatport.com/release/woops/4794873"
+    },
+    {
+      "id": "musicbrainz-bonzai-jumps",
+      "type": "music-database",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "supported",
+      "url": "https://musicbrainz.org/release/5a3a9929-82e1-4140-a276-af5382640a06"
+    },
+    {
+      "id": "da-rick-history",
+      "type": "artist-first-party",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://www.da-rick.com/info-bio/music"
+    },
+    {
+      "id": "letemps-tecktonik",
+      "type": "contemporary-press",
+      "language": "fr",
+      "countries": ["FR", "BE"],
+      "status": "supported",
+      "url": "https://www.letemps.ch/societe/tecktonik-continent-adolescent"
+    },
+    {
+      "id": "musicbrainz-tuning-beats",
+      "type": "music-database",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "supported",
+      "url": "https://musicbrainz.org/artist/ad6b0b6c-53c6-49db-a156-3e32f4b104d5/releases"
+    },
+    {
+      "id": "musicbrainz-explosive-car-tuning",
+      "type": "music-database",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "supported",
+      "url": "https://musicbrainz.org/release/9fc620f4-a1aa-4add-a8e6-2a2685b01ced"
+    },
+    {
+      "id": "shazam-binum-woops",
+      "type": "music-database",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "supported",
+      "url": "https://www.shazam.com/en-us/song/299563004/woops"
+    },
+    {
+      "id": "dutchcharts-frozen-flame",
+      "type": "official-chart",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "verified",
+      "url": "https://www.dutchcharts.nl/bestall.asp?start=2"
+    },
+    {
+      "id": "knowyourmeme-jumpstyle",
+      "type": "internet-culture-archive",
+      "language": "en",
+      "countries": ["GLOBAL"],
+      "status": "supported",
+      "url": "https://knowyourmeme.com/memes/jumpstyle"
+    },
+    {
+      "id": "emerce-youtube-jumpstyle",
+      "type": "contemporary-press",
+      "language": "nl",
+      "countries": ["NL", "BE"],
+      "status": "supported",
+      "url": "https://www.emerce.nl/nieuws/jumpende-pubers-vullen-youtube"
+    },
+    {
+      "id": "top40-patrick-holiday",
+      "type": "official-chart",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "verified",
+      "url": "https://www.top40.nl/patrick-jumpen/patrick-jumpen-holiday-7706"
+    },
+    {
+      "id": "haren-school-jumpstyle",
+      "type": "contemporary-local-press",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "supported",
+      "url": "https://www.harendekrant.nl/nieuws/cbs-de-borg-luidt-vakantie-met-jump-style-in/"
+    },
+    {
+      "id": "entertainment-business-jump-dvd",
+      "type": "contemporary-trade-press",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "supported",
+      "url": "https://www.entertainmentbusiness.nl/muziek/house-of-knowledge-levert-40-000-jump-dvds-uit/"
+    },
+    {
+      "id": "radiowereld-patrick-gold-dvd",
+      "type": "contemporary-trade-press",
+      "language": "nl",
+      "countries": ["NL"],
+      "status": "supported",
+      "url": "https://radiowereld.nl/shownieuws/2007/10/patrick-jumpen-zoekt-figuranten-voor-videoclip/"
+    },
+    {
+      "id": "musicbrainz-coone-releases",
+      "type": "music-database",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "supported",
+      "url": "https://musicbrainz.org/artist/8ec5439a-ff50-4b0f-9e75-fc3e517e75ff/releases"
+    },
+    {
+      "id": "apple-scooter-jumping",
+      "type": "official-music-store",
+      "language": "en",
+      "countries": ["DE", "GLOBAL"],
+      "status": "supported",
+      "url": "https://music.apple.com/us/album/jumping-all-over-the-world/1692324761"
+    },
+    {
+      "id": "muziekweb-jumping-not-crime",
+      "type": "national-library-database",
+      "language": "nl",
+      "countries": ["NL", "BE"],
+      "status": "verified",
+      "url": "https://www.muziekweb.nl/Link/JK139940/Jumping-is-not-a-crime-2007-vol-1"
+    },
+    {
+      "id": "officialcharts-scooter-jumping",
+      "type": "official-chart",
+      "language": "en",
+      "countries": ["GB", "DE"],
+      "status": "verified",
+      "url": "https://www.officialcharts.com/albums/scooter-jumping-all-over-the-world/"
+    },
+    {
+      "id": "guinness-largest-jumpstyle",
+      "type": "official-record",
+      "language": "en",
+      "countries": ["DE"],
+      "status": "verified",
+      "url": "https://guinnessworldrecords.de/world-records/largest-jumpen-jumpstyle-dance"
+    },
+    {
+      "id": "google-orkut-closure",
+      "type": "platform-first-party",
+      "language": "pt-BR",
+      "countries": ["BR", "GLOBAL"],
+      "status": "verified",
+      "url": "https://blog.google/intl/pt-br/novidades/iniciativas/adeus-ao-orkut/"
+    },
+    {
+      "id": "piekary-adt-world-cup",
+      "type": "contemporary-local-press",
+      "language": "pl",
+      "countries": ["PL", "FR"],
+      "status": "supported",
+      "url": "https://www.piekary.info/grupa-taneczna-z-piekar-mistrzem-swiata-atomic-destination-team-po-raz-drugi-siegnelo-po-zloto"
+    },
+    {
+      "id": "gshow-mais-voce-jumpstyle",
+      "type": "broadcaster-first-party",
+      "language": "pt-BR",
+      "countries": ["BR"],
+      "status": "verified",
+      "url": "https://gshow.globo.com/tv/mais-voce/episodio/2024/03/05/videos-do-episodio-de-mais-voce-de-terca-feira-5-de-marco-de-2024.ghtml"
+    },
+    {
+      "id": "beatport-jumpstyle-never-dies",
+      "type": "official-music-store",
+      "language": "en",
+      "countries": ["BR"],
+      "status": "verified",
+      "url": "https://www.beatport.com/release/jumpstyle-never-dies/4500792"
+    },
+    {
+      "id": "wired-internet-archive-attack",
+      "type": "contemporary-press",
+      "language": "en",
+      "countries": ["GLOBAL"],
+      "status": "supported",
+      "url": "https://www.wired.com/story/internet-archive-hacked/"
+    },
+    {
+      "id": "hardstyle-that-boogie",
+      "type": "official-music-store",
+      "language": "en",
+      "countries": ["NL"],
+      "status": "supported",
+      "url": "https://hardstyle.com/en/tracks/749790a0-a0ea-4e66-8b62-388772c4b116/that-boogie"
+    },
+    {
+      "id": "knma-to-da-bone",
+      "type": "official-cultural-record",
+      "language": "en",
+      "countries": ["IN", "FR"],
+      "status": "verified",
+      "url": "https://archive.knma.in/da-bone"
+    },
+    {
+      "id": "adt-in-person-classes",
+      "type": "organization-first-party",
+      "language": "pl",
+      "countries": ["PL"],
+      "status": "verified",
+      "url": "https://adtjumpstyle.com/zajecia-stacjonarne/"
+    },
+    {
+      "id": "flashback-festival-2025",
+      "type": "official-event-record",
+      "language": "en",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://flashbackfestival.bassevents.be/info"
+    },
+    {
+      "id": "codex-cybercore-2025",
+      "type": "official-ticketing-record",
+      "language": "pt-BR",
+      "countries": ["BR"],
+      "status": "supported",
+      "url": "https://shotgun.live/pt-br/events/codex-cybercore"
+    },
+    {
+      "id": "metropolis-reunion-2025",
+      "type": "official-event-record",
+      "language": "fr",
+      "countries": ["BE"],
+      "status": "verified",
+      "url": "https://www.metropolis.be/event/vendredi-jump-tek-hard-dance-old-32/register"
+    },
+    {
+      "id": "lehrte-german-championship-2026",
+      "type": "official-club-report",
+      "language": "de",
+      "countries": ["DE"],
+      "status": "verified",
+      "url": "https://www.lehrtersv.de/tsa-aktuelles/1062-taf-deutsche-meisterschaft-jumpstyle-und-deutschland-cup-shuffle-lehrte-praesentiert-sich-als-top-ausrichter"
+    }
+  ]
+}
