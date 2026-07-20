@@ -31,14 +31,19 @@
 #### 2009
 
 - **March**: [The sixth Berlin Jumpstyle meeting gathers roughly 200 young dancers from cities across Germany on March 28, combining a mass jump with a crew competition at the central station and Lustgarten.](https://taz.de/Die-wollen-nur-spielen/%21689502/) <!-- global-event:121 -->
-- **May**: The most famous virtual meeting of all time is held in Berlin. <!-- global-event:123 -->
+- **May**: [The most famous virtual meeting of all time is held in Berlin.](https://www.youtube.com/watch?v=iWRolPgp9JY) <!-- global-event:123 -->
 - **September 13**: [Bielefeld sets the Guinness World Record for the largest Jumpstyle dance: 1,067 participants continue for thirteen minutes in an event organized by Christopher Kalkbrenner.](https://guinnessworldrecords.de/world-records/largest-jumpen-jumpstyle-dance) <!-- global-event:131 -->
-- **During 2009**: The [2025 community review](global-review.md) records Snak'e joining Hardzone, Jumperz Evolution merging with Hard Zone, Dutch-style influence reaching German and Spanish dancers through JumperKelvin, and a period of intense Russian-Ukrainian experimentation. <!-- global-event:135 -->
+- **September 25**: [ItaloBrothers release `Stamp on the Ground` through Zooland Records. Its title, choreography and repeated stamping refrain give Jumpstyle-adjacent movement a durable international pop-culture reference.](https://music.apple.com/ch/album/stamp-on-the-ground/328826869) <!-- global-event:132 -->
+- **During 2009**: The [2025 community review](global-review.md) records Snak'e joining Hardzone, Jumperz Evolution merging with Hard Zone, Dutch-style influence reaching German and Spanish dancers through JumperKelvin, and a period of intense Russian-Ukrainian experimentation. <!-- global-event:136 -->
+
+#### 2010
+
+- **January 14**: [JumpLycan publishes `Hard Jump Is Lifestyle`, a seven-minute Hardjump compilation credited to The Big Jumpaz (TBJ).](https://www.youtube.com/watch?v=J3vQS_kBNeQ) [A contemporary German scene post identifies the duo as two jumpers from Mittweida](https://sven-l.blogspot.com/2009/09/show-weekend.html); no filming date survives, so the YouTube upload date is used. <!-- global-event:140 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2026
 
-- **April 25**: [The TAF German Jumpstyle Championship in Lehrte records roughly 300 starts and crowns 13 national champions; teams travel from several cities and the event closes with a community mass jump.](https://www.lehrtersv.de/tsa-aktuelles/1062-taf-deutsche-meisterschaft-jumpstyle-und-deutschland-cup-shuffle-lehrte-praesentiert-sich-als-top-ausrichter) <!-- global-event:254 -->
+- **April 25**: [The TAF German Jumpstyle Championship in Lehrte records roughly 300 starts and crowns 13 national champions; teams travel from several cities and the event closes with a community mass jump.](https://www.lehrtersv.de/tsa-aktuelles/1062-taf-deutsche-meisterschaft-jumpstyle-und-deutschland-cup-shuffle-lehrte-praesentiert-sich-als-top-ausrichter) <!-- global-event:256 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

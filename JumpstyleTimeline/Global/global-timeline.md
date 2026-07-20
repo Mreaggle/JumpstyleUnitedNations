@@ -97,9 +97,9 @@ Add your Nation's information.
 ### The Undeground/Club | Skien/Stamping Era
 #### 1997 🇧🇪 : 
 - **January**:
-  - The first version of the dance is created, the basis of which consists of dragging the feet back and forth while jumping. The first version of what would later divide in hardjump and tekstyle, called at the time, skieën, due to the movement of the arms synchronized with the legs, reminiscent of skiing.
+  - [The first version of the dance is created, the basis of which consists of dragging the feet back and forth while jumping. The first version of what would later divide in hardjump and tekstyle, called at the time, skieën, due to the movement of the arms synchronized with the legs, reminiscent of skiing.](https://www.youtube.com/watch?v=N9RD2dlP5KQ)
 - **February**:
-  - Jump as a Music genre is formally recognized with the release of tracks by under the label Jumper Records in Belgium.
+  - [Jump as a Music genre is formally recognized with the release of tracks under the Jumper Records label in Belgium.](https://www.jumperrecords.com/)
 - **March**:
   - [Jumpstyle as a dance is created by the name of Skïen (ski move) at Cherry Moon nightclub as an alternative to Gabber Hakken/Hakkuh for Jump tracks.](https://www.youtube.com/watch?v=N9RD2dlP5KQ)
 - **April**:
@@ -122,8 +122,8 @@ Add your Nation's information.
 ---
 
 #### 1999 🇳🇱 : 
-- **January**:
-  - Hardstyle starts raising as a movement and as Netherlands Hardcore/Gabber main alternative, sounding more melodical, atmospheric and easy to listen.
+- **Around the turn of the millennium**:
+  - [Hardstyle begins rising as a more melodic Dutch alternative within the harder-dance continuum. Q-dance's official history anchors the first Qlimax and Qlubtempo events in 2001 and the registration of the `hardstyle` name in 2002, rather than supporting a single creation date in 1999.](https://www.q-dance.com/en/static/hardstyle)
 - **October**:
   - [Da Boy Tommy's "Halloween" becomes a defining Belgian Jump hit and reaches number one on the official Flemish Ultratop chart for three weeks.](https://www.ultratop.be/nl/ultratop50/1999/19991113) [Da Rick's official history records more than 60,000 singles sold.](https://www.da-rick.com/info-bio/music)
 
@@ -136,7 +136,7 @@ Add your Nation's information.
   - [Hardstyle is recognized as a separated genre in The Netherlands, making Hardcore lose its total power. "Jumpstyle" rises as the official alternative from Belgium and France, adapting the name when it achieves The Netherlands. Hardcore/Gabber loses power due to Dutch people reaction to Hakken as a "childish dance" after Hakken et Zaagen.](https://www.youtube.com/watch?v=B4FP-ACzWks)
 - **During the early 2000s**:
   - [The Tecktonik Killer club nights begin at the Metropolis near Paris, programming Belgian Jump and Dutch Hardstyle; contemporary accounts place the first nights in 2000, while the formal Tecktonik Events project is documented in 2002.](https://www.letemps.ch/societe/tecktonik-continent-adolescent)
-  - The 2025 community review places the earliest Tekstyle experiments in this cross-border Belgian-French period. Public documentation is stronger for the club nights than for a single creation date, so Tekstyle's later visibility in 2005 is retained below.
+  - [The 2025 community review places the earliest Tekstyle experiments in this cross-border Belgian-French period. Public documentation is stronger for the club nights than for a single creation date, so Tekstyle's later visibility in 2005 is retained below.](https://www.letemps.ch/societe/tecktonik-continent-adolescent)
 
 ---
 
@@ -291,18 +291,18 @@ Add your Nation's information.
 - **During 2008**:
   - The [2025 community review](global-review.md) records Jelle beginning to publish videos and names DannieL, Samurai, Rumun, Yarche, Cebul, Gigi, Styl3dd and Brik among the period's visible figures.
   - [Mroziu's spin footage](https://youtu.be/Dn2LdHUlDaw?si=IAMF-ijFN0KK-kT1) and [gym recording](https://m.youtube.com/watch?v=ulQG3gfEmQ4) preserve the multi-spin vocabulary that the community review associates with figure-skating influence on Polish Ownstyle.
-  - The same review attributes the large Kraków gathering preserved above to Fantom and records roughly 70 participants; it also records Vlad SheVa encountering Jumpstyle during the year.
+  - The same review attributes the [large Kraków gathering preserved above](https://youtu.be/5EAadhCfrLs?si=gNh-_UamFItl2jkB) to Fantom and records roughly 70 participants; it also records Vlad SheVa encountering Jumpstyle during the year.
 
 ---
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
 #### 2009 🇷🇺 🇵🇱 🇧🇷 🇩🇪 🌎 : 
 - **January**:
-  - The Russian Jumpstyle league is in full swing through the Jumpstylers.ru forum, most of the leagues are virtual, where jumpers submit their videos on YouTube to be judged. Samurai is one of the big names along with Yarche, DSJumper and LonelyHawk.
+  - [The Russian Jumpstyle league is in full swing through the Jumpstylers.ru forum, most of the leagues are virtual, where jumpers submit their videos on YouTube to be judged. Samurai is one of the big names along with Yarche, DSJumper and LonelyHawk.](https://web.archive.org/web/20090210025827/http://jumpstylers.ru/)
   - [An archived February 2009 snapshot of Jumpstylers.ru preserves the First Russian Jumpstyle League brackets, previews and battle links, including freestyle semifinals and a separate new-jumpers division.](https://web.archive.org/web/20090210025827/http://jumpstylers.ru/)
   - [The Back In Time meeting is held in Eindhoven on January 25; the surviving video description records the date and the EHV location.](https://youtu.be/7z_wJQj0cZg)
 - **February**:
-  - The Polish Jumpstyle league is also in full swing and they work in the same way on the JumpstylePolska.pl forum. DannieL and Iceman are great legends and in March we have the biggest national meeting registered in Poland.
+  - [The Polish Jumpstyle league is also in full swing and they work in the same way on the JumpstylePolska.pl forum. DannieL and Iceman are great legends and in March we have the biggest national meeting registered in Poland.](https://web.archive.org/web/20090416222333/http://www.jumpstylepolska.pl/)
   - [A preserved April 2009 snapshot of JumpstylePolska.pl shows dedicated forum sections for `Zloty` (meetings) and `Liga Jumpstyle Polska`, confirming the community infrastructure behind Poland's events and leagues.](https://web.archive.org/web/20090416222333/http://www.jumpstylepolska.pl/)
   - [A JumpForce UK meeting in Cardiff is preserved by a video published on February 11; because the event date is not stated, the upload date is used.](https://youtu.be/F_jQO7fKimA)
 - **March**:
@@ -312,7 +312,7 @@ Add your Nation's information.
 - **April**:
   - [The shoe brand Olympikus invests in a sneaker model aimed at Jumpstyle, organizing the largest national Jumpstyle meeting in Brazil through Orkut together with the Jumpstyle Brasil community.](https://www.youtube.com/watch?v=B4FP-ACzWks)
 - **May**:
-  - The most famous virtual meeting of all time is held in Berlin.
+  - [The most famous virtual meeting of all time is held in Berlin.](https://www.youtube.com/watch?v=iWRolPgp9JY)
 - **June**:
   - [Atomic Destination Team founded in 2009 (ADT) participates in Poland's Got Talent program.](https://www.youtube.com/watch?v=B4FP-ACzWks)
 - **July**:
@@ -326,6 +326,8 @@ Add your Nation's information.
   - [Jumpers like DannieL and Samurai are already well-recognized for their own styles.](https://www.youtube.com/watch?v=XHk4fOR9Bts)
 - **September 13**:
   - [Bielefeld sets the Guinness World Record for the largest Jumpstyle dance: 1,067 participants continue for thirteen minutes in an event organized by Christopher Kalkbrenner.](https://guinnessworldrecords.de/world-records/largest-jumpen-jumpstyle-dance)
+- **September 25**:
+  - [ItaloBrothers release `Stamp on the Ground` through Zooland Records. Its title, choreography and repeated stamping refrain give Jumpstyle-adjacent movement a durable international pop-culture reference.](https://music.apple.com/ch/album/stamp-on-the-ground/328826869)
 - **October**:
   - [The Russian Jump League (RJL) is formed, bringing a new level of competition to the scene.](https://www.youtube.com/watch?v=lgNqkkIu8iE)
 - **November 28**:
@@ -342,6 +344,8 @@ Add your Nation's information.
 - **January**:
   - From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases.
   - [The Ukrainian Jumpstyle League reaches its Freestyle semifinals in January, documenting a national competitive structure linked to jumpstyle.com.ua.](https://youtu.be/smzlm1_koIQ)
+- **January 14**:
+  - [JumpLycan publishes `Hard Jump Is Lifestyle`, a seven-minute Hardjump compilation credited to The Big Jumpaz (TBJ).](https://www.youtube.com/watch?v=J3vQS_kBNeQ) [A contemporary German scene post identifies the duo as two jumpers from Mittweida](https://sven-l.blogspot.com/2009/09/show-weekend.html); no filming date survives, so the YouTube upload date is used.
 - **February**:
   - Standout years for jumpers like Scot, Badsz (now Russian Village Boys), S1dej and Jagr
 - **March**:
@@ -397,7 +401,7 @@ Add your Nation's information.
 
 #### 2012 🇵🇱 🇧🇷 🌎 : 
 - **January**:
-  - Patrick Jumpen admires Polish Jump and travels to Poznan with Dion Teurlings for a national meeting.
+  - [Patrick Jumpen admires Polish Jump and travels to Poznan with Dion Teurlings for a national meeting.](https://youtu.be/4OLRJ27VU4g)
 - **February**:
   - All-Ass organized the 2012 meeting at Ibirapuera. Add more information about events and JSB.
   - [The third Italian Jumpstyle Meeting is held in Brescia on February 19, bringing together participants from the country's growing scene.](https://youtu.be/OJJ_zOeYV5s)
@@ -623,10 +627,16 @@ Add your Nation's information.
 
 ---
 
-#### 2026 🇧🇪 🌎 :
+#### 2026 🇧🇪 🇩🇪 🇵🇱 🇷🇺 🌎 :
 - **January**:
   - [Da Rick officially revives Jumper Records in Belgium with new releases, events and an active catalogue, reconnecting the label that helped name the sound in 1997 with a new global audience.](https://www.jumperrecords.com/)
 - **April 25**:
   - [The TAF German Jumpstyle Championship in Lehrte records roughly 300 starts and crowns 13 national champions; teams travel from several cities and the event closes with a community mass jump.](https://www.lehrtersv.de/tsa-aktuelles/1062-taf-deutsche-meisterschaft-jumpstyle-und-deutschland-cup-shuffle-lehrte-praesentiert-sich-als-top-ausrichter)
+- **May 1**:
+  - [TOPJUMPERZ, the Russian project created by Badsz, opens TOPJUMPERZ League 2026 as a distributed online competition for dancers worldwide, with country representation, a qualification window through May 31, 32 playoff places and a €2,000 prize pool.](https://www.youtube.com/watch?v=StgqZdyAu9Q) [Historical YouTube metadata preserves earlier TOPJUMPERZ compilations as works "by badsz" on the Russian Village Boys channel](https://filmot.com/unlistedSearch?category=6&channelID=UCjtBrRg4xUFfWSi5_c9WrYA&country=95&sortField=viewcount&sortOrder=desc); [the group's official biography connects Dima to `@badszhard`](https://russianvillageboys.com/about/), while [a contemporary artist biography identifies Dima and Denis as its founders](https://pl.ra.co/dj/russianvillageboys/biography).
+- **May 23**:
+  - [Atomic Destination Team organizes `Jumpstyle Meeting in Lodz 2026 | Poland` at Kręgielnia Król Kul in Łódź, adding a national in-person gathering to the team's continuing Polish teaching and meeting network.](https://www.facebook.com/events/1439844597875231/)
+- **July 13–26**:
+  - [TOPJUMPERZ League 2026 reaches the 1/8 finals; the remaining competitors are asked to publish two complementary solo submissions, assessed for technique, variety, energy, style and on-beat execution.](https://www.youtube.com/watch?v=sgtaBNigIM8)
 
 ---
