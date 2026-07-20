@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastReviewed": "2026-07-16",
+  "lastReviewed": "2026-07-20",
   "sources": [
     {
       "id": "jumper-records",
@@ -585,6 +585,94 @@
       "countries": ["US"],
       "status": "supported",
       "url": "https://www.youtube.com/watch?v=XGlJS-m60m4"
+    },
+    {
+      "id": "jumplycan-hard-jump-is-lifestyle",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["DE"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=J3vQS_kBNeQ"
+    },
+    {
+      "id": "sven-l-show-weekend-big-jumpaz",
+      "type": "contemporary-community-post",
+      "language": "de",
+      "countries": ["DE"],
+      "status": "supported",
+      "url": "https://sven-l.blogspot.com/2009/09/show-weekend.html"
+    },
+    {
+      "id": "topjumperz-league-2026-launch",
+      "type": "organizer-video",
+      "language": "en",
+      "countries": ["RU", "GLOBAL"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=StgqZdyAu9Q"
+    },
+    {
+      "id": "topjumperz-league-2026-eighth-finals",
+      "type": "organizer-video",
+      "language": "en",
+      "countries": ["RU", "GLOBAL"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=sgtaBNigIM8"
+    },
+    {
+      "id": "filmot-topjumperz-badsz",
+      "type": "public-video-metadata-index",
+      "language": "en",
+      "countries": ["RU"],
+      "status": "supported",
+      "url": "https://filmot.com/unlistedSearch?category=6&channelID=UCjtBrRg4xUFfWSi5_c9WrYA&country=95&sortField=viewcount&sortOrder=desc"
+    },
+    {
+      "id": "russian-village-boys-about",
+      "type": "official-artist-biography",
+      "language": "en",
+      "countries": ["RU"],
+      "status": "verified",
+      "url": "https://russianvillageboys.com/about/"
+    },
+    {
+      "id": "resident-advisor-russian-village-boys-biography",
+      "type": "artist-biography",
+      "language": "en",
+      "countries": ["RU"],
+      "status": "supported",
+      "url": "https://pl.ra.co/dj/russianvillageboys/biography"
+    },
+    {
+      "id": "adt-lodz-meeting-2026",
+      "type": "official-social-event",
+      "language": "en",
+      "countries": ["PL"],
+      "status": "supported",
+      "url": "https://www.facebook.com/events/1439844597875231/"
+    },
+    {
+      "id": "berlin-hardjump-2009-video",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["DE"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=iWRolPgp9JY"
+    },
+    {
+      "id": "italobrothers-stamp-on-the-ground-2009",
+      "type": "official-release",
+      "language": "de",
+      "countries": ["DE"],
+      "status": "verified",
+      "url": "https://music.apple.com/ch/album/stamp-on-the-ground/328826869"
+    },
+    {
+      "id": "q-dance-hardstyle-history",
+      "type": "official-scene-history",
+      "language": "en",
+      "countries": ["NL"],
+      "status": "verified",
+      "url": "https://www.q-dance.com/en/static/hardstyle"
     }
   ]
 }

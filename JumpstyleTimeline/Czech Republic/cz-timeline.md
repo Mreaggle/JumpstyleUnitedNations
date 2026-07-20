@@ -1145,14 +1145,14 @@
 
 #### 2010
 
-- **April**: [A Prague Jumpstyle gathering at Hřiště hrdinů is documented by a video published on April 19; because no separate event date is stated, the upload date is used.](https://youtu.be/hx0jyzKvTTo) <!-- global-event:143 -->
+- **April**: [A Prague Jumpstyle gathering at Hřiště hrdinů is documented by a video published on April 19; because no separate event date is stated, the upload date is used.](https://youtu.be/hx0jyzKvTTo) <!-- global-event:145 -->
 
 #### 2011
 
-- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:163 -->
+- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:165 -->
 
 #### 2013
 
-- **June 21**: ["The Republic of Jumpstyle 4: Together in Prague" is published as a Czech community film; because no separate event date is stated, the upload date is used.](https://youtu.be/48b5BNfX94o) <!-- global-event:180 -->
+- **June 21**: ["The Republic of Jumpstyle 4: Together in Prague" is published as a Czech community film; because no separate event date is stated, the upload date is used.](https://youtu.be/48b5BNfX94o) <!-- global-event:182 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

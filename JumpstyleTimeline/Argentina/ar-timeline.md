@@ -1145,19 +1145,19 @@
 
 #### 2015
 
-- **February 25**: [Argentina's first combined Shuffle and Jumpstyle meet is documented by its organizers; because no separate event date is stated, the upload date is used.](https://youtu.be/-CIQ0xcCljw) <!-- global-event:191 -->
-- **July 26**: [An Argentina Jumpstyle Meeting takes place at Puerto Madero in Buenos Aires; because no separate event date is stated, the upload date is used.](https://youtu.be/YhvNyxMt9Ng) <!-- global-event:193 -->
+- **February 25**: [Argentina's first combined Shuffle and Jumpstyle meet is documented by its organizers; because no separate event date is stated, the upload date is used.](https://youtu.be/-CIQ0xcCljw) <!-- global-event:193 -->
+- **July 26**: [An Argentina Jumpstyle Meeting takes place at Puerto Madero in Buenos Aires; because no separate event date is stated, the upload date is used.](https://youtu.be/YhvNyxMt9Ng) <!-- global-event:195 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2017
 
-- **July 21**: [Argentina Hard Dance Generation holds the first day of its national meet-up at Puerto Madero in Buenos Aires, preserving a multi-day national gathering.](https://youtu.be/1MWGNirsNRg) <!-- global-event:202 -->
+- **July 21**: [Argentina Hard Dance Generation holds the first day of its national meet-up at Puerto Madero in Buenos Aires, preserving a multi-day national gathering.](https://youtu.be/1MWGNirsNRg) <!-- global-event:204 -->
 
 ### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
 
 #### 2024
 
-- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:232 -->
+- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:234 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

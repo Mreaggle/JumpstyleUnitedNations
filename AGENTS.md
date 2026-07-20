@@ -42,7 +42,14 @@ Prefer sources in this order:
    when a catalog entry or national path is added.
 8. Update `data/global-event-countries.json` and run `npm run sync:national`
    when a Global Timeline event is added or changed.
-9. Run the repository validator and inspect the diff for accidental deletions.
+9. Keep the public museum synchronized: the site pipeline must consume this
+   repository's `JumpstyleTimeline/Global/global-timeline.md`, derive its event
+   count at build time and fail when its generated copy or manifest differs.
+   Never update the front-end count independently from the canonical timeline.
+10. After a Global Timeline change reaches `main`, trigger the
+    `jun-timeline-updated` dispatch (or manually run the site deploy) in
+    `Mreaggle/jumpstylebrasil` and verify the published full-record count.
+11. Run the repository validator and inspect the diff for accidental deletions.
 
 ## Repository ownership
 
