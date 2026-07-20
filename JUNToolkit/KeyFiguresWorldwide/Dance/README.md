@@ -92,8 +92,7 @@ Those people have meaningful impact over their Nation-communities and Global Jum
 
 - [Gigi](#)
 - [Cebul](#)
-- [Hyper-X](#)
-- [Styl3dd](#)
+- [Hyper-X](https://www.youtube.com/watch?v=nnb9dhV0POQ)
 - [DannieL](https://youtu.be/LxxqlHv6X7k?si=J1JqBg9Rt-Hpm-YZ)
 - [Rumun](https://youtu.be/F3NNfmnCw0c?si=V0nsExWpml0qisPJ) 
 - [Cebul](https://youtu.be/hbvcx-1Nw84?si=t-Y_9EaA1Rldgzav) 
@@ -101,27 +100,27 @@ Those people have meaningful impact over their Nation-communities and Global Jum
 - [Effect](https://youtu.be/smAqN_S9-4g?si=AHDB8GFiJshmB4qc)  
 - [Groszek](https://youtu.be/m5h_tx9I4og?si=tRaGBXjNKHW1fsMt) 
 - [DudQ](https://youtu.be/3YB3h11hVPM?si=NxnrIfG6FQSTahmB) 
-- [Kamilkadze](#)
-- [Wiewior 2012](#)
+- [Kamilkadze](https://www.youtube.com/watch?v=6c8GGqc7mW0)
+- [Wiewior 2012](https://www.youtube.com/watch?v=oCya7ecivs4)
 - [Lukier](https://youtu.be/g3PYeM9BCng?si=urMIPD5qHUhnj_r_) 
 - [Sosho](https://youtu.be/hOUJ8-q4xUY) 
 - [Phantom](https://youtu.be/oxFx6b94NpY?si=sRgUAEM89fNFl_Og) 
-- [Philip](https://youtu.be/oxFx6b94NpY?si=sRgUAEM89fNFl_Og) 
+- [Philip](https://www.youtube.com/watch?v=PN_u9Yuwiuw) 
 
 ### 🇳🇱 Netherlands 🇳🇱 
 >The Godfathers! 🙏  Where it all began!
 
 - [Patrick Jumpen](https://youtu.be/VFVM0Y0X9Hg?si=Xqu0a7d77M11mvor) 
-- [Styl3dd 2008](#)
-- [Jelle](#)
+- [Styl3dd 2008](https://www.youtube.com/watch?v=2QB-3SuiO3E)
+- [Jelle](https://www.youtube.com/watch?v=bt8yiCr8rYA)
 
 ### 🇷🇺 Russia  🇷🇺
 >Sidejump masters!  🇷🇺  Power and  aggression! 💪
 
-- [Brik](#)
+- [Brik](https://www.youtube.com/watch?v=le0Nyv1Witw)
 - [Samurai](https://youtu.be/-wouLYwkyUs?si=1V929sOzlver4RJg) 
 - [Yarche](https://youtu.be/-G0j2TGk26I?si=DwTdkXG0VwaCwb9y) 
-- [Scot](#)
+- [Scot](https://www.youtube.com/watch?v=slkHne0WYGY)
 - [Cost](#)
 - [Badsz](https://youtu.be/xQIGg9rXsb0?si=HrYOiZEDG-7JYdjF) 
 - [Jagr](https://youtu.be/Pbg5TSDb54o?si=o16F-PO57QLF30jf) 
@@ -130,15 +129,15 @@ Those people have meaningful impact over their Nation-communities and Global Jum
 ### 🇺🇦 Ukraine 🇺🇦
 > Complexity beasts! 🇺🇦 Combining speed and aggressivity! 
 
-- [Woren (now Anointed) 2010](#)
-- [J*Air 2012](#)
-- [Belir 2012](#)
-- [Shkap 2012](#)
+- [Woren (now Anointed) 2010](https://www.youtube.com/watch?v=HIqN5PKSgfw)
+- [J*Air 2012](https://www.youtube.com/watch?v=S5mJSY7Osw8)
+- [Belir 2012](https://www.youtube.com/watch?v=dNdSdTDWmJ8)
+- [Shkap 2012](https://www.youtube.com/watch?v=kC3M8yRA8ng)
 
 ### 🇫🇷 France 🇫🇷
 >Style and spinning!  🇫🇷 Bringing that French Touch to Jumpstyle! ✨
 
--  [Mr. Covin 2012](#)
+-  [Mr. Covin 2012](https://www.youtube.com/watch?v=UScK0BqnXA4)
 -  [Spiady](https://youtu.be/1uTKW-AYsr4?si=m-qe5D1zRxad6ncw) 
 -  [Rey’Steal](https://youtu.be/2K5HqjDEavw?si=yJfTQ7t-69z3xfS0)
 
@@ -149,7 +148,7 @@ Those people have meaningful impact over their Nation-communities and Global Jum
 
 ### 🇧🇷 Brazil 🇧🇷
 >Authenticity and Diversity!
-- [RafaJumpen]([https://youtu.be/8E3IbeAobaU](https://youtu.be/8E3IbeAobaU?si=y_XXlDy9XZmhDLGe)
+- [RafaJumpen](https://youtu.be/8E3IbeAobaU?si=y_XXlDy9XZmhDLGe)
 - [Matrix](https://www.youtube.com/watch?v=UEsnPlV6BK0&t=85s)
 - [Cursebird](https://www.youtube.com/watch?v=RKx9TwpFb20)
 - [Mreaggle](https://www.youtube.com/watch?v=Me1ai6JBvmo)
@@ -157,7 +156,7 @@ Those people have meaningful impact over their Nation-communities and Global Jum
 
 ### 🇩🇪 Germany 🇩🇪
 Positive ambition and Unity!
-- [SonnyJumpen](https://www.youtube.com/watch?v=UEsnPlV6BK0)
+- [SonnyJumpen](https://www.youtube.com/watch?v=gM2hIts7rSY)
 - [Rebel-S](https://www.youtube.com/watch?v=5L2tp7EGAI0)
 - [Owen](https://www.youtube.com/watch?v=SR1QVHvYLa0)
 - [Linda](https://www.youtube.com/watch?v=EAIjVJjkneQ)
@@ -166,7 +165,7 @@ Positive ambition and Unity!
 ### 🇲🇽 Mexico 🇲🇽
 Powerfulness and Bravery!
 - [Walle](https://youtu.be/yiLAYlTyR4g?si=SkabFusK1aK4gG9X) 
-- [Marshall](https://youtu.be/C73Mb5Zh2HM)
+- [Marshall](https://www.youtube.com/watch?v=0QYzMKQ_gO4)
 ### 🇨🇱 Chile 🇨🇱
 >Innovation and Identity!
 - [Lauth](https://www.youtube.com/watch?v=1_Z3f4ZFfxQ)
