@@ -21,18 +21,18 @@ This national view is synchronized from sourced records in the Global Timeline.
 
 #### 2007
 
-- **November 30**: [Scooter releases the album `Jumping All Over the World`, pairing Jumpstyle-oriented music with choreography and giving the style a major international pop vehicle.](https://music.apple.com/us/album/jumping-all-over-the-world/1692324761) <!-- global-event:085 -->
+- **November 30**: [Scooter releases the album `Jumping All Over the World`, pairing Jumpstyle-oriented music with choreography and giving the style a major international pop vehicle.](https://music.apple.com/us/album/jumping-all-over-the-world/1692324761) <!-- global-event:086 -->
 
 ### Internet/Competitive | Random Terminology Era
 
 #### 2008
 
-- **May**: [On May 17, Scooter's `Jumping All Over the World` reaches number one on the United Kingdom's Official Albums Chart. It spends seven weeks in the top ten and 21 weeks in the top 100, marking Jumpstyle's clearest album-chart crossover outside continental Europe.](https://www.officialcharts.com/albums/scooter-jumping-all-over-the-world/) <!-- global-event:097 -->
+- **May**: [On May 17, Scooter's `Jumping All Over the World` reaches number one on the United Kingdom's Official Albums Chart. It spends seven weeks in the top ten and 21 weeks in the top 100, marking Jumpstyle's clearest album-chart crossover outside continental Europe.](https://www.officialcharts.com/albums/scooter-jumping-all-over-the-world/) <!-- global-event:099 -->
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
 
 #### 2009
 
-- **February**: [A JumpForce UK meeting in Cardiff is preserved by a video published on February 11; because the event date is not stated, the upload date is used.](https://youtu.be/F_jQO7fKimA) <!-- global-event:118 -->
+- **February**: [A JumpForce UK meeting in Cardiff is preserved by a video published on February 11; because the event date is not stated, the upload date is used.](https://youtu.be/F_jQO7fKimA) <!-- global-event:124 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

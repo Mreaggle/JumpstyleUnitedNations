@@ -1145,10 +1145,10 @@
 
 #### 2018
 
-- **October 29**: [A Jumpstyle meet presented by Tasshi is documented in Osaka; because no separate event date is stated, the upload date is used.](https://youtu.be/hrx4WNu1Rzg) <!-- global-event:211 -->
+- **October 29**: [A Jumpstyle meet presented by Tasshi is documented in Osaka; because no separate event date is stated, the upload date is used.](https://youtu.be/hrx4WNu1Rzg) <!-- global-event:224 -->
 
 #### 2020
 
-- **February 20**: [A sudden Jumpstyle meet-up is documented in Japan on February 16, preserving a small national scene immediately before pandemic restrictions.](https://youtu.be/cVOy9rEKXYU) <!-- global-event:220 -->
+- **February 20**: [A sudden Jumpstyle meet-up is documented in Japan on February 16, preserving a small national scene immediately before pandemic restrictions.](https://youtu.be/cVOy9rEKXYU) <!-- global-event:233 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

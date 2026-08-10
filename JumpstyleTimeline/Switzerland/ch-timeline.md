@@ -11,6 +11,10 @@ This national or territorial view is synchronized from sourced records in the Gl
 > Edit the global source and `data/global-event-countries.json`, then run
 > `npm run sync:national`. Do not edit this block manually.
 
-_No Global Timeline event is currently attributed specifically to Switzerland._
+### Internet/Competitive | Random Terminology Era
+
+#### 2008
+
+- **November 1**: [Jumpstyle Switzerland's official archive records the first Swiss Jumpstyle Meeting at Globus and the Museum für Gestaltung in Zürich, beginning at 14:00.](https://www.jump-style.ch/jumpstyleswitzerland/Event/Index/2008) <!-- global-event:112 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->
