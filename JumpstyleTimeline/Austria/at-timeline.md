@@ -11,6 +11,10 @@ This national or territorial view is synchronized from sourced records in the Gl
 > Edit the global source and `data/global-event-countries.json`, then run
 > `npm run sync:national`. Do not edit this block manually.
 
-_No Global Timeline event is currently attributed specifically to Austria._
+### Internet/Competitive | Random Terminology Era
+
+#### 2008
+
+- **June 8**: [A contemporary event listing records a `Jumpstyle treffen` at Amstetten's Hauptplatz in Austria, scheduled from 13:00 with a community video planned.](https://www.szene1.at/event/jumpstyle_treffen_jumpstyle_amstetten_amstetten_8-6-2008-eid115333) <!-- global-event:101 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

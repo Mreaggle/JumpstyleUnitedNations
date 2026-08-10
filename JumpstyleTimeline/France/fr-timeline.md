@@ -1166,66 +1166,73 @@
 - **January**: [Tekstyle emerges as a French alternative to Mainstream Jumpstyle, approaching the French Tek scene.](https://en.wikipedia.org/wiki/Teknival) <!-- global-event:044 -->
 - **March**: [Belgium gets more into France and less into The Netherlands, Tekstyle was going to surge as an underground answer to mainstream Jumpstyle.](https://en.wikipedia.org/wiki/Teknival) <!-- global-event:046 -->
 
+### Internet/Patrick Jumpen | Meetings/HardJump Era
+
+#### 2007
+
+- **December 7**: [The first European Jump Masters is held at Sotto's in Zottegem, Belgium; the organizer's following-edition film confirms that jumpers from Belgium, France and the Netherlands took part.](https://partyflock.nl/news_comment%3A392898) [The retrospective organizer film preserves the cross-border participation record.](https://www.dailymotion.com/video/x5utfv) <!-- global-event:087 -->
+
 ### Internet/Competitive | Random Terminology Era
 
 #### 2008
 
-- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:107 -->
+- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:111 -->
+- **November 22**: [France Jumpstyle's event film documents the second European Jump Masters at Sotto's in Zottegem, preserving another organized link between the French and Belgian scenes.](https://www.dailymotion.com/video/x7l1g0) <!-- global-event:113 -->
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
 
 #### 2009
 
-- **During 2009**: The [2025 community review](global-review.md) records Snak'e joining Hardzone, Jumperz Evolution merging with Hard Zone, Dutch-style influence reaching German and Spanish dancers through JumperKelvin, and a period of intense Russian-Ukrainian experimentation. <!-- global-event:136 -->
+- **During 2009**: The [2025 community review](global-review.md) records Snak'e joining Hardzone, Jumperz Evolution merging with Hard Zone, Dutch-style influence reaching German and Spanish dancers through JumperKelvin, and a period of intense Russian-Ukrainian experimentation. <!-- global-event:146 -->
 
 #### 2010
 
-- **May**: [France develops a distinct competitive generation around figures such as Spiady and Rey'Steal, whose videos carry French technique, spins and style into international leagues.](https://youtu.be/1uTKW-AYsr4?si=m-qe5D1zRxad6ncw) <!-- global-event:146 -->
-- **May**: The [2025 community review](global-review.md) records Spiady founding HardSexionAddicted (HSA) around February–March and the team's rivalry with Jumperz Evolution. <!-- global-event:147 -->
-- **During 2010**: The [2025 community review](global-review.md) additionally identifies Effect, Xardas, Groszek, DudQ, Woren/Anointed and Cost alongside the already documented Scot, Badsz, S1dej, Jagr, Spiady and Rey'Steal; it records Badsz's monthly `TopJumperz` compilations and the JumpstylePolskaPL channel as important distribution points. <!-- global-event:153 -->
+- **May**: [France develops a distinct competitive generation around figures such as Spiady and Rey'Steal, whose videos carry French technique, spins and style into international leagues.](https://youtu.be/1uTKW-AYsr4?si=m-qe5D1zRxad6ncw) <!-- global-event:157 -->
+- **May**: The [2025 community review](global-review.md) records Spiady founding HardSexionAddicted (HSA) around February–March and the team's rivalry with Jumperz Evolution. <!-- global-event:158 -->
+- **During 2010**: The [2025 community review](global-review.md) additionally identifies Effect, Xardas, Groszek, DudQ, Woren/Anointed and Cost alongside the already documented Scot, Badsz, S1dej, Jagr, Spiady and Rey'Steal; it records Badsz's monthly `TopJumperz` compilations and the JumpstylePolskaPL channel as important distribution points. <!-- global-event:165 -->
 
 #### 2011
 
-- **February**: [An International Meet Up in Bilbao brings together jumpers from Brazil, France and Spain; because no event date is stated, the February 6 upload date is used.](https://youtu.be/5fRHXHdWSnI) <!-- global-event:157 -->
-- **April**: [Paris hosts its first documented Jumpstyle reunion on April 23, preserved by the event catalogue at Jumpstylers.ru.](https://jumpstylers.ru/forum/23-Event-Movies/33785-i-reunion-de-jumpstyle-paris-le-23-04-2011-htt.html) <!-- global-event:160 -->
+- **February**: [An International Meet Up in Bilbao brings together jumpers from Brazil, France and Spain; because no event date is stated, the February 6 upload date is used.](https://youtu.be/5fRHXHdWSnI) <!-- global-event:169 -->
+- **April**: [Paris hosts its first documented Jumpstyle reunion on April 23, preserved by the event catalogue at Jumpstylers.ru.](https://jumpstylers.ru/forum/23-Event-Movies/33785-i-reunion-de-jumpstyle-paris-le-23-04-2011-htt.html) <!-- global-event:172 -->
 
 #### 2012
 
-- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:172 -->
+- **April**: The [2025 community review](global-review.md) additionally records Lukier, Sosho, Phantom, Mr. Covin, J*Air, Belir, Shkap, Kamilkadze, Wiewior and Cost in the international generation and notes that Sidejump was fading as a separate Russian category. <!-- global-event:184 -->
 
 #### 2013
 
-- **During 2013**: The [2025 community review](global-review.md) records HardSexionAddicted dissolving in France and a global clothing trend around Sosho pants and Nike Mercurial football boots; it also records Sosho's influence on the period's emphasis on clean technique. <!-- global-event:186 -->
+- **During 2013**: The [2025 community review](global-review.md) records HardSexionAddicted dissolving in France and a global clothing trend around Sosho pants and Nike Mercurial football boots; it also records Sosho's influence on the period's emphasis on clean technique. <!-- global-event:199 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2017
 
-- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:206 -->
+- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:219 -->
 
 #### 2018
 
-- **May 19**: [(LA)HORDE and La Gaîté Lyrique organize the 150 BPM night in Paris with Jumpstyle dancers, Hardstyle and Gabber, extending "To Da Bone" into a community event.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:208 -->
-- **July 14**: ["To Da Bone" reaches Amsterdam's Julidans festival during an international tour that also takes the European Jumpstyle cast to Portugal, Canada and other stages.](https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde) <!-- global-event:209 -->
+- **May 19**: [(LA)HORDE and La Gaîté Lyrique organize the 150 BPM night in Paris with Jumpstyle dancers, Hardstyle and Gabber, extending "To Da Bone" into a community event.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:221 -->
+- **July 14**: ["To Da Bone" reaches Amsterdam's Julidans festival during an international tour that also takes the European Jumpstyle cast to Portugal, Canada and other stages.](https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde) <!-- global-event:222 -->
 
 ### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
 
 #### 2023
 
-- **August**: [Poland's Atomic Destination Team defeats France after a nearly seven-month World Jumpstyle Cup — Nations campaign, retaining the team world title and documenting the endurance of international video-league competition.](https://www.piekary.info/grupa-taneczna-z-piekar-mistrzem-swiata-atomic-destination-team-po-raz-drugi-siegnelo-po-zloto) <!-- global-event:230 -->
+- **August**: [Poland's Atomic Destination Team defeats France after a nearly seven-month World Jumpstyle Cup — Nations campaign, retaining the team world title and documenting the endurance of international video-league competition.](https://www.piekary.info/grupa-taneczna-z-piekar-mistrzem-swiata-atomic-destination-team-po-raz-drugi-siegnelo-po-zloto) <!-- global-event:244 -->
 
 #### 2024
 
-- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:234 -->
+- **March**: Snak'e and Atomic Destination Team come together to dance at a hardstyle festival in front of the entire crowd. Lauth from Chile visits Poland together with IvaN from Argentina, and videos are shot in historical places such as the Palace of Culture and Science in Warsaw. <!-- global-event:248 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2024
 
-- **December**: [On December 6, (LA)HORDE and the Ballet National de Marseille present `To Da Bone` at the Kiran Nadar Museum of Art in New Delhi, demonstrating the work's continuing international life seven years after its premiere.](https://archive.knma.in/da-bone) <!-- global-event:245 -->
+- **December**: [On December 6, (LA)HORDE and the Ballet National de Marseille present `To Da Bone` at the Kiran Nadar Museum of Art in New Delhi, demonstrating the work's continuing international life seven years after its premiere.](https://archive.knma.in/da-bone) <!-- global-event:259 -->
 
 #### 2025
 
-- **January**: The [2025 community review](global-review.md) records Grinzler publishing a United States tribute, Filip offering an online course and Snak'e sharing aerial footage during the month's renewed international activity. <!-- global-event:247 -->
+- **January**: The [2025 community review](global-review.md) records Grinzler publishing a United States tribute, Filip offering an online course and Snak'e sharing aerial footage during the month's renewed international activity. <!-- global-event:261 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

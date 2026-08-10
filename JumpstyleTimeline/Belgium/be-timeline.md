@@ -1237,58 +1237,60 @@
 - **March**: [Jeckyll & Hyde release "Freefall" as a CD single on March 9; it later spends 27 weeks on the Dutch chart and reaches number one, while also charting in Belgium, Germany and Finland.](https://www.ultratop.be/nl/song/489d9/Jeckyll-%26-Hyde-Freefall) <!-- global-event:069 -->
 - **June**: [The two-disc "Belgian Jumpstyle Top 100" compilation is released on June 11, preserving a broad commercial canon that includes Coone, Mark With A K, Jeckyll & Hyde, Binum and many other Belgian-scene artists.](https://www.ultratop.be/nl/compilation/11a12/Belgian-Jumpstyle-Top-100) <!-- global-event:076 -->
 - **June**: [Dutch technology press describes teenagers filling YouTube with Jumpstyle videos and traces the craze spreading from Flanders and the southern Netherlands since 2005.](https://www.emerce.nl/nieuws/jumpende-pubers-vullen-youtube) <!-- global-event:077 -->
-- **November 8**: [Coone releases `The Return (Remixes)` on vinyl in Belgium; the worldwide digital edition follows on November 26.](https://musicbrainz.org/artist/8ec5439a-ff50-4b0f-9e75-fc3e517e75ff/releases) <!-- global-event:084 -->
-- **During 2007**: [The compilation `Jumping Is Not a Crime 2007, Vol. 1` turns the community slogan into a commercial series and collects music by DJ Pat B, Coone, Binum, Jeckyll & Hyde and other scene artists.](https://www.muziekweb.nl/Link/JK139940/Jumping-is-not-a-crime-2007-vol-1) <!-- global-event:087 -->
+- **November 8**: [Coone releases `The Return (Remixes)` on vinyl in Belgium; the worldwide digital edition follows on November 26.](https://musicbrainz.org/artist/8ec5439a-ff50-4b0f-9e75-fc3e517e75ff/releases) <!-- global-event:085 -->
+- **December 7**: [The first European Jump Masters is held at Sotto's in Zottegem, Belgium; the organizer's following-edition film confirms that jumpers from Belgium, France and the Netherlands took part.](https://partyflock.nl/news_comment%3A392898) [The retrospective organizer film preserves the cross-border participation record.](https://www.dailymotion.com/video/x5utfv) <!-- global-event:087 -->
+- **During 2007**: [The compilation `Jumping Is Not a Crime 2007, Vol. 1` turns the community slogan into a commercial series and collects music by DJ Pat B, Coone, Binum, Jeckyll & Hyde and other scene artists.](https://www.muziekweb.nl/Link/JK139940/Jumping-is-not-a-crime-2007-vol-1) <!-- global-event:089 -->
 
 ### Internet/Competitive | Random Terminology Era
 
 #### 2008
 
-- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:107 -->
+- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:111 -->
+- **November 22**: [France Jumpstyle's event film documents the second European Jump Masters at Sotto's in Zottegem, preserving another organized link between the French and Belgian scenes.](https://www.dailymotion.com/video/x7l1g0) <!-- global-event:113 -->
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
 
 #### 2013
 
-- **February 24**: [Belgian pioneer Da Boy Tommy dies at age 36 following a road accident. His records, including "Halloween" and "Candyman", remain foundational documents of the genre's first commercial era.](https://qmusic.be/nieuws/da-boy-tommyis-overleden-1-1) <!-- global-event:180 -->
+- **February 24**: [Belgian pioneer Da Boy Tommy dies at age 36 following a road accident. His records, including "Halloween" and "Candyman", remain foundational documents of the genre's first commercial era.](https://qmusic.be/nieuws/da-boy-tommyis-overleden-1-1) <!-- global-event:193 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2017
 
-- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:206 -->
+- **September 27**: [(LA)HORDE premieres "To Da Bone" at the Charleroi Dance Biennale with eleven jumpers recruited across Europe, bringing an internet-native Jumpstyle community onto a major contemporary-dance stage.](https://collectiflahorde.com/production/age-of-content) <!-- global-event:219 -->
 
 #### 2018
 
-- **September 15**: [Bass Events launches Flashback Festival in Belgium, creating a recurring event dedicated to the earlier Jump and harder-styles repertoire.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:210 -->
+- **September 15**: [Bass Events launches Flashback Festival in Belgium, creating a recurring event dedicated to the earlier Jump and harder-styles repertoire.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:223 -->
 
 #### 2019
 
-- **September 14**: [Flashback Festival returns for its second Belgian edition, confirming an organized audience for Jump-era repertory after the commercial peak.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:215 -->
+- **September 14**: [Flashback Festival returns for its second Belgian edition, confirming an organized audience for Jump-era repertory after the commercial peak.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:228 -->
 
 #### 2021
 
-- **October 2**: [Flashback Festival resumes in Belgium after its 2020 interruption, continuing its official Jump and harder-styles programme.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:223 -->
+- **October 2**: [Flashback Festival resumes in Belgium after its 2020 interruption, continuing its official Jump and harder-styles programme.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:237 -->
 
 ### TikTok/Phantom | Yabujin/RomancePlanet | Gavrax/DayerteQ Era
 
 #### 2022
 
-- **September 24**: [Flashback Festival expands to three Belgian areas dedicated to Jump & Tek, Hardstyle and Hardcore, formalizing the historical branches of the harder-dance audience in one event.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:224 -->
+- **September 24**: [Flashback Festival expands to three Belgian areas dedicated to Jump & Tek, Hardstyle and Hardcore, formalizing the historical branches of the harder-dance audience in one event.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:238 -->
 
 #### 2023
 
-- **May 13**: [Flashback Festival stages another Belgian edition, sustaining a dedicated festival platform for Jump, Tek and related harder styles.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:229 -->
+- **May 13**: [Flashback Festival stages another Belgian edition, sustaining a dedicated festival platform for Jump, Tek and related harder styles.](https://www.bassevents.be/tags/flashback-festival) <!-- global-event:243 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2025
 
-- **August 23**: [Flashback Festival returns at Kasteel van Bossuit in Avelgem, continuing Belgium's large-scale platform for the anthems and artists of earlier harder-styles eras.](https://flashbackfestival.bassevents.be/info) <!-- global-event:252 -->
-- **November 28**: [The Metropolis reunion at WEX in Marche-en-Famenne dedicates its opening night to Jump, Tek and old-school Hard Dance, reviving the repertoire of a club central to the French-speaking Belgian scene.](https://www.metropolis.be/event/vendredi-jump-tek-hard-dance-old-32/register) <!-- global-event:254 -->
+- **August 23**: [Flashback Festival returns at Kasteel van Bossuit in Avelgem, continuing Belgium's large-scale platform for the anthems and artists of earlier harder-styles eras.](https://flashbackfestival.bassevents.be/info) <!-- global-event:266 -->
+- **November 28**: [The Metropolis reunion at WEX in Marche-en-Famenne dedicates its opening night to Jump, Tek and old-school Hard Dance, reviving the repertoire of a club central to the French-speaking Belgian scene.](https://www.metropolis.be/event/vendredi-jump-tek-hard-dance-old-32/register) <!-- global-event:268 -->
 
 #### 2026
 
-- **January**: [Da Rick officially revives Jumper Records in Belgium with new releases, events and an active catalogue, reconnecting the label that helped name the sound in 1997 with a new global audience.](https://www.jumperrecords.com/) <!-- global-event:255 -->
+- **January**: [Da Rick officially revives Jumper Records in Belgium with new releases, events and an active catalogue, reconnecting the label that helped name the sound in 1997 with a new global audience.](https://www.jumperrecords.com/) <!-- global-event:269 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

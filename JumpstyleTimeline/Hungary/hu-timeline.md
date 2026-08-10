@@ -15,6 +15,6 @@ This national view is synchronized from sourced records in the Global Timeline.
 
 #### 2008
 
-- **July**: [The first Hungarian Jumpstyle meeting is held in Budapest on July 27, with a contemporary video explicitly identifying it as Hungary's inaugural national gathering.](https://youtu.be/iYMwHPlDeWg) <!-- global-event:102 -->
+- **July**: [The first Hungarian Jumpstyle meeting is held in Budapest on July 27, with a contemporary video explicitly identifying it as Hungary's inaugural national gathering.](https://youtu.be/iYMwHPlDeWg) <!-- global-event:106 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

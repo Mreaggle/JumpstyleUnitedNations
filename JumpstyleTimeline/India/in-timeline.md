@@ -15,6 +15,6 @@ This national or territorial view is synchronized from sourced records in the Gl
 
 #### 2024
 
-- **December**: [On December 6, (LA)HORDE and the Ballet National de Marseille present `To Da Bone` at the Kiran Nadar Museum of Art in New Delhi, demonstrating the work's continuing international life seven years after its premiere.](https://archive.knma.in/da-bone) <!-- global-event:245 -->
+- **December**: [On December 6, (LA)HORDE and the Ballet National de Marseille present `To Da Bone` at the Kiran Nadar Museum of Art in New Delhi, demonstrating the work's continuing international life seven years after its premiere.](https://archive.knma.in/da-bone) <!-- global-event:259 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->

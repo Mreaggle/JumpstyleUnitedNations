@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastReviewed": "2026-07-20",
+  "lastReviewed": "2026-08-10",
   "sources": [
     {
       "id": "jumper-records",
@@ -665,6 +665,126 @@
       "countries": ["DE"],
       "status": "verified",
       "url": "https://music.apple.com/ch/album/stamp-on-the-ground/328826869"
+    },
+    {
+      "id": "hardjump-lt-2007-archive",
+      "type": "archived-community-portal",
+      "language": "lt",
+      "countries": ["LT"],
+      "status": "supported",
+      "url": "https://web.archive.org/web/20071011092338/http://hardjump.lt/"
+    },
+    {
+      "id": "hardjump-lt-party-zone-2009",
+      "type": "archived-community-calendar",
+      "language": "lt",
+      "countries": ["LT"],
+      "status": "supported",
+      "url": "https://web.archive.org/web/20090531032444/http://www.hardjump.lt/index.php?option=com_content&view=category&layout=blog&id=48&Itemid=97&lang="
+    },
+    {
+      "id": "kaunas-jump-meet-2009-official-video",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["LT"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=MFl3yviAn3s"
+    },
+    {
+      "id": "kaunas-jump-meet-april-2009-video",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["LT"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=3ufg2AcCzPM"
+    },
+    {
+      "id": "european-jump-masters-2007-partyflock",
+      "type": "contemporary-event-listing",
+      "language": "nl",
+      "countries": ["BE", "FR", "NL"],
+      "status": "supported",
+      "url": "https://partyflock.nl/news_comment%3A392898"
+    },
+    {
+      "id": "european-jump-masters-2008-promo",
+      "type": "organizer-video",
+      "language": "en",
+      "countries": ["BE", "FR", "NL"],
+      "status": "supported",
+      "url": "https://www.dailymotion.com/video/x5utfv"
+    },
+    {
+      "id": "european-jump-masters-2008-france-jumpstyle",
+      "type": "community-video",
+      "language": "fr",
+      "countries": ["BE", "FR"],
+      "status": "supported",
+      "url": "https://www.dailymotion.com/video/x7l1g0"
+    },
+    {
+      "id": "amstetten-jumpstyle-treffen-2008",
+      "type": "contemporary-event-listing",
+      "language": "de",
+      "countries": ["AT"],
+      "status": "supported",
+      "url": "https://www.szene1.at/event/jumpstyle_treffen_jumpstyle_amstetten_amstetten_8-6-2008-eid115333"
+    },
+    {
+      "id": "jumpstylers-first-all-russian-meeting",
+      "type": "community-history",
+      "language": "ru",
+      "countries": ["RU"],
+      "status": "supported",
+      "url": "https://jumpstylers.ru/about-jumpstyle.html"
+    },
+    {
+      "id": "jumpstyle-switzerland-2008-events",
+      "type": "official-community-calendar",
+      "language": "de",
+      "countries": ["CH"],
+      "status": "supported",
+      "url": "https://www.jump-style.ch/jumpstyleswitzerland/Event/Index/2008"
+    },
+    {
+      "id": "jumpsession-bremen-vol6-aftermovie",
+      "type": "organizer-video",
+      "language": "en",
+      "countries": ["DE"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=WDaI-8tSG60"
+    },
+    {
+      "id": "jumpstyle-germany-2010-calendar",
+      "type": "archived-community-calendar",
+      "language": "de",
+      "countries": ["DE"],
+      "status": "supported",
+      "url": "https://web.archive.org/web/20100129093807/http://jumpstyle-germany.eu/index.php?option=com_eventing&task=view&id=375"
+    },
+    {
+      "id": "moscow-style-battles-2010-aftermovie",
+      "type": "organizer-video",
+      "language": "en",
+      "countries": ["RU"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=MMFTRx0Zyxo"
+    },
+    {
+      "id": "fourth-ukrainian-jumpstyle-meeting",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["UA", "RU"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=2ATYQUM--js"
+    },
+    {
+      "id": "we-jump-the-world-varna-2021",
+      "type": "original-video",
+      "language": "en",
+      "countries": ["BG"],
+      "status": "supported",
+      "url": "https://www.youtube.com/watch?v=hOq3T0qz5lU"
     },
     {
       "id": "q-dance-hardstyle-history",

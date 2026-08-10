@@ -214,7 +214,7 @@ Add your Nation's information.
 ---
 
 ### Internet/Patrick Jumpen | Meetings/HardJump Era
-#### 2007 🇳🇱 🇧🇪 🇩🇪 🇵🇱 🇧🇷 : 
+#### 2007 🇳🇱 🇧🇪 🇩🇪 🇵🇱 🇧🇷 🇱🇹 🇫🇷 : 
 - **January 1**:
   - [Goldinferno publishes an early United States Jumpstyle video, documenting how the tutorial-and-solo format had already crossed the Atlantic.](https://knowyourmeme.com/memes/jumpstyle)
 - **March**:
@@ -242,10 +242,14 @@ Add your Nation's information.
   - [Patrick Pereira and Dion Teurlings receive a gold award for the instructional DVD at Eindhoven's Philips Stadium.](https://radiowereld.nl/shownieuws/2007/10/patrick-jumpen-zoekt-figuranten-voor-videoclip/)
 - **During September**:
   - [More than 14,000 people attend Herfstpop in Rijswijk, where Patrick Jumpen opens the festival with a jump contest and Jeckyll & Hyde also perform, showing how deeply the Belgian-born trend had entered Dutch youth culture.](https://3voor12.vpro.nl/lokaal/den-haag/artikelen/overzicht/2007/september/verslag-herfstpop-2007.html)
+- **By October 11**:
+  - [The earliest surviving hardjump.lt snapshot documents a Lithuanian Jumpstyle community portal with dedicated event, forum and gallery sections, establishing organized national infrastructure by this date.](https://web.archive.org/web/20071011092338/http://hardjump.lt/)
 - **November 8**:
   - [Coone releases `The Return (Remixes)` on vinyl in Belgium; the worldwide digital edition follows on November 26.](https://musicbrainz.org/artist/8ec5439a-ff50-4b0f-9e75-fc3e517e75ff/releases)
 - **November 30**:
   - [Scooter releases the album `Jumping All Over the World`, pairing Jumpstyle-oriented music with choreography and giving the style a major international pop vehicle.](https://music.apple.com/us/album/jumping-all-over-the-world/1692324761)
+- **December 7**:
+  - [The first European Jump Masters is held at Sotto's in Zottegem, Belgium; the organizer's following-edition film confirms that jumpers from Belgium, France and the Netherlands took part.](https://partyflock.nl/news_comment%3A392898) [The retrospective organizer film preserves the cross-border participation record.](https://www.dailymotion.com/video/x5utfv)
 - **During 2007**:
   - [Jeckyll & Hyde's "Freefall" becomes the only Jumpstyle track to reach number one in the Dutch Top 40; Patrick Jumpen's "Holiday" peaks at number five.](https://www.top40.nl/nieuws-nieuws-back-to-the-zeros-wat-was-hot)
   - [The compilation `Jumping Is Not a Crime 2007, Vol. 1` turns the community slogan into a commercial series and collects music by DJ Pat B, Coone, Binum, Jeckyll & Hyde and other scene artists.](https://www.muziekweb.nl/Link/JK139940/Jumping-is-not-a-crime-2007-vol-1)
@@ -254,7 +258,7 @@ Add your Nation's information.
 ---
 
 ### Internet/Competitive | Random Terminology Era
-#### 2008 🇧🇷 🇷🇺 🇵🇱 🌎 : 
+#### 2008 🇧🇷 🇷🇺 🇵🇱 🇦🇹 🇨🇭 🇧🇪 🇫🇷 🌎 : 
 - **January**:
   - Anaobr, Tibirius, Viitiinho, Natin, Iolando and Grilox are names that emerge between this year and the next. Teams like Xtreme - Phodonikus and Drop Jumperz emerge.
 - **February**:
@@ -271,6 +275,10 @@ Add your Nation's information.
   - [On May 17, Scooter's `Jumping All Over the World` reaches number one on the United Kingdom's Official Albums Chart. It spends seven weeks in the top ten and 21 weeks in the top 100, marking Jumpstyle's clearest album-chart crossover outside continental Europe.](https://www.officialcharts.com/albums/scooter-jumping-all-over-the-world/)
 - **June**:
   - Techniques are well-established and keep evolving every second, Germany, Poland and Russia start to develop their own techniques. People are now dancing to Hardstyle as Jumpstyle is slower than their needs to evolve in speed technique.
+- **June 8**:
+  - [A contemporary event listing records a `Jumpstyle treffen` at Amstetten's Hauptplatz in Austria, scheduled from 13:00 with a community video planned.](https://www.szene1.at/event/jumpstyle_treffen_jumpstyle_amstetten_amstetten_8-6-2008-eid115333)
+- **June 30**:
+  - [Jumpstylers.ru's community history records the first all-Russian Jumpstyle meeting in Saint Petersburg, distinguishing the nationwide gathering from the earlier local meeting documented in February.](https://jumpstylers.ru/about-jumpstyle.html)
 - **July**:
   - Forums and Communities are built among online social networks from all countries, where content and information is centered.
   - [Jumpsession Bremen Vol. 4 gathers 287 jumpers on July 5, while contemporary German coverage also records a Rotterdam meeting with more than 700 participants.](https://www.jetzt.de/redaktionsblog/was-bloede-leute-gut-finden-jumpstyle-eine-tanzbewegung-aus-belgien-448306)
@@ -285,6 +293,10 @@ Add your Nation's information.
   - Globalwide meetings happen every week.
 - **November**:
   - [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html)
+- **November 1**:
+  - [Jumpstyle Switzerland's official archive records the first Swiss Jumpstyle Meeting at Globus and the Museum für Gestaltung in Zürich, beginning at 14:00.](https://www.jump-style.ch/jumpstyleswitzerland/Event/Index/2008)
+- **November 22**:
+  - [France Jumpstyle's event film documents the second European Jump Masters at Sotto's in Zottegem, preserving another organized link between the French and Belgian scenes.](https://www.dailymotion.com/video/x7l1g0)
 - **December**:
   - [A major Krakow meeting gathers jumpers from across Poland; footage preserves the scale of the Polish scene as Ownstyle and competitive formats take shape.](https://youtu.be/5EAadhCfrLs?si=gNh-_UamFItl2jkB)
   - [The preview for the First Russian Jumpstyle League is uploaded on December 10, documenting that the national online competition was already underway before the end of 2008.](https://www.youtube.com/watch?v=bEzrZSwCEnM)
@@ -296,7 +308,7 @@ Add your Nation's information.
 ---
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
-#### 2009 🇷🇺 🇵🇱 🇧🇷 🇩🇪 🌎 : 
+#### 2009 🇷🇺 🇵🇱 🇧🇷 🇩🇪 🇱🇹 🌎 : 
 - **January**:
   - [The Russian Jumpstyle league is in full swing through the Jumpstylers.ru forum, most of the leagues are virtual, where jumpers submit their videos on YouTube to be judged. Samurai is one of the big names along with Yarche, DSJumper and LonelyHawk.](https://web.archive.org/web/20090210025827/http://jumpstylers.ru/)
   - [An archived February 2009 snapshot of Jumpstylers.ru preserves the First Russian Jumpstyle League brackets, previews and battle links, including freestyle semifinals and a separate new-jumpers division.](https://web.archive.org/web/20090210025827/http://jumpstylers.ru/)
@@ -309,10 +321,18 @@ Add your Nation's information.
   - A video collection is made with several countries.
   - [A surviving film records the large Polish national gathering remembered by the community review as receiving RMF MAXXX support.](https://www.youtube.com/watch?v=3SUriHS1L5Y)
   - [The sixth Berlin Jumpstyle meeting gathers roughly 200 young dancers from cities across Germany on March 28, combining a mass jump with a crew competition at the central station and Lustgarten.](https://taz.de/Die-wollen-nur-spielen/%21689502/)
+- **March 7**:
+  - [Jumpsession Bremen Vol. 6 takes place at the Bremer Dom, followed by the X-Flowsion Part IV afterparty; the official aftermovie was published on March 20.](https://www.youtube.com/watch?v=WDaI-8tSG60)
 - **April**:
   - [The shoe brand Olympikus invests in a sneaker model aimed at Jumpstyle, organizing the largest national Jumpstyle meeting in Brazil through Orkut together with the Jumpstyle Brasil community.](https://www.youtube.com/watch?v=B4FP-ACzWks)
+- **April 18–19**:
+  - [Hardjump.lt announces a Kaunas Jump Meeting at Dainų slėnis for April 18, while its later official-video post identifies the gathering as April 19; the surviving Lithuanian sources therefore leave the exact day unresolved.](https://web.archive.org/web/20090531032444/http://www.hardjump.lt/index.php?option=com_content&view=category&layout=blog&id=48&Itemid=97&lang=) [The official film preserves the meeting itself.](https://www.youtube.com/watch?v=3ufg2AcCzPM)
 - **May**:
   - [The most famous virtual meeting of all time is held in Berlin.](https://www.youtube.com/watch?v=iWRolPgp9JY)
+- **May 23**:
+  - [Hardjump.lt records `Jump Meet Kaunas #2` at the Merkurijus fountain on Laisvės alėja from 13:00 to 19:00 as part of Kauno Dienos.](https://web.archive.org/web/20090531032444/http://www.hardjump.lt/index.php?option=com_content&view=category&layout=blog&id=48&Itemid=97&lang=) [Its official film was published the following day, May 24.](https://www.youtube.com/watch?v=MFl3yviAn3s)
+- **May 29**:
+  - [Hardjump.lt documents the Šilutė HardStyle meet at the city's Culture and Entertainment Centre from 15:30, organized by GiWeR and JumP3r.](https://web.archive.org/web/20090531100638/http://www.hardjump.lt/index.php?option=com_content&view=article&id=264%3Asilutes-hardstyle-meet&catid=48%3Aparty-zone&Itemid=97&lang=)
 - **June**:
   - [Atomic Destination Team founded in 2009 (ADT) participates in Poland's Got Talent program.](https://www.youtube.com/watch?v=B4FP-ACzWks)
 - **July**:
@@ -340,12 +360,14 @@ Add your Nation's information.
 
 ---
 
-#### 2010 🇷🇺 🇵🇱 🇧🇷 🌎 : 
+#### 2010 🇷🇺 🇵🇱 🇧🇷 🇩🇪 🌎 : 
 - **January**:
   - From 2010 onwards, Russia and Poland emerged as the biggest powers in Jumpstyle, definitively tracing its destiny and evolution. The leagues became increasingly international and more serious and consequently the rivalries too. Here the competitiveness evolved the jumpstyle in the repertoire of tricks (maneuvers) to be performed and each one developed their own style following the bases.
   - [The Ukrainian Jumpstyle League reaches its Freestyle semifinals in January, documenting a national competitive structure linked to jumpstyle.com.ua.](https://youtu.be/smzlm1_koIQ)
 - **January 14**:
   - [JumpLycan publishes `Hard Jump Is Lifestyle`, a seven-minute Hardjump compilation credited to The Big Jumpaz (TBJ).](https://www.youtube.com/watch?v=J3vQS_kBNeQ) [A contemporary German scene post identifies the duo as two jumpers from Mittweida](https://sven-l.blogspot.com/2009/09/show-weekend.html); no filming date survives, so the YouTube upload date is used.
+- **January–May**:
+  - [An archived Jumpstyle Germany calendar documents nine regional meetings across Burghausen, Osnabrück, Bochum, Cologne, Erfurt, Bielefeld, Essen, Wilhelmshaven and Cottbus, showing the density of Germany's organized meeting network in early 2010.](https://web.archive.org/web/20100129093807/http://jumpstyle-germany.eu/index.php?option=com_eventing&task=view&id=375)
 - **February**:
   - Standout years for jumpers like Scot, Badsz (now Russian Village Boys), S1dej and Jagr
 - **March**:
@@ -360,6 +382,8 @@ Add your Nation's information.
   - The [2025 community review](global-review.md) records Spiady founding HardSexionAddicted (HSA) around February–March and the team's rivalry with Jumperz Evolution.
 - **May 21**:
   - [Dance Generation USA publishes Binda's solo film `Illusion!`, preserving another early record of the Connecticut jumper and the American Hardjump scene; the upload date is used because no filming date is stated.](https://youtu.be/wGpCu410u2A)
+- **October 10**:
+  - [The official aftermovie for the Moscow Style Battles Jumpstyle meeting is published; its description thanks the people who attended, but no separate event date survives, so the upload date is used.](https://www.youtube.com/watch?v=MMFTRx0Zyxo)
 - **October 23**:
   - [Jumpers from Kyiv and Donetsk meet in Donetsk, creating a documented intercity Ukrainian gathering.](https://youtu.be/CSQ9-UjSQG4)
 - **December 8**:
@@ -420,10 +444,12 @@ Add your Nation's information.
 ---
 
 ## Internet/Competitive | Facebook/Jumpstyle-only Era
-#### 2013 🇧🇷 🌎 : 
+#### 2013 🇧🇷 🇺🇦 🇷🇺 🌎 : 
 - **January**:
   - Dang3r wins the 6th edition of JSB against Cursebird.
   - [Chile's "First Summer Meet Up" is preserved by a video published on January 8; because no separate event date is stated, the upload date is used.](https://youtu.be/3MT35IfrKGs)
+- **January 17**:
+  - [The fourth Ukrainian Jumpstyle Meeting aftermovie brings together Ukrainian and Russian jumpers; because no separate event date survives, the publication date is used.](https://www.youtube.com/watch?v=2ATYQUM--js)
 - **February**:
   - Jumpstyle becomes a niche competitive dance formed by a league-driven Global Community.
 - **February 24**:
@@ -539,9 +565,11 @@ Add your Nation's information.
 
 ---
 
-#### 2021 🇧🇷 🌎 : 
+#### 2021 🇧🇷 🇧🇬 🌎 : 
 - **January**:
   - Cursebird still participates in international leagues, establishing Brazil's presence on the scene.
+- **May 21**:
+  - [Jumpers in Varna, Bulgaria, take part in the 2021 `We Jump the World` day; because no separate recording date survives, the publication date is used.](https://www.youtube.com/watch?v=hOq3T0qz5lU)
 - **October 2**:
   - [Flashback Festival resumes in Belgium after its 2020 interruption, continuing its official Jump and harder-styles programme.](https://www.bassevents.be/tags/flashback-festival)
 

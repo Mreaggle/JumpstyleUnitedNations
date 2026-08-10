@@ -1239,51 +1239,52 @@
 - **July 17**: [Distributor House of Knowledge reports shipping 40,000 copies of Patrick Jumpen's instructional DVD `Jumpen Doe Je Zo!`.](https://www.entertainmentbusiness.nl/muziek/house-of-knowledge-levert-40-000-jump-dvds-uit/) <!-- global-event:081 -->
 - **Late August**: [Patrick Pereira and Dion Teurlings receive a gold award for the instructional DVD at Eindhoven's Philips Stadium.](https://radiowereld.nl/shownieuws/2007/10/patrick-jumpen-zoekt-figuranten-voor-videoclip/) <!-- global-event:082 -->
 - **During September**: [More than 14,000 people attend Herfstpop in Rijswijk, where Patrick Jumpen opens the festival with a jump contest and Jeckyll & Hyde also perform, showing how deeply the Belgian-born trend had entered Dutch youth culture.](https://3voor12.vpro.nl/lokaal/den-haag/artikelen/overzicht/2007/september/verslag-herfstpop-2007.html) <!-- global-event:083 -->
-- **During 2007**: [Jeckyll & Hyde's "Freefall" becomes the only Jumpstyle track to reach number one in the Dutch Top 40; Patrick Jumpen's "Holiday" peaks at number five.](https://www.top40.nl/nieuws-nieuws-back-to-the-zeros-wat-was-hot) <!-- global-event:086 -->
-- **During 2007**: [The compilation `Jumping Is Not a Crime 2007, Vol. 1` turns the community slogan into a commercial series and collects music by DJ Pat B, Coone, Binum, Jeckyll & Hyde and other scene artists.](https://www.muziekweb.nl/Link/JK139940/Jumping-is-not-a-crime-2007-vol-1) <!-- global-event:087 -->
-- **During 2007**: The [2025 community review](global-review.md) records Jelle beginning to watch and practise, Styl3dd emerging online and Fantom starting in Poland during the summer; it also preserves the group name "Jumping on hs is a crime", TMF's `NK Jumpen` championship programme and Patje the Legend's association with the `Hopping` move. <!-- global-event:088 -->
+- **December 7**: [The first European Jump Masters is held at Sotto's in Zottegem, Belgium; the organizer's following-edition film confirms that jumpers from Belgium, France and the Netherlands took part.](https://partyflock.nl/news_comment%3A392898) [The retrospective organizer film preserves the cross-border participation record.](https://www.dailymotion.com/video/x5utfv) <!-- global-event:087 -->
+- **During 2007**: [Jeckyll & Hyde's "Freefall" becomes the only Jumpstyle track to reach number one in the Dutch Top 40; Patrick Jumpen's "Holiday" peaks at number five.](https://www.top40.nl/nieuws-nieuws-back-to-the-zeros-wat-was-hot) <!-- global-event:088 -->
+- **During 2007**: [The compilation `Jumping Is Not a Crime 2007, Vol. 1` turns the community slogan into a commercial series and collects music by DJ Pat B, Coone, Binum, Jeckyll & Hyde and other scene artists.](https://www.muziekweb.nl/Link/JK139940/Jumping-is-not-a-crime-2007-vol-1) <!-- global-event:089 -->
+- **During 2007**: The [2025 community review](global-review.md) records Jelle beginning to watch and practise, Styl3dd emerging online and Fantom starting in Poland during the summer; it also preserves the group name "Jumping on hs is a crime", TMF's `NK Jumpen` championship programme and Patje the Legend's association with the `Hopping` move. <!-- global-event:090 -->
 
 ### Internet/Competitive | Random Terminology Era
 
 #### 2008
 
-- **July**: [Jumpsession Bremen Vol. 4 gathers 287 jumpers on July 5, while contemporary German coverage also records a Rotterdam meeting with more than 700 participants.](https://www.jetzt.de/redaktionsblog/was-bloede-leute-gut-finden-jumpstyle-eine-tanzbewegung-aus-belgien-448306) <!-- global-event:100 -->
-- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:107 -->
-- **During 2008**: The [2025 community review](global-review.md) records Jelle beginning to publish videos and names DannieL, Samurai, Rumun, Yarche, Cebul, Gigi, Styl3dd and Brik among the period's visible figures. <!-- global-event:110 -->
+- **July**: [Jumpsession Bremen Vol. 4 gathers 287 jumpers on July 5, while contemporary German coverage also records a Rotterdam meeting with more than 700 participants.](https://www.jetzt.de/redaktionsblog/was-bloede-leute-gut-finden-jumpstyle-eine-tanzbewegung-aus-belgien-448306) <!-- global-event:104 -->
+- **November**: [France's Electro/Tecktonik movement is documented mixing Belgian Jumpstyle and Dutch Hardstyle with minimal electro and Tekhouse, illustrating the cross-border exchange between the French and Benelux club scenes.](https://www.lemonde.fr/vous/article/2008/01/08/les-agites-de-la-tecktonik_997006_3238.html) <!-- global-event:111 -->
+- **During 2008**: The [2025 community review](global-review.md) records Jelle beginning to publish videos and names DannieL, Samurai, Rumun, Yarche, Cebul, Gigi, Styl3dd and Brik among the period's visible figures. <!-- global-event:116 -->
 
 ### Internet/Competitive | Polish Ownstyle/Russian Sidejump
 
 #### 2009
 
-- **January**: [The Back In Time meeting is held in Eindhoven on January 25; the surviving video description records the date and the EHV location.](https://youtu.be/7z_wJQj0cZg) <!-- global-event:115 -->
-- **August**: [Eindhoven hosts a Jump Meeting on August 22; although the original video is now private, its title, date and embed record survive in the Jumpstylers.ru event archive.](https://jumpstylers.ru/forum/23-Event-Movies/642-jumpmeeting-eindhoven-22-08-2009-holland.html) <!-- global-event:129 -->
-- **During 2009**: The [2025 community review](global-review.md) records Snak'e joining Hardzone, Jumperz Evolution merging with Hard Zone, Dutch-style influence reaching German and Spanish dancers through JumperKelvin, and a period of intense Russian-Ukrainian experimentation. <!-- global-event:136 -->
+- **January**: [The Back In Time meeting is held in Eindhoven on January 25; the surviving video description records the date and the EHV location.](https://youtu.be/7z_wJQj0cZg) <!-- global-event:121 -->
+- **August**: [Eindhoven hosts a Jump Meeting on August 22; although the original video is now private, its title, date and embed record survive in the Jumpstylers.ru event archive.](https://jumpstylers.ru/forum/23-Event-Movies/642-jumpmeeting-eindhoven-22-08-2009-holland.html) <!-- global-event:139 -->
+- **During 2009**: The [2025 community review](global-review.md) records Snak'e joining Hardzone, Jumperz Evolution merging with Hard Zone, Dutch-style influence reaching German and Spanish dancers through JumperKelvin, and a period of intense Russian-Ukrainian experimentation. <!-- global-event:146 -->
 
 #### 2011
 
-- **February**: These were outstanding years for jumpers who would influence an entire generation, Kamill, Effect, Kadze and Xardas. Patrick Jumpen admires Polish Jumping and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:156 -->
-- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:165 -->
+- **February**: These were outstanding years for jumpers who would influence an entire generation, Kamill, Effect, Kadze and Xardas. Patrick Jumpen admires Polish Jumping and travels to Poznan with Dion Teurlings for a national meeting. <!-- global-event:168 -->
+- **During 2011**: The [2025 community review](global-review.md) records Rooler competing in Italy, Wiewior/Kamilkadze leading a Czech league, Cost winning a Russian New Generation division, Shkap organizing in Ukraine, PowerJumper active with 2f2j and Luksy attending his first Kraków meeting. <!-- global-event:177 -->
 
 #### 2012
 
-- **January**: [Patrick Jumpen admires Polish Jump and travels to Poznan with Dion Teurlings for a national meeting.](https://youtu.be/4OLRJ27VU4g) <!-- global-event:167 -->
-- **April**: [Dion Teurlings' film preserves Patrick Jumpen and Dion at the Poznań meeting.](https://youtu.be/4OLRJ27VU4g) <!-- global-event:173 -->
+- **January**: [Patrick Jumpen admires Polish Jump and travels to Poznan with Dion Teurlings for a national meeting.](https://youtu.be/4OLRJ27VU4g) <!-- global-event:179 -->
+- **April**: [Dion Teurlings' film preserves Patrick Jumpen and Dion at the Poznań meeting.](https://youtu.be/4OLRJ27VU4g) <!-- global-event:185 -->
 
 ### Internet/Competitive | Instagram/Global Projects Era
 
 #### 2016
 
-- **During 2016**: The [2025 community review](global-review.md) records Jelle's visibility through the Jumpers Versus Project in the Netherlands and Smaill's Ukrainian `golden year` videos, some of which were later deleted. <!-- global-event:201 -->
+- **During 2016**: The [2025 community review](global-review.md) records Jelle's visibility through the Jumpers Versus Project in the Netherlands and Smaill's Ukrainian `golden year` videos, some of which were later deleted. <!-- global-event:214 -->
 
 #### 2018
 
-- **July 14**: ["To Da Bone" reaches Amsterdam's Julidans festival during an international tour that also takes the European Jumpstyle cast to Portugal, Canada and other stages.](https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde) <!-- global-event:209 -->
+- **July 14**: ["To Da Bone" reaches Amsterdam's Julidans festival during an international tour that also takes the European Jumpstyle cast to Portugal, Canada and other stages.](https://www.institutfrancais.com/fr/magazine/spectacle-vivant-musique/da-bone-lahorde) <!-- global-event:222 -->
 
 ### Internet/Competitive | Internet/Music | Jumpstyle Peace Era
 
 #### 2024
 
-- **November 21**: [Geck-o and Cut Sphere release "That Boogie", preserving a contemporary Dutch connection to the harder, retro-informed dance sound.](https://hardstyle.com/en/tracks/749790a0-a0ea-4e66-8b62-388772c4b116/that-boogie) <!-- global-event:242 -->
-- **During November**: The community review records the JumpstyleAI project being announced, renewed debate over competitive culture and community health, and Jelle leaving the JUN discussion group. <!-- global-event:243 -->
+- **November 21**: [Geck-o and Cut Sphere release "That Boogie", preserving a contemporary Dutch connection to the harder, retro-informed dance sound.](https://hardstyle.com/en/tracks/749790a0-a0ea-4e66-8b62-388772c4b116/that-boogie) <!-- global-event:256 -->
+- **During November**: The community review records the JumpstyleAI project being announced, renewed debate over competitive culture and community health, and Jelle leaving the JUN discussion group. <!-- global-event:257 -->
 
 <!-- JUN:GLOBAL-SYNC:END -->
